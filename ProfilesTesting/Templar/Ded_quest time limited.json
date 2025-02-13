@@ -23324,8 +23324,11 @@
     ]
   },
   "ChaosRecipesSettings": {
-    "Enabled": false,
+    "Enabled": true,
     "TabNames": [
+      {
+        "Value": "3"
+      },
       {
         "Value": "4"
       }
@@ -30183,7 +30186,7 @@
     "Incubators": []
   },
   "LatencyHandlerSettings": {
-    "Enabled": true,
+    "Enabled": false,
     "DelayLogin": true,
     "StopBot": false,
     "RequestNewInstance": false,
