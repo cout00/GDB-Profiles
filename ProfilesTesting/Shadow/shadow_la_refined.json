@@ -12562,7 +12562,7 @@
             "IsSharedLink": true,
             "PlayerLevel": {
               "Min": 0,
-              "Max": 100
+              "Max": 24
             },
             "SkillGems": [
               {
