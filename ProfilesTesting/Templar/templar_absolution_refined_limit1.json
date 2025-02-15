@@ -8900,6 +8900,62 @@
         "MaxTime": 15,
         "MaxDeaths": 5,
         "ExplorationPct": 90
+      },
+      {
+        "Enabled": true,
+        "Act": 3,
+        "AreaName": "The Upper Sceptre of God",
+        "MaxTime": 15,
+        "MaxDeaths": 35,
+        "ExplorationPct": 90
+      },
+      {
+        "Enabled": true,
+        "Act": 9,
+        "AreaName": "The Refinery",
+        "MaxTime": 15,
+        "MaxDeaths": 35,
+        "ExplorationPct": 90
+      },
+      {
+        "Enabled": true,
+        "Act": 9,
+        "AreaName": "The Boiling Lake",
+        "MaxTime": 15,
+        "MaxDeaths": 35,
+        "ExplorationPct": 90
+      },
+      {
+        "Enabled": true,
+        "Act": 9,
+        "AreaName": "The Oasis",
+        "MaxTime": 15,
+        "MaxDeaths": 35,
+        "ExplorationPct": 90
+      },
+      {
+        "Enabled": true,
+        "Act": 2,
+        "AreaName": "The Ancient Pyramid",
+        "MaxTime": 15,
+        "MaxDeaths": 35,
+        "ExplorationPct": 90
+      },
+      {
+        "Enabled": true,
+        "Act": 2,
+        "AreaName": "The Weaver's Chambers",
+        "MaxTime": 15,
+        "MaxDeaths": 35,
+        "ExplorationPct": 90
+      },
+      {
+        "Enabled": true,
+        "Act": 4,
+        "AreaName": "Kaom's Stronghold",
+        "MaxTime": 15,
+        "MaxDeaths": 35,
+        "ExplorationPct": 90
       }
     ],
     "QuestsRewardsSettings": {
