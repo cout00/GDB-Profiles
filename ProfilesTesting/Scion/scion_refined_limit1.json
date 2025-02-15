@@ -8318,9 +8318,65 @@
     "AreasSettings": [
       {
         "Enabled": true,
+        "Act": 9,
+        "AreaName": "The Rotting Core",
+        "MaxTime": 35,
+        "MaxDeaths": 35,
+        "ExplorationPct": 90
+      },
+      {
+        "Enabled": true,
+        "Act": 1,
+        "AreaName": "The Flooded Depths",
+        "MaxTime": 15,
+        "MaxDeaths": 35,
+        "ExplorationPct": 90
+      },
+      {
+        "Enabled": true,
+        "Act": 1,
+        "AreaName": "The Upper Prison",
+        "MaxTime": 15,
+        "MaxDeaths": 35,
+        "ExplorationPct": 90
+      },
+      {
+        "Enabled": true,
+        "Act": 1,
+        "AreaName": "The Tidal Island",
+        "MaxTime": 15,
+        "MaxDeaths": 5,
+        "ExplorationPct": 90
+      },
+      {
+        "Enabled": true,
         "Act": 1,
         "AreaName": "The Cavern of Anger",
         "MaxTime": 15,
+        "MaxDeaths": 35,
+        "ExplorationPct": 90
+      },
+      {
+        "Enabled": true,
+        "Act": 2,
+        "AreaName": "The Weaver's Chambers",
+        "MaxTime": 15,
+        "MaxDeaths": 10,
+        "ExplorationPct": 90
+      },
+      {
+        "Enabled": true,
+        "Act": 2,
+        "AreaName": "The Ancient Pyramid",
+        "MaxTime": 15,
+        "MaxDeaths": 35,
+        "ExplorationPct": 90
+      },
+      {
+        "Enabled": true,
+        "Act": 3,
+        "AreaName": "The Solaris Temple Level 2",
+        "MaxTime": 25,
         "MaxDeaths": 35,
         "ExplorationPct": 90
       },
@@ -8335,7 +8391,31 @@
       {
         "Enabled": true,
         "Act": 3,
-        "AreaName": "The Solaris Temple Level 2",
+        "AreaName": "The Upper Sceptre of God",
+        "MaxTime": 25,
+        "MaxDeaths": 35,
+        "ExplorationPct": 90
+      },
+      {
+        "Enabled": true,
+        "Act": 4,
+        "AreaName": "The Dried Lake",
+        "MaxTime": 25,
+        "MaxDeaths": 35,
+        "ExplorationPct": 90
+      },
+      {
+        "Enabled": true,
+        "Act": 4,
+        "AreaName": "The Grand Arena",
+        "MaxTime": 25,
+        "MaxDeaths": 35,
+        "ExplorationPct": 90
+      },
+      {
+        "Enabled": true,
+        "Act": 4,
+        "AreaName": "Kaom's Stronghold",
         "MaxTime": 25,
         "MaxDeaths": 35,
         "ExplorationPct": 90
@@ -8344,7 +8424,7 @@
         "Enabled": true,
         "Act": 4,
         "AreaName": "The Belly of the Beast Level 2",
-        "MaxTime": 35,
+        "MaxTime": 25,
         "MaxDeaths": 35,
         "ExplorationPct": 90
       },
@@ -8383,6 +8463,30 @@
       {
         "Enabled": true,
         "Act": 6,
+        "AreaName": "Shavronne's Tower",
+        "MaxTime": 25,
+        "MaxDeaths": 35,
+        "ExplorationPct": 90
+      },
+      {
+        "Enabled": true,
+        "Act": 6,
+        "AreaName": "Prisoner's Gate",
+        "MaxTime": 25,
+        "MaxDeaths": 35,
+        "ExplorationPct": 90
+      },
+      {
+        "Enabled": true,
+        "Act": 6,
+        "AreaName": "The Wetlands",
+        "MaxTime": 25,
+        "MaxDeaths": 35,
+        "ExplorationPct": 90
+      },
+      {
+        "Enabled": true,
+        "Act": 6,
         "AreaName": "The Beacon",
         "MaxTime": 25,
         "MaxDeaths": 35,
@@ -8399,7 +8503,7 @@
       {
         "Enabled": true,
         "Act": 7,
-        "AreaName": "The Temple of Decay Level 2",
+        "AreaName": "The Dread Thicket",
         "MaxTime": 25,
         "MaxDeaths": 35,
         "ExplorationPct": 90
@@ -8407,7 +8511,15 @@
       {
         "Enabled": true,
         "Act": 7,
-        "AreaName": "The Dread Thicket",
+        "AreaName": "Maligaro's Sanctum",
+        "MaxTime": 25,
+        "MaxDeaths": 35,
+        "ExplorationPct": 90
+      },
+      {
+        "Enabled": true,
+        "Act": 7,
+        "AreaName": "The Ashen Fields",
         "MaxTime": 25,
         "MaxDeaths": 35,
         "ExplorationPct": 90
@@ -8417,6 +8529,22 @@
         "Act": 7,
         "AreaName": "The Temple of Decay Level 1",
         "MaxTime": 25,
+        "MaxDeaths": 35,
+        "ExplorationPct": 90
+      },
+      {
+        "Enabled": true,
+        "Act": 7,
+        "AreaName": "The Temple of Decay Level 2",
+        "MaxTime": 25,
+        "MaxDeaths": 35,
+        "ExplorationPct": 90
+      },
+      {
+        "Enabled": true,
+        "Act": 8,
+        "AreaName": "Doedre's Cesspool",
+        "MaxTime": 15,
         "MaxDeaths": 35,
         "ExplorationPct": 90
       },
@@ -8439,15 +8567,15 @@
       {
         "Enabled": true,
         "Act": 8,
-        "AreaName": "The High Gardens",
-        "MaxTime": 35,
+        "AreaName": "The Harbour Bridge",
+        "MaxTime": 15,
         "MaxDeaths": 35,
         "ExplorationPct": 90
       },
       {
         "Enabled": true,
         "Act": 8,
-        "AreaName": "The Harbour Bridge",
+        "AreaName": "The High Gardens",
         "MaxTime": 35,
         "MaxDeaths": 35,
         "ExplorationPct": 90
@@ -8463,8 +8591,32 @@
       {
         "Enabled": true,
         "Act": 9,
-        "AreaName": "The Rotting Core",
+        "AreaName": "The Quarry",
         "MaxTime": 35,
+        "MaxDeaths": 35,
+        "ExplorationPct": 90
+      },
+      {
+        "Enabled": true,
+        "Act": 9,
+        "AreaName": "The Refinery",
+        "MaxTime": 35,
+        "MaxDeaths": 35,
+        "ExplorationPct": 90
+      },
+      {
+        "Enabled": true,
+        "Act": 10,
+        "AreaName": "The Torched Courts",
+        "MaxTime": 25,
+        "MaxDeaths": 35,
+        "ExplorationPct": 90
+      },
+      {
+        "Enabled": true,
+        "Act": 10,
+        "AreaName": "The Desecrated Chambers",
+        "MaxTime": 25,
         "MaxDeaths": 35,
         "ExplorationPct": 90
       },
