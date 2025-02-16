@@ -7737,10 +7737,13 @@
     ]
   },
   "ChaosRecipesSettings": {
-    "Enabled": false,
+    "Enabled": true,
     "TabNames": [
       {
-        "Value": "4"
+        "Value": "3"
+      },
+      {
+        "Value": "2"
       }
     ],
     "MinLevel": 60,
@@ -8770,14 +8773,6 @@
         "Act": 2,
         "AreaName": "The Ancient Pyramid",
         "MaxTime": 15,
-        "MaxDeaths": 35,
-        "ExplorationPct": 90
-      },
-      {
-        "Enabled": true,
-        "Act": 3,
-        "AreaName": "The Solaris Temple Level 2",
-        "MaxTime": 25,
         "MaxDeaths": 35,
         "ExplorationPct": 90
       },
@@ -15410,7 +15405,7 @@
     "Incubators": []
   },
   "LatencyHandlerSettings": {
-    "Enabled": true,
+    "Enabled": false,
     "DelayLogin": true,
     "StopBot": false,
     "RequestNewInstance": false,
