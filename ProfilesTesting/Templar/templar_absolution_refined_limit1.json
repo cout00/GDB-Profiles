@@ -7737,10 +7737,13 @@
     ]
   },
   "ChaosRecipesSettings": {
-    "Enabled": false,
+    "Enabled": true,
     "TabNames": [
       {
-        "Value": "4"
+        "Value": "3"
+      },
+      {
+        "Value": "2"
       }
     ],
     "MinLevel": 60,
@@ -8722,7 +8725,7 @@
         "Act": 9,
         "AreaName": "The Rotting Core",
         "MaxTime": 35,
-        "MaxDeaths": 35,
+        "MaxDeaths": 50,
         "ExplorationPct": 90
       },
       {
@@ -8770,14 +8773,6 @@
         "Act": 2,
         "AreaName": "The Ancient Pyramid",
         "MaxTime": 15,
-        "MaxDeaths": 35,
-        "ExplorationPct": 90
-      },
-      {
-        "Enabled": true,
-        "Act": 3,
-        "AreaName": "The Solaris Temple Level 2",
-        "MaxTime": 25,
         "MaxDeaths": 35,
         "ExplorationPct": 90
       },
@@ -9028,6 +9023,14 @@
         "MaxTime": 25,
         "MaxDeaths": 35,
         "ExplorationPct": 90
+      },
+      {
+        "Enabled": true,
+        "Act": 10,
+        "AreaName": "The Control Blocks",
+        "MaxTime": 15,
+        "MaxDeaths": 35,
+        "ExplorationPct": 90
       }
     ],
     "QuestsRewardsSettings": {
@@ -9190,7 +9193,7 @@
           "Enabled": true,
           "Optional": false,
           "Name": "The Eternal Nightmare",
-          "Reward1": "Unleash Support",
+          "Reward1": "Random",
           "Reward2": ""
         },
         {
@@ -9218,7 +9221,7 @@
           "Enabled": true,
           "Optional": false,
           "Name": "Death to Purity",
-          "Reward1": "Crimson Jewel",
+          "Reward1": "Random",
           "Reward2": ""
         },
         {
@@ -9295,7 +9298,7 @@
           "Enabled": true,
           "Optional": true,
           "Name": "In Memory of Greust",
-          "Reward1": "Agate Amulet",
+          "Reward1": "Onyx Amulet",
           "Reward2": ""
         },
         {
@@ -13806,7 +13809,7 @@
             0,
             0
           ],
-          "Weight": 220
+          "Weight": 230
         },
         {
           "Colors": [
@@ -13817,7 +13820,7 @@
             0,
             0
           ],
-          "Weight": 200
+          "Weight": 250
         },
         {
           "Colors": [
@@ -13933,7 +13936,7 @@
             0,
             0
           ],
-          "Weight": 220
+          "Weight": 230
         },
         {
           "Colors": [
@@ -13944,7 +13947,7 @@
             0,
             0
           ],
-          "Weight": 200
+          "Weight": 250
         },
         {
           "Colors": [
@@ -15410,7 +15413,7 @@
     "Incubators": []
   },
   "LatencyHandlerSettings": {
-    "Enabled": true,
+    "Enabled": false,
     "DelayLogin": true,
     "StopBot": false,
     "RequestNewInstance": false,
