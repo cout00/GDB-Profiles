@@ -5007,6 +5007,104 @@
             "IsMirrored": {
               "Comparsion": 0
             }
+          },
+          {
+            "Enabled": true,
+            "Name": [],
+            "Metadata": [],
+            "IconPath": [],
+            "BaseItemType": "Orb of Alteration",
+            "ItemClass": "",
+            "Rarity": {
+              "Comparsion": 1,
+              "Value": 0
+            },
+            "Sockets": {
+              "R": 0,
+              "G": 0,
+              "B": 0,
+              "W": 0,
+              "Total": {
+                "Min": 0,
+                "Max": 0
+              }
+            },
+            "Links": {
+              "R": 0,
+              "G": 0,
+              "B": 0,
+              "W": 0,
+              "Total": {
+                "Min": 0,
+                "Max": 0
+              }
+            },
+            "ItemLevel": {
+              "Min": 0,
+              "Max": 0
+            },
+            "RequiredLevel": {
+              "Min": 0,
+              "Max": 0
+            },
+            "PlayerLevel": {
+              "Min": 20,
+              "Max": 100
+            },
+            "Quality": {
+              "Comparsion": 1,
+              "Value": 0
+            },
+            "Stats": [],
+            "Weapon": {
+              "Damage": {
+                "Min": 0,
+                "Max": 0
+              },
+              "AttackSpeed": {
+                "Min": 0.0,
+                "Max": 0.0
+              },
+              "PhysicalDPS": {
+                "Min": 0,
+                "Max": 0
+              },
+              "ElementalDPS": {
+                "Min": 0,
+                "Max": 0
+              },
+              "DPS": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Critical": {
+                "Min": 0.0,
+                "Max": 0.0
+              }
+            },
+            "Armour": {
+              "Armour": {
+                "Min": 0,
+                "Max": 0
+              },
+              "Evasion": {
+                "Min": 0,
+                "Max": 0
+              },
+              "EnergyShield": {
+                "Min": 0,
+                "Max": 0
+              }
+            },
+            "IsIdentified": {
+              "Comparsion": 0
+            },
+            "IsCorruprted": {
+              "Comparsion": 0
+            },
+            "IsMirrored": {
+              "Comparsion": 0
+            }
           }
         ]
       },
@@ -8549,9 +8647,9 @@
         "ExplorationPct": 90
       },
       {
-        "Enabled": false,
+        "Enabled": true,
         "Act": 10,
-        "AreaName": "The Desecrated Chambers",
+        "AreaName": "The Feeding Trough",
         "MaxTime": 25,
         "MaxDeaths": 35,
         "ExplorationPct": 90
@@ -8559,7 +8657,15 @@
       {
         "Enabled": true,
         "Act": 10,
-        "AreaName": "The Feeding Trough",
+        "AreaName": "The Control Blocks",
+        "MaxTime": 15,
+        "MaxDeaths": 35,
+        "ExplorationPct": 90
+      },
+      {
+        "Enabled": false,
+        "Act": 10,
+        "AreaName": "The Desecrated Chambers",
         "MaxTime": 25,
         "MaxDeaths": 35,
         "ExplorationPct": 90
@@ -10031,6 +10137,11 @@
               "Logic": 2,
               "Type": 2,
               "Text": "Metadata/Monsters/MotherOfFlames/MotherOfFlamesBoss"
+            },
+            {
+              "Logic": 2,
+              "Type": 0,
+              "Text": "Metadata/Monsters/AvariusCasticus/AvariusCasticusWickerman"
             }
           ],
           "Rarity": {
