@@ -4224,108 +4224,6 @@
         "IsMirrored": {
           "Comparsion": 0
         }
-      },
-      {
-        "Enabled": true,
-        "Name": [],
-        "Metadata": [],
-        "IconPath": [],
-        "BaseItemType": "",
-        "ItemClass": "",
-        "Rarity": {
-          "Comparsion": 2,
-          "Value": 2
-        },
-        "Sockets": {
-          "R": 0,
-          "G": 0,
-          "B": 0,
-          "W": 0,
-          "Total": {
-            "Min": 0,
-            "Max": 0
-          }
-        },
-        "Links": {
-          "R": 0,
-          "G": 0,
-          "B": 0,
-          "W": 0,
-          "Total": {
-            "Min": 0,
-            "Max": 0
-          }
-        },
-        "ItemLevel": {
-          "Min": 0,
-          "Max": 0
-        },
-        "RequiredLevel": {
-          "Min": 0,
-          "Max": 0
-        },
-        "PlayerLevel": {
-          "Min": 0,
-          "Max": 100
-        },
-        "Quality": {
-          "Comparsion": 1,
-          "Value": 0
-        },
-        "MapTier": {
-          "Comparsion": 1,
-          "Value": 0
-        },
-        "Stats": [],
-        "Weapon": {
-          "Damage": {
-            "Min": 0,
-            "Max": 0
-          },
-          "AttackSpeed": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
-          "PhysicalDPS": {
-            "Min": 0,
-            "Max": 0
-          },
-          "ElementalDPS": {
-            "Min": 0,
-            "Max": 0
-          },
-          "DPS": {
-            "Min": 0,
-            "Max": 0
-          },
-          "Critical": {
-            "Min": 0.0,
-            "Max": 0.0
-          }
-        },
-        "Armour": {
-          "Armour": {
-            "Min": 0,
-            "Max": 0
-          },
-          "Evasion": {
-            "Min": 0,
-            "Max": 0
-          },
-          "EnergyShield": {
-            "Min": 0,
-            "Max": 0
-          }
-        },
-        "IsIdentified": {
-          "Comparsion": 0
-        },
-        "IsCorruprted": {
-          "Comparsion": 0
-        },
-        "IsMirrored": {
-          "Comparsion": 0
-        }
       }
     ]
   },
@@ -11992,7 +11890,7 @@
         "ExplorationPct": 95
       }
     ],
-    "SellExcessMaps": true,
+    "SellExcessMaps": false,
     "SellMapsThreshold": 30,
     "MaxTime": 15,
     "MaxDeaths": 0,
