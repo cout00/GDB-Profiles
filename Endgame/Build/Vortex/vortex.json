@@ -1,0 +1,653 @@
+{
+  "Enabled": true,
+  "SkillsRules": [
+    {
+      "Enabled": true,
+      "Priority": 10,
+      "Name": "Vortex of Projection",
+      "CastTarget": 1,
+      "IsWithoutMoving": false,
+      "IsRequiresEnemy": true,
+      "Delay": 100,
+      "Deployed": 0,
+      "IsTotemified": false,
+      "IsMined": false,
+      "IsTrapped": false,
+      "SelfCondition": {
+        "Health": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "Mana": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "ES": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "HealthIsPercent": true,
+        "ManaIsPercent": true,
+        "EsIsPercent": true,
+        "Buffs": [],
+        "IsRunning": true
+      },
+      "PlayerName": "",
+      "PlayerCondition": {
+        "Health": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "Mana": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "ES": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "HealthIsPercent": true,
+        "ManaIsPercent": true,
+        "EsIsPercent": true,
+        "Buffs": [],
+        "IsRunning": false
+      },
+      "MonsterPosition": {
+        "Distance": {
+          "Min": 0,
+          "Max": 70
+        },
+        "PackSize": 0,
+        "PackRadius": 50
+      },
+      "MonsterCondition": {
+        "Name": [],
+        "MonsterType": [],
+        "Metadata": [],
+        "Rarity": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "Health": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "HealthIsPercent": true,
+        "Buffs": [],
+        "IsMapBoss": false,
+        "IsBestiaryMonster": false
+      },
+      "CorpseCondition": {
+        "Name": [],
+        "Metadata": [],
+        "Rarity": {
+          "Comparsion": 1,
+          "Value": 0
+        }
+      },
+      "LinkedSkills": {
+        "LinkedSkills": []
+      }
+    },
+    {
+      "Enabled": true,
+      "Priority": 15,
+      "Name": "Frostbolt",
+      "CastTarget": 1,
+      "IsWithoutMoving": true,
+      "IsRequiresEnemy": true,
+      "Delay": 2000,
+      "Deployed": 0,
+      "IsTotemified": false,
+      "IsMined": false,
+      "IsTrapped": false,
+      "SelfCondition": {
+        "Health": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "Mana": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "ES": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "HealthIsPercent": true,
+        "ManaIsPercent": true,
+        "EsIsPercent": true,
+        "Buffs": [],
+        "IsRunning": false
+      },
+      "PlayerName": "",
+      "PlayerCondition": {
+        "Health": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "Mana": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "ES": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "HealthIsPercent": true,
+        "ManaIsPercent": true,
+        "EsIsPercent": true,
+        "Buffs": [],
+        "IsRunning": false
+      },
+      "MonsterPosition": {
+        "Distance": {
+          "Min": 0,
+          "Max": 70
+        },
+        "PackSize": 0,
+        "PackRadius": 50
+      },
+      "MonsterCondition": {
+        "Name": [],
+        "MonsterType": [],
+        "Metadata": [],
+        "Rarity": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "Health": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "HealthIsPercent": true,
+        "Buffs": [],
+        "IsMapBoss": false,
+        "IsBestiaryMonster": false
+      },
+      "CorpseCondition": {
+        "Name": [],
+        "Metadata": [],
+        "Rarity": {
+          "Comparsion": 1,
+          "Value": 0
+        }
+      },
+      "LinkedSkills": {
+        "LinkedSkills": []
+      }
+    },
+    {
+      "Enabled": true,
+      "Priority": 15,
+      "Name": "Arcane Cloak",
+      "CastTarget": 0,
+      "IsWithoutMoving": false,
+      "IsRequiresEnemy": true,
+      "Delay": 0,
+      "Deployed": 0,
+      "IsTotemified": false,
+      "IsMined": false,
+      "IsTrapped": false,
+      "SelfCondition": {
+        "Health": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "Mana": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "ES": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "HealthIsPercent": true,
+        "ManaIsPercent": true,
+        "EsIsPercent": true,
+        "Buffs": [],
+        "IsRunning": false
+      },
+      "PlayerName": "",
+      "PlayerCondition": {
+        "Health": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "Mana": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "ES": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "HealthIsPercent": true,
+        "ManaIsPercent": true,
+        "EsIsPercent": true,
+        "Buffs": [],
+        "IsRunning": false
+      },
+      "MonsterPosition": {
+        "Distance": {
+          "Min": 0,
+          "Max": 70
+        },
+        "PackSize": 0,
+        "PackRadius": 50
+      },
+      "MonsterCondition": {
+        "Name": [],
+        "MonsterType": [],
+        "Metadata": [],
+        "Rarity": {
+          "Comparsion": 1,
+          "Value": 2
+        },
+        "Health": {
+          "Comparsion": 2,
+          "Value": 99
+        },
+        "HealthIsPercent": true,
+        "Buffs": [],
+        "IsMapBoss": false,
+        "IsBestiaryMonster": false
+      },
+      "CorpseCondition": {
+        "Name": [],
+        "Metadata": [],
+        "Rarity": {
+          "Comparsion": 1,
+          "Value": 0
+        }
+      },
+      "LinkedSkills": {
+        "LinkedSkills": []
+      }
+    },
+    {
+      "Enabled": true,
+      "Priority": 15,
+      "Name": "Arcane Cloak",
+      "CastTarget": 0,
+      "IsWithoutMoving": false,
+      "IsRequiresEnemy": true,
+      "Delay": 0,
+      "Deployed": 0,
+      "IsTotemified": false,
+      "IsMined": false,
+      "IsTrapped": false,
+      "SelfCondition": {
+        "Health": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "Mana": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "ES": {
+          "Comparsion": 2,
+          "Value": 50
+        },
+        "HealthIsPercent": true,
+        "ManaIsPercent": true,
+        "EsIsPercent": true,
+        "Buffs": [],
+        "IsRunning": true
+      },
+      "PlayerName": "",
+      "PlayerCondition": {
+        "Health": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "Mana": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "ES": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "HealthIsPercent": true,
+        "ManaIsPercent": true,
+        "EsIsPercent": true,
+        "Buffs": [],
+        "IsRunning": false
+      },
+      "MonsterPosition": {
+        "Distance": {
+          "Min": 0,
+          "Max": 70
+        },
+        "PackSize": 0,
+        "PackRadius": 50
+      },
+      "MonsterCondition": {
+        "Name": [],
+        "MonsterType": [],
+        "Metadata": [],
+        "Rarity": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "Health": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "HealthIsPercent": true,
+        "Buffs": [],
+        "IsMapBoss": false,
+        "IsBestiaryMonster": false
+      },
+      "CorpseCondition": {
+        "Name": [],
+        "Metadata": [],
+        "Rarity": {
+          "Comparsion": 1,
+          "Value": 0
+        }
+      },
+      "LinkedSkills": {
+        "LinkedSkills": []
+      }
+    },
+    {
+      "Enabled": true,
+      "Priority": 5,
+      "Name": "Sigil of Power",
+      "CastTarget": 0,
+      "IsWithoutMoving": false,
+      "IsRequiresEnemy": true,
+      "Delay": 3000,
+      "Deployed": 0,
+      "IsTotemified": false,
+      "IsMined": false,
+      "IsTrapped": false,
+      "SelfCondition": {
+        "Health": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "Mana": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "ES": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "HealthIsPercent": true,
+        "ManaIsPercent": true,
+        "EsIsPercent": true,
+        "Buffs": [],
+        "IsRunning": false
+      },
+      "PlayerName": "",
+      "PlayerCondition": {
+        "Health": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "Mana": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "ES": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "HealthIsPercent": true,
+        "ManaIsPercent": true,
+        "EsIsPercent": true,
+        "Buffs": [],
+        "IsRunning": false
+      },
+      "MonsterPosition": {
+        "Distance": {
+          "Min": 0,
+          "Max": 70
+        },
+        "PackSize": 0,
+        "PackRadius": 50
+      },
+      "MonsterCondition": {
+        "Name": [],
+        "MonsterType": [],
+        "Metadata": [],
+        "Rarity": {
+          "Comparsion": 1,
+          "Value": 3
+        },
+        "Health": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "HealthIsPercent": true,
+        "Buffs": [],
+        "IsMapBoss": false,
+        "IsBestiaryMonster": false
+      },
+      "CorpseCondition": {
+        "Name": [],
+        "Metadata": [],
+        "Rarity": {
+          "Comparsion": 1,
+          "Value": 0
+        }
+      },
+      "LinkedSkills": {
+        "LinkedSkills": []
+      }
+    },
+    {
+      "Enabled": true,
+      "Priority": 1,
+      "Name": "Grace",
+      "CastTarget": 0,
+      "IsWithoutMoving": false,
+      "IsRequiresEnemy": false,
+      "Delay": 0,
+      "Deployed": 0,
+      "IsTotemified": false,
+      "IsMined": false,
+      "IsTrapped": false,
+      "SelfCondition": {
+        "Health": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "Mana": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "ES": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "HealthIsPercent": true,
+        "ManaIsPercent": true,
+        "EsIsPercent": true,
+        "Buffs": [
+          {
+            "Logic": 2,
+            "Buff": {
+              "ID": "player_aura_evasion",
+              "Name": "Grace Aura"
+            },
+            "Time": {
+              "Comparsion": 1,
+              "Value": 0
+            },
+            "Stacks": {
+              "Comparsion": 1,
+              "Value": 0
+            }
+          }
+        ],
+        "IsRunning": false
+      },
+      "PlayerName": "",
+      "PlayerCondition": {
+        "Health": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "Mana": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "ES": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "HealthIsPercent": true,
+        "ManaIsPercent": true,
+        "EsIsPercent": true,
+        "Buffs": [],
+        "IsRunning": false
+      },
+      "MonsterPosition": {
+        "Distance": {
+          "Min": 0,
+          "Max": 70
+        },
+        "PackSize": 0,
+        "PackRadius": 50
+      },
+      "MonsterCondition": {
+        "Name": [],
+        "MonsterType": [],
+        "Metadata": [],
+        "Rarity": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "Health": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "HealthIsPercent": true,
+        "Buffs": [
+          {
+            "Logic": 2,
+            "Buff": {
+              "ID": "player_aura_evasion",
+              "Name": "Grace Aura"
+            },
+            "Time": {
+              "Comparsion": 1,
+              "Value": 0
+            },
+            "Stacks": {
+              "Comparsion": 1,
+              "Value": 0
+            }
+          }
+        ],
+        "IsMapBoss": false,
+        "IsBestiaryMonster": false
+      },
+      "CorpseCondition": {
+        "Name": [],
+        "Metadata": [],
+        "Rarity": {
+          "Comparsion": 1,
+          "Value": 0
+        }
+      },
+      "LinkedSkills": {
+        "LinkedSkills": []
+      }
+    },
+    {
+      "Enabled": true,
+      "Priority": 1,
+      "Name": "Frost Shield",
+      "CastTarget": 0,
+      "IsWithoutMoving": false,
+      "IsRequiresEnemy": true,
+      "Delay": 2000,
+      "Deployed": 0,
+      "IsTotemified": false,
+      "IsMined": false,
+      "IsTrapped": false,
+      "SelfCondition": {
+        "Health": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "Mana": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "ES": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "HealthIsPercent": true,
+        "ManaIsPercent": true,
+        "EsIsPercent": true,
+        "Buffs": [],
+        "IsRunning": false
+      },
+      "PlayerName": "",
+      "PlayerCondition": {
+        "Health": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "Mana": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "ES": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "HealthIsPercent": true,
+        "ManaIsPercent": true,
+        "EsIsPercent": true,
+        "Buffs": [],
+        "IsRunning": false
+      },
+      "MonsterPosition": {
+        "Distance": {
+          "Min": 0,
+          "Max": 70
+        },
+        "PackSize": 0,
+        "PackRadius": 50
+      },
+      "MonsterCondition": {
+        "Name": [],
+        "MonsterType": [],
+        "Metadata": [],
+        "Rarity": {
+          "Comparsion": 1,
+          "Value": 3
+        },
+        "Health": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "HealthIsPercent": true,
+        "Buffs": [],
+        "IsMapBoss": false,
+        "IsBestiaryMonster": false
+      },
+      "CorpseCondition": {
+        "Name": [],
+        "Metadata": [],
+        "Rarity": {
+          "Comparsion": 1,
+          "Value": 0
+        }
+      },
+      "LinkedSkills": {
+        "LinkedSkills": []
+      }
+    }
+  ]
+}
