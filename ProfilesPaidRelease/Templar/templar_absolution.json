@@ -48,6 +48,10 @@
           "Comparsion": 1,
           "Value": 0
         },
+        "MapTier": {
+          "Comparsion": 1,
+          "Value": 0
+        },
         "Stats": [],
         "Weapon": {
           "Damage": {
@@ -146,6 +150,10 @@
           "Comparsion": 1,
           "Value": 0
         },
+        "MapTier": {
+          "Comparsion": 1,
+          "Value": 0
+        },
         "Stats": [],
         "Weapon": {
           "Damage": {
@@ -241,6 +249,10 @@
           "Max": 100
         },
         "Quality": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "MapTier": {
           "Comparsion": 1,
           "Value": 0
         },
@@ -373,6 +385,10 @@
           "Comparsion": 1,
           "Value": 0
         },
+        "MapTier": {
+          "Comparsion": 1,
+          "Value": 0
+        },
         "Stats": [],
         "Weapon": {
           "Damage": {
@@ -471,6 +487,10 @@
           "Comparsion": 1,
           "Value": 0
         },
+        "MapTier": {
+          "Comparsion": 1,
+          "Value": 0
+        },
         "Stats": [],
         "Weapon": {
           "Damage": {
@@ -566,6 +586,10 @@
           "Max": 100
         },
         "Quality": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "MapTier": {
           "Comparsion": 1,
           "Value": 0
         },
@@ -667,6 +691,10 @@
           "Comparsion": 1,
           "Value": 0
         },
+        "MapTier": {
+          "Comparsion": 1,
+          "Value": 0
+        },
         "Stats": [],
         "Weapon": {
           "Damage": {
@@ -762,6 +790,10 @@
           "Max": 100
         },
         "Quality": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "MapTier": {
           "Comparsion": 1,
           "Value": 0
         },
@@ -863,6 +895,10 @@
           "Comparsion": 1,
           "Value": 0
         },
+        "MapTier": {
+          "Comparsion": 1,
+          "Value": 0
+        },
         "Stats": [],
         "Weapon": {
           "Damage": {
@@ -958,6 +994,10 @@
           "Max": 68
         },
         "Quality": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "MapTier": {
           "Comparsion": 1,
           "Value": 0
         },
@@ -1059,6 +1099,10 @@
           "Comparsion": 1,
           "Value": 0
         },
+        "MapTier": {
+          "Comparsion": 1,
+          "Value": 0
+        },
         "Stats": [],
         "Weapon": {
           "Damage": {
@@ -1154,6 +1198,10 @@
           "Max": 100
         },
         "Quality": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "MapTier": {
           "Comparsion": 1,
           "Value": 0
         },
@@ -1326,6 +1374,10 @@
           "Comparsion": 1,
           "Value": 0
         },
+        "MapTier": {
+          "Comparsion": 1,
+          "Value": 0
+        },
         "Stats": [],
         "Weapon": {
           "Damage": {
@@ -1452,6 +1504,10 @@
           "Max": 12
         },
         "Quality": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "MapTier": {
           "Comparsion": 1,
           "Value": 0
         },
@@ -1584,6 +1640,10 @@
           "Comparsion": 1,
           "Value": 0
         },
+        "MapTier": {
+          "Comparsion": 1,
+          "Value": 0
+        },
         "Stats": [],
         "Weapon": {
           "Damage": {
@@ -1710,6 +1770,10 @@
           "Max": 18
         },
         "Quality": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "MapTier": {
           "Comparsion": 1,
           "Value": 0
         },
@@ -1844,6 +1908,10 @@
           "Max": 12
         },
         "Quality": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "MapTier": {
           "Comparsion": 1,
           "Value": 0
         },
@@ -2036,6 +2104,10 @@
           "Comparsion": 1,
           "Value": 0
         },
+        "MapTier": {
+          "Comparsion": 1,
+          "Value": 0
+        },
         "Stats": [],
         "Weapon": {
           "Damage": {
@@ -2167,6 +2239,10 @@
           "Max": 12
         },
         "Quality": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "MapTier": {
           "Comparsion": 1,
           "Value": 0
         },
@@ -2356,6 +2432,10 @@
           "Max": 36
         },
         "Quality": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "MapTier": {
           "Comparsion": 1,
           "Value": 0
         },
@@ -2465,6 +2545,10 @@
           "Max": 100
         },
         "Quality": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "MapTier": {
           "Comparsion": 1,
           "Value": 0
         },
@@ -2666,9 +2750,13 @@
         },
         "PlayerLevel": {
           "Min": 30,
-          "Max": 100
+          "Max": 72
         },
         "Quality": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "MapTier": {
           "Comparsion": 1,
           "Value": 0
         },
@@ -2767,6 +2855,10 @@
           "Max": 29
         },
         "Quality": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "MapTier": {
           "Comparsion": 1,
           "Value": 0
         },
@@ -2959,6 +3051,10 @@
           "Comparsion": 1,
           "Value": 0
         },
+        "MapTier": {
+          "Comparsion": 1,
+          "Value": 0
+        },
         "Stats": [],
         "Weapon": {
           "Damage": {
@@ -3054,6 +3150,10 @@
           "Max": 68
         },
         "Quality": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "MapTier": {
           "Comparsion": 1,
           "Value": 0
         },
@@ -3155,6 +3255,10 @@
           "Comparsion": 1,
           "Value": 0
         },
+        "MapTier": {
+          "Comparsion": 1,
+          "Value": 0
+        },
         "Stats": [],
         "Weapon": {
           "Damage": {
@@ -3250,6 +3354,10 @@
           "Max": 12
         },
         "Quality": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "MapTier": {
           "Comparsion": 1,
           "Value": 0
         },
@@ -3351,6 +3459,10 @@
           "Comparsion": 1,
           "Value": 0
         },
+        "MapTier": {
+          "Comparsion": 1,
+          "Value": 0
+        },
         "Stats": [],
         "Weapon": {
           "Damage": {
@@ -3446,6 +3558,10 @@
           "Max": 12
         },
         "Quality": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "MapTier": {
           "Comparsion": 1,
           "Value": 0
         },
@@ -3547,6 +3663,10 @@
           "Comparsion": 1,
           "Value": 0
         },
+        "MapTier": {
+          "Comparsion": 1,
+          "Value": 0
+        },
         "Stats": [],
         "Weapon": {
           "Damage": {
@@ -3642,6 +3762,10 @@
           "Max": 12
         },
         "Quality": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "MapTier": {
           "Comparsion": 1,
           "Value": 0
         },
@@ -3779,6 +3903,10 @@
           "Comparsion": 1,
           "Value": 0
         },
+        "MapTier": {
+          "Comparsion": 1,
+          "Value": 0
+        },
         "Stats": [],
         "Weapon": {
           "Damage": {
@@ -3898,6 +4026,10 @@
           "Comparsion": 1,
           "Value": 0
         },
+        "MapTier": {
+          "Comparsion": 1,
+          "Value": 0
+        },
         "Stats": [],
         "Weapon": {
           "Damage": {
@@ -4012,6 +4144,10 @@
           "Comparsion": 1,
           "Value": 0
         },
+        "MapTier": {
+          "Comparsion": 1,
+          "Value": 0
+        },
         "Stats": [],
         "Weapon": {
           "Damage": {
@@ -4113,6 +4249,10 @@
           "Max": 40
         },
         "Quality": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "MapTier": {
           "Comparsion": 1,
           "Value": 0
         },
@@ -4222,6 +4362,10 @@
           "Max": 12
         },
         "Quality": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "MapTier": {
           "Comparsion": 1,
           "Value": 0
         },
@@ -4351,6 +4495,10 @@
               "Comparsion": 1,
               "Value": 0
             },
+            "MapTier": {
+              "Comparsion": 1,
+              "Value": 0
+            },
             "Stats": [],
             "Weapon": {
               "Damage": {
@@ -4462,6 +4610,10 @@
               "Max": 30
             },
             "Quality": {
+              "Comparsion": 1,
+              "Value": 0
+            },
+            "MapTier": {
               "Comparsion": 1,
               "Value": 0
             },
@@ -4581,6 +4733,10 @@
               "Max": 100
             },
             "Quality": {
+              "Comparsion": 1,
+              "Value": 0
+            },
+            "MapTier": {
               "Comparsion": 1,
               "Value": 0
             },
@@ -4710,6 +4866,10 @@
               "Max": 100
             },
             "Quality": {
+              "Comparsion": 1,
+              "Value": 0
+            },
+            "MapTier": {
               "Comparsion": 1,
               "Value": 0
             },
@@ -4872,6 +5032,10 @@
               "Comparsion": 1,
               "Value": 0
             },
+            "MapTier": {
+              "Comparsion": 1,
+              "Value": 0
+            },
             "Stats": [],
             "Weapon": {
               "Damage": {
@@ -4967,6 +5131,10 @@
               "Max": 100
             },
             "Quality": {
+              "Comparsion": 1,
+              "Value": 0
+            },
+            "MapTier": {
               "Comparsion": 1,
               "Value": 0
             },
@@ -5074,6 +5242,10 @@
               "Comparsion": 1,
               "Value": 0
             },
+            "MapTier": {
+              "Comparsion": 1,
+              "Value": 0
+            },
             "Stats": [],
             "Weapon": {
               "Damage": {
@@ -5169,6 +5341,10 @@
               "Max": 100
             },
             "Quality": {
+              "Comparsion": 1,
+              "Value": 0
+            },
+            "MapTier": {
               "Comparsion": 1,
               "Value": 0
             },
@@ -5285,6 +5461,10 @@
               "Comparsion": 1,
               "Value": 0
             },
+            "MapTier": {
+              "Comparsion": 1,
+              "Value": 0
+            },
             "Stats": [],
             "Weapon": {
               "Damage": {
@@ -5383,6 +5563,10 @@
               "Comparsion": 1,
               "Value": 0
             },
+            "MapTier": {
+              "Comparsion": 1,
+              "Value": 0
+            },
             "Stats": [],
             "Weapon": {
               "Damage": {
@@ -5478,6 +5662,10 @@
               "Max": 100
             },
             "Quality": {
+              "Comparsion": 1,
+              "Value": 0
+            },
+            "MapTier": {
               "Comparsion": 1,
               "Value": 0
             },
@@ -5594,6 +5782,10 @@
               "Comparsion": 1,
               "Value": 0
             },
+            "MapTier": {
+              "Comparsion": 1,
+              "Value": 0
+            },
             "Stats": [],
             "Weapon": {
               "Damage": {
@@ -5692,244 +5884,7 @@
               "Comparsion": 1,
               "Value": 0
             },
-            "Stats": [],
-            "Weapon": {
-              "Damage": {
-                "Min": 0,
-                "Max": 0
-              },
-              "AttackSpeed": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "PhysicalDPS": {
-                "Min": 0,
-                "Max": 0
-              },
-              "ElementalDPS": {
-                "Min": 0,
-                "Max": 0
-              },
-              "DPS": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Critical": {
-                "Min": 0.0,
-                "Max": 0.0
-              }
-            },
-            "Armour": {
-              "Armour": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Evasion": {
-                "Min": 0,
-                "Max": 0
-              },
-              "EnergyShield": {
-                "Min": 0,
-                "Max": 0
-              }
-            },
-            "IsIdentified": {
-              "Comparsion": 0
-            },
-            "IsCorruprted": {
-              "Comparsion": 0
-            },
-            "IsMirrored": {
-              "Comparsion": 0
-            }
-          }
-        ]
-      },
-      {
-        "TabNames": [
-          {
-            "Value": "4"
-          }
-        ],
-        "StashRules": [
-          {
-            "Enabled": true,
-            "Name": [
-              {
-                "Logic": 1,
-                "Type": 1,
-                "Text": "Bone Ring"
-              },
-              {
-                "Logic": 1,
-                "Type": 1,
-                "Text": "Bone Spirit Shield"
-              },
-              {
-                "Logic": 1,
-                "Type": 1,
-                "Text": "Ivory Spirit Shield"
-              },
-              {
-                "Logic": 1,
-                "Type": 1,
-                "Text": "Fossilised Spirit Shield"
-              },
-              {
-                "Logic": 1,
-                "Type": 1,
-                "Text": "Calling Wand"
-              },
-              {
-                "Logic": 1,
-                "Type": 1,
-                "Text": "Convening Wand"
-              },
-              {
-                "Logic": 1,
-                "Type": 1,
-                "Text": "Convoking Wand"
-              }
-            ],
-            "Metadata": [],
-            "IconPath": [],
-            "BaseItemType": "",
-            "ItemClass": "",
-            "Rarity": {
-              "Comparsion": 1,
-              "Value": 0
-            },
-            "Sockets": {
-              "R": 0,
-              "G": 0,
-              "B": 0,
-              "W": 0,
-              "Total": {
-                "Min": 0,
-                "Max": 0
-              }
-            },
-            "Links": {
-              "R": 0,
-              "G": 0,
-              "B": 0,
-              "W": 0,
-              "Total": {
-                "Min": 0,
-                "Max": 0
-              }
-            },
-            "ItemLevel": {
-              "Min": 0,
-              "Max": 0
-            },
-            "RequiredLevel": {
-              "Min": 0,
-              "Max": 0
-            },
-            "PlayerLevel": {
-              "Min": 0,
-              "Max": 100
-            },
-            "Quality": {
-              "Comparsion": 1,
-              "Value": 0
-            },
-            "Stats": [],
-            "Weapon": {
-              "Damage": {
-                "Min": 0,
-                "Max": 0
-              },
-              "AttackSpeed": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "PhysicalDPS": {
-                "Min": 0,
-                "Max": 0
-              },
-              "ElementalDPS": {
-                "Min": 0,
-                "Max": 0
-              },
-              "DPS": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Critical": {
-                "Min": 0.0,
-                "Max": 0.0
-              }
-            },
-            "Armour": {
-              "Armour": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Evasion": {
-                "Min": 0,
-                "Max": 0
-              },
-              "EnergyShield": {
-                "Min": 0,
-                "Max": 0
-              }
-            },
-            "IsIdentified": {
-              "Comparsion": 0
-            },
-            "IsCorruprted": {
-              "Comparsion": 0
-            },
-            "IsMirrored": {
-              "Comparsion": 0
-            }
-          },
-          {
-            "Enabled": false,
-            "Name": [],
-            "Metadata": [],
-            "IconPath": [],
-            "BaseItemType": "",
-            "ItemClass": "",
-            "Rarity": {
-              "Comparsion": 1,
-              "Value": 2
-            },
-            "Sockets": {
-              "R": 0,
-              "G": 0,
-              "B": 0,
-              "W": 0,
-              "Total": {
-                "Min": 0,
-                "Max": 0
-              }
-            },
-            "Links": {
-              "R": 0,
-              "G": 0,
-              "B": 0,
-              "W": 0,
-              "Total": {
-                "Min": 0,
-                "Max": 0
-              }
-            },
-            "ItemLevel": {
-              "Min": 60,
-              "Max": 100
-            },
-            "RequiredLevel": {
-              "Min": 0,
-              "Max": 0
-            },
-            "PlayerLevel": {
-              "Min": 60,
-              "Max": 100
-            },
-            "Quality": {
+            "MapTier": {
               "Comparsion": 1,
               "Value": 0
             },
@@ -6034,6 +5989,10 @@
           "Max": 100
         },
         "Quality": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "MapTier": {
           "Comparsion": 1,
           "Value": 0
         },
@@ -6171,6 +6130,10 @@
           "Comparsion": 1,
           "Value": 0
         },
+        "MapTier": {
+          "Comparsion": 1,
+          "Value": 0
+        },
         "Stats": [],
         "Weapon": {
           "Damage": {
@@ -6290,6 +6253,10 @@
           "Comparsion": 1,
           "Value": 0
         },
+        "MapTier": {
+          "Comparsion": 1,
+          "Value": 0
+        },
         "Stats": [],
         "Weapon": {
           "Damage": {
@@ -6385,6 +6352,10 @@
           "Max": 100
         },
         "Quality": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "MapTier": {
           "Comparsion": 1,
           "Value": 0
         },
@@ -6486,6 +6457,10 @@
           "Comparsion": 1,
           "Value": 0
         },
+        "MapTier": {
+          "Comparsion": 1,
+          "Value": 0
+        },
         "Stats": [],
         "Weapon": {
           "Damage": {
@@ -6581,6 +6556,10 @@
           "Max": 100
         },
         "Quality": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "MapTier": {
           "Comparsion": 1,
           "Value": 0
         },
@@ -6682,6 +6661,10 @@
           "Comparsion": 1,
           "Value": 0
         },
+        "MapTier": {
+          "Comparsion": 1,
+          "Value": 0
+        },
         "Stats": [],
         "Weapon": {
           "Damage": {
@@ -6777,6 +6760,10 @@
           "Max": 100
         },
         "Quality": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "MapTier": {
           "Comparsion": 1,
           "Value": 0
         },
@@ -6882,6 +6869,10 @@
           "Comparsion": 1,
           "Value": 0
         },
+        "MapTier": {
+          "Comparsion": 1,
+          "Value": 0
+        },
         "Stats": [],
         "Weapon": {
           "Damage": {
@@ -6977,6 +6968,10 @@
           "Max": 100
         },
         "Quality": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "MapTier": {
           "Comparsion": 1,
           "Value": 0
         },
@@ -7078,101 +7073,7 @@
           "Comparsion": 1,
           "Value": 0
         },
-        "Stats": [],
-        "Weapon": {
-          "Damage": {
-            "Min": 0,
-            "Max": 0
-          },
-          "AttackSpeed": {
-            "Min": 0.0,
-            "Max": 0.0
-          },
-          "PhysicalDPS": {
-            "Min": 0,
-            "Max": 0
-          },
-          "ElementalDPS": {
-            "Min": 0,
-            "Max": 0
-          },
-          "DPS": {
-            "Min": 0,
-            "Max": 0
-          },
-          "Critical": {
-            "Min": 0.0,
-            "Max": 0.0
-          }
-        },
-        "Armour": {
-          "Armour": {
-            "Min": 0,
-            "Max": 0
-          },
-          "Evasion": {
-            "Min": 0,
-            "Max": 0
-          },
-          "EnergyShield": {
-            "Min": 0,
-            "Max": 0
-          }
-        },
-        "IsIdentified": {
-          "Comparsion": 0
-        },
-        "IsCorruprted": {
-          "Comparsion": 0
-        },
-        "IsMirrored": {
-          "Comparsion": 0
-        }
-      },
-      {
-        "Enabled": true,
-        "Name": [],
-        "Metadata": [],
-        "IconPath": [],
-        "BaseItemType": "Orb of Alteration",
-        "ItemClass": "",
-        "Rarity": {
-          "Comparsion": 1,
-          "Value": 0
-        },
-        "Sockets": {
-          "R": 0,
-          "G": 0,
-          "B": 0,
-          "W": 0,
-          "Total": {
-            "Min": 0,
-            "Max": 0
-          }
-        },
-        "Links": {
-          "R": 0,
-          "G": 0,
-          "B": 0,
-          "W": 0,
-          "Total": {
-            "Min": 0,
-            "Max": 0
-          }
-        },
-        "ItemLevel": {
-          "Min": 0,
-          "Max": 0
-        },
-        "RequiredLevel": {
-          "Min": 0,
-          "Max": 0
-        },
-        "PlayerLevel": {
-          "Min": 30,
-          "Max": 100
-        },
-        "Quality": {
+        "MapTier": {
           "Comparsion": 1,
           "Value": 0
         },
@@ -7280,6 +7181,10 @@
           "Comparsion": 1,
           "Value": 0
         },
+        "MapTier": {
+          "Comparsion": 1,
+          "Value": 0
+        },
         "Stats": [],
         "Weapon": {
           "Damage": {
@@ -7375,6 +7280,10 @@
           "Max": 100
         },
         "Quality": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "MapTier": {
           "Comparsion": 1,
           "Value": 0
         },
@@ -7486,6 +7395,10 @@
           "Comparsion": 1,
           "Value": 0
         },
+        "MapTier": {
+          "Comparsion": 1,
+          "Value": 0
+        },
         "Stats": [],
         "Weapon": {
           "Damage": {
@@ -7587,6 +7500,10 @@
           "Max": 100
         },
         "Quality": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "MapTier": {
           "Comparsion": 1,
           "Value": 0
         },
@@ -7704,6 +7621,10 @@
           "Comparsion": 1,
           "Value": 0
         },
+        "MapTier": {
+          "Comparsion": 1,
+          "Value": 0
+        },
         "Stats": [],
         "Weapon": {
           "Damage": {
@@ -7754,6 +7675,20 @@
         "IsMirrored": {
           "Comparsion": 0
         }
+      }
+    ]
+  },
+  "GrindSettings": {
+    "GrindAreas": [
+      {
+        "Enabled": true,
+        "Act": 9,
+        "AreaName": "The Blood Aqueduct",
+        "MinLevel": 68,
+        "MaxLevel": 72,
+        "MaxTime": 15,
+        "MaxDeaths": 0,
+        "ExplorationPct": 70
       }
     ]
   },
@@ -8734,6 +8669,11 @@
     "RandomEach": 5,
     "RandomBlacklist": []
   },
+  "AtlasPassiveSkillsSettings": {
+    "AllocatePassives": false,
+    "PassiveSkills": [],
+    "RandomOrder": false
+  },
   "QuestsSettings": {
     "MaxDeaths": 1,
     "MaxTime": 15,
@@ -9047,6 +8987,30 @@
         "Act": 10,
         "AreaName": "The Feeding Trough",
         "MaxTime": 25,
+        "MaxDeaths": 35,
+        "ExplorationPct": 90
+      },
+      {
+        "Enabled": true,
+        "Act": 9,
+        "AreaName": "The Refinery",
+        "MaxTime": 15,
+        "MaxDeaths": 35,
+        "ExplorationPct": 90
+      },
+      {
+        "Enabled": true,
+        "Act": 9,
+        "AreaName": "The Boiling Lake",
+        "MaxTime": 15,
+        "MaxDeaths": 35,
+        "ExplorationPct": 90
+      },
+      {
+        "Enabled": true,
+        "Act": 9,
+        "AreaName": "The Oasis",
+        "MaxTime": 15,
         "MaxDeaths": 35,
         "ExplorationPct": 90
       }
@@ -13456,8 +13420,3114 @@
             ]
           }
         ]
+      },
+      {
+        "Enabled": true,
+        "Priority": 18,
+        "Name": "Group",
+        "SkillGemsLinks": [
+          {
+            "Enabled": true,
+            "Priority": 1,
+            "MinimumLinked": 1,
+            "IsSharedLink": false,
+            "PlayerLevel": {
+              "Min": 0,
+              "Max": 100
+            },
+            "SkillGems": [
+              {
+                "Enabled": false,
+                "Name": "Shield Charge",
+                "Level": {
+                  "Min": 0,
+                  "Max": 40
+                }
+              },
+              {
+                "Enabled": false,
+                "Name": "Faster Attacks Support",
+                "Level": {
+                  "Min": 0,
+                  "Max": 40
+                }
+              }
+            ]
+          },
+          {
+            "Enabled": true,
+            "Priority": 2,
+            "MinimumLinked": 2,
+            "IsSharedLink": false,
+            "PlayerLevel": {
+              "Min": 0,
+              "Max": 100
+            },
+            "SkillGems": [
+              {
+                "Enabled": false,
+                "Name": "Shield Charge",
+                "Level": {
+                  "Min": 0,
+                  "Max": 40
+                }
+              }
+            ]
+          }
+        ]
       }
     ]
+  },
+  "MapsSettings": {
+    "Maps": [
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 1,
+        "Name": "Bone Crypt Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 1,
+        "Name": "Gardens Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 1,
+        "Name": "Scriptorium Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 1,
+        "Name": "Siege Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 2,
+        "Name": "Carcass Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 2,
+        "Name": "Dark Forest Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 2,
+        "Name": "Dunes Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 2,
+        "Name": "Dungeon Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 2,
+        "Name": "Flooded Mine Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 2,
+        "Name": "Lair Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 2,
+        "Name": "Lava Lake Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 2,
+        "Name": "Tropical Island Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 3,
+        "Name": "Armoury Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 3,
+        "Name": "Bog Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 3,
+        "Name": "Cage Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 3,
+        "Name": "Dry Sea Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 3,
+        "Name": "Fungal Hollow Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 3,
+        "Name": "Marshes Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 3,
+        "Name": "Overgrown Shrine Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 3,
+        "Name": "Strand Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 4,
+        "Name": "Bone Crypt Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 4,
+        "Name": "Cells Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 4,
+        "Name": "Cemetery Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 4,
+        "Name": "Gardens Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 4,
+        "Name": "Mausoleum Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 4,
+        "Name": "Mesa Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 4,
+        "Name": "Moon Temple Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 4,
+        "Name": "Relic Chambers Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 4,
+        "Name": "Scriptorium Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 4,
+        "Name": "Siege Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 4,
+        "Name": "Vaal Pyramid Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 4,
+        "Name": "Vault Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 5,
+        "Name": "Ancient City Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 5,
+        "Name": "Atoll Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 5,
+        "Name": "Carcass Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 5,
+        "Name": "Colonnade Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 5,
+        "Name": "Courtyard Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 5,
+        "Name": "Dark Forest Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 5,
+        "Name": "Dunes Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 5,
+        "Name": "Dungeon Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 5,
+        "Name": "Fields Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 5,
+        "Name": "Flooded Mine Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 5,
+        "Name": "Graveyard Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 5,
+        "Name": "Lair Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 5,
+        "Name": "Lava Lake Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 5,
+        "Name": "Plateau Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 5,
+        "Name": "Summit Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 5,
+        "Name": "Tropical Island Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 6,
+        "Name": "Armoury Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 6,
+        "Name": "Belfry Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 6,
+        "Name": "Bog Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 6,
+        "Name": "Cage Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 6,
+        "Name": "Castle Ruins Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 6,
+        "Name": "Colosseum Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 6,
+        "Name": "Defiled Cathedral Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 6,
+        "Name": "Dry Sea Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 6,
+        "Name": "Estuary Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 6,
+        "Name": "Fungal Hollow Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 6,
+        "Name": "Marshes Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 6,
+        "Name": "Overgrown Shrine Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 6,
+        "Name": "Promenade Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 6,
+        "Name": "Shore Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 6,
+        "Name": "Strand Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 7,
+        "Name": "Bramble Valley Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 7,
+        "Name": "Cells Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 7,
+        "Name": "Cemetery Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 7,
+        "Name": "Channel Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 7,
+        "Name": "Chateau Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 7,
+        "Name": "Cursed Crypt Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 7,
+        "Name": "Forbidden Woods Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 7,
+        "Name": "Mausoleum Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 7,
+        "Name": "Mesa Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 7,
+        "Name": "Moon Temple Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 7,
+        "Name": "Racecourse Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 7,
+        "Name": "Relic Chambers Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 7,
+        "Name": "Spider Forest Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 7,
+        "Name": "Vaal Pyramid Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 7,
+        "Name": "Vault Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 8,
+        "Name": "Ancient City Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 8,
+        "Name": "Arachnid Tomb Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 8,
+        "Name": "Atoll Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 8,
+        "Name": "Bone Crypt Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 8,
+        "Name": "City Square Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 8,
+        "Name": "Cold River Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 8,
+        "Name": "Colonnade Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 8,
+        "Name": "Courtyard Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 8,
+        "Name": "Desert Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 8,
+        "Name": "Fields Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 8,
+        "Name": "Gardens Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 8,
+        "Name": "Graveyard Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 8,
+        "Name": "Jungle Valley Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 8,
+        "Name": "Plateau Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 8,
+        "Name": "Ramparts Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 8,
+        "Name": "Scriptorium Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 8,
+        "Name": "Siege Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 8,
+        "Name": "Silo Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 8,
+        "Name": "Summit Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 9,
+        "Name": "Basilica Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 9,
+        "Name": "Belfry Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 9,
+        "Name": "Carcass Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 9,
+        "Name": "Castle Ruins Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 9,
+        "Name": "Colosseum Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 9,
+        "Name": "Coral Ruins Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 9,
+        "Name": "Dark Forest Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 9,
+        "Name": "Defiled Cathedral Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 9,
+        "Name": "Dunes Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 9,
+        "Name": "Dungeon Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 9,
+        "Name": "Estuary Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 9,
+        "Name": "Flooded Mine Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 9,
+        "Name": "Haunted Mansion Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 9,
+        "Name": "Lair Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 9,
+        "Name": "Lava Lake Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 9,
+        "Name": "Palace Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 9,
+        "Name": "Promenade Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 9,
+        "Name": "Shore Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 9,
+        "Name": "Spider Lair Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 9,
+        "Name": "Toxic Sewer Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 9,
+        "Name": "Tropical Island Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 10,
+        "Name": "Armoury Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 10,
+        "Name": "Bog Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 10,
+        "Name": "Bramble Valley Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 10,
+        "Name": "Burial Chambers Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 10,
+        "Name": "Cage Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 10,
+        "Name": "Channel Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 10,
+        "Name": "Chateau Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 10,
+        "Name": "Cursed Crypt Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 10,
+        "Name": "Dig Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 10,
+        "Name": "Dry Sea Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 10,
+        "Name": "Forbidden Woods Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 10,
+        "Name": "Fungal Hollow Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 10,
+        "Name": "Leyline Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 10,
+        "Name": "Malformation Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 10,
+        "Name": "Marshes Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 10,
+        "Name": "Overgrown Shrine Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 10,
+        "Name": "Racecourse Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 10,
+        "Name": "Spider Forest Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 10,
+        "Name": "Strand Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 10,
+        "Name": "Sulphur Vents Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 10,
+        "Name": "Underground Sea Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 11,
+        "Name": "Arachnid Tomb Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 11,
+        "Name": "Cells Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 11,
+        "Name": "Cemetery Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 11,
+        "Name": "City Square Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 11,
+        "Name": "Cold River Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 11,
+        "Name": "Crater Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 11,
+        "Name": "Crimson Township Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 11,
+        "Name": "Desert Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 11,
+        "Name": "Foundry Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 11,
+        "Name": "Grotto Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 11,
+        "Name": "Jungle Valley Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 11,
+        "Name": "Mausoleum Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 11,
+        "Name": "Mesa Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 11,
+        "Name": "Moon Temple Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 11,
+        "Name": "Pier Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 11,
+        "Name": "Port Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 11,
+        "Name": "Ramparts Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 11,
+        "Name": "Relic Chambers Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 11,
+        "Name": "Silo Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 11,
+        "Name": "Vaal Pyramid Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 11,
+        "Name": "Vault Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 12,
+        "Name": "Ancient City Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 12,
+        "Name": "Atoll Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 12,
+        "Name": "Basilica Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 12,
+        "Name": "Bone Crypt Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 12,
+        "Name": "Colonnade Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 12,
+        "Name": "Coral Ruins Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 12,
+        "Name": "Courthouse Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 12,
+        "Name": "Courtyard Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 12,
+        "Name": "Fields Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 12,
+        "Name": "Gardens Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 12,
+        "Name": "Geode Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 12,
+        "Name": "Graveyard Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 12,
+        "Name": "Haunted Mansion Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 12,
+        "Name": "Infested Valley Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 12,
+        "Name": "Lookout Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 12,
+        "Name": "Museum Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 12,
+        "Name": "Necropolis Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 12,
+        "Name": "Palace Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 12,
+        "Name": "Plateau Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 12,
+        "Name": "Scriptorium Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 12,
+        "Name": "Siege Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 12,
+        "Name": "Spider Lair Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 12,
+        "Name": "Summit Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 12,
+        "Name": "Toxic Sewer Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 13,
+        "Name": "Arcade Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 13,
+        "Name": "Ashen Wood Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 13,
+        "Name": "Belfry Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 13,
+        "Name": "Burial Chambers Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 13,
+        "Name": "Caldera Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 13,
+        "Name": "Carcass Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 13,
+        "Name": "Castle Ruins Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 13,
+        "Name": "Colosseum Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 13,
+        "Name": "Dark Forest Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 13,
+        "Name": "Defiled Cathedral Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 13,
+        "Name": "Desert Spring Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 13,
+        "Name": "Dig Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 13,
+        "Name": "Dunes Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 13,
+        "Name": "Dungeon Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 13,
+        "Name": "Estuary Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 13,
+        "Name": "Flooded Mine Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 13,
+        "Name": "Glacier Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 13,
+        "Name": "Lair Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 13,
+        "Name": "Lava Lake Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 13,
+        "Name": "Leyline Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 13,
+        "Name": "Malformation Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 13,
+        "Name": "Promenade Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 13,
+        "Name": "Shore Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 13,
+        "Name": "Sulphur Vents Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 13,
+        "Name": "Tropical Island Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 13,
+        "Name": "Underground Sea Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 14,
+        "Name": "Armoury Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 14,
+        "Name": "Beach Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 14,
+        "Name": "Bog Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 14,
+        "Name": "Bramble Valley Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 14,
+        "Name": "Cage Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 14,
+        "Name": "Channel Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 14,
+        "Name": "Chateau Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 14,
+        "Name": "Coves Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 14,
+        "Name": "Crater Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 14,
+        "Name": "Crimson Township Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 14,
+        "Name": "Cursed Crypt Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 14,
+        "Name": "Dry Sea Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 14,
+        "Name": "Forbidden Woods Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 14,
+        "Name": "Foundry Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 14,
+        "Name": "Fungal Hollow Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 14,
+        "Name": "Grotto Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 14,
+        "Name": "Marshes Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 14,
+        "Name": "Maze Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 14,
+        "Name": "Overgrown Shrine Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 14,
+        "Name": "Pier Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 14,
+        "Name": "Port Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 14,
+        "Name": "Racecourse Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 14,
+        "Name": "Residence Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 14,
+        "Name": "Spider Forest Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 14,
+        "Name": "Strand Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 14,
+        "Name": "Temple Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 15,
+        "Name": "Academy Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 15,
+        "Name": "Alleyways Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 15,
+        "Name": "Arachnid Tomb Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 15,
+        "Name": "Cells Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 15,
+        "Name": "Cemetery Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 15,
+        "Name": "City Square Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 15,
+        "Name": "Cold River Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 15,
+        "Name": "Courthouse Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 15,
+        "Name": "Desert Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 15,
+        "Name": "Geode Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 15,
+        "Name": "Infested Valley Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 15,
+        "Name": "Jungle Valley Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 15,
+        "Name": "Lookout Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 15,
+        "Name": "Mausoleum Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 15,
+        "Name": "Mesa Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 15,
+        "Name": "Moon Temple Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 15,
+        "Name": "Museum Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 15,
+        "Name": "Necropolis Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 15,
+        "Name": "Pit Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 15,
+        "Name": "Ramparts Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 15,
+        "Name": "Relic Chambers Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 15,
+        "Name": "Silo Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 15,
+        "Name": "Terrace Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 15,
+        "Name": "Underground River Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 15,
+        "Name": "Vaal Pyramid Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 15,
+        "Name": "Vault Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Academy Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Alleyways Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Ancient City Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Arachnid Tomb Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Arcade Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Armoury Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Ashen Wood Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Atoll Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Basilica Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Beach Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Belfry Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Bog Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Bone Crypt Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Bramble Valley Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Burial Chambers Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Cage Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Caldera Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Carcass Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Castle Ruins Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Cells Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Cemetery Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Channel Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Chateau Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "City Square Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Cold River Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Colonnade Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Colosseum Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Coral Ruins Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Courthouse Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Courtyard Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Coves Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Crater Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Crimson Township Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Crystal Ore Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Cursed Crypt Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Dark Forest Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Defiled Cathedral Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Desert Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Desert Spring Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Dig Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Dry Sea Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Dunes Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Dungeon Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Estuary Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Fields Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Flooded Mine Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Forbidden Woods Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Forge of the Phoenix Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Foundry Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Fungal Hollow Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Gardens Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Geode Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Glacier Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Graveyard Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Grotto Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Haunted Mansion Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Infested Valley Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Jungle Valley Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Lair Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Lair of the Hydra Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Lava Lake Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Leyline Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Lighthouse Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Lookout Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Malformation Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Marshes Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Mausoleum Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Maze Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Maze of the Minotaur Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Mesa Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Moon Temple Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Museum Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Necropolis Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Orchard Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Overgrown Shrine Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Palace Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Pier Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Pit Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Pit of the Chimera Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Plateau Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Port Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Promenade Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Racecourse Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Ramparts Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Relic Chambers Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Residence Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Scriptorium Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Sepulchre Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Shore Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Siege Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Silo Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Spider Forest Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Spider Lair Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Strand Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Sulphur Vents Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Summit Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Temple Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Terrace Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Toxic Sewer Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Tropical Island Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Underground River Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Underground Sea Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Vaal Pyramid Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Vaal Temple Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 16,
+        "Name": "Vault Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 17,
+        "Name": "Abomination Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 17,
+        "Name": "Citadel Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 17,
+        "Name": "Fortress Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 17,
+        "Name": "Sanctuary Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      },
+      {
+        "Enabled": true,
+        "Active": true,
+        "Tier": 17,
+        "Name": "Ziggurat Map",
+        "Priority": 0,
+        "ExplorationPct": 95
+      }
+    ],
+    "SellExcessMaps": true,
+    "SellMapsThreshold": 30,
+    "MaxTime": 15,
+    "MaxDeaths": 0,
+    "NoMapsGrindEnabled": true,
+    "NoMapsGrindAreas": [],
+    "LeaveMapOnBossesDeath": true,
+    "DontLeaveIfBossesAlive": true,
+    "ShouldIgnoreBoss": false,
+    "ShouldChaseMonsters": false,
+    "PrioritizeUncompleted": true,
+    "MapUpgradeSettings": {
+      "Rarity": 2,
+      "UpgradeWithChisel": false,
+      "ChiselType": "Cartographer's Chisel",
+      "TargetQuality": 20,
+      "UpgradeWithVaal": false,
+      "VaalUncompleted": true,
+      "RerollWithScouring": true,
+      "RerollBlacklistedStats": false,
+      "RequiredStats": [],
+      "StatsBlacklist": [],
+      "DeliriumOrbsSettings": {
+        "IsEnabled": false,
+        "MaximumLayers": 5,
+        "DeliriumOrbs": []
+      }
+    },
+    "KiracSettings": {
+      "PurchaseUncompleted": false,
+      "PurchaseIfNoMaps": false,
+      "CompletedThreshold": 0,
+      "MaxTierToBuy": 16
+    },
+    "MapFragmentsSettings": {
+      "Enabled": false,
+      "MaximumFragments": 3,
+      "MapFragments": []
+    },
+    "MapDeviceModsSettings": {
+      "Enabled": false,
+      "ModName": "Increased Quantity"
+    }
+  },
+  "TradeSettings": {
+    "GeneralTradeSettings": {
+      "MessageDelay": 5,
+      "WaitForInvite": 30,
+      "AcceptInviteDelay": 1000,
+      "InviteTimeoutBlTime": 300,
+      "WaitForPlayer": 30,
+      "WaitTradeRequest": 30,
+      "AcceptTradeDelay": 1,
+      "WaitForTradeTimeout": 12,
+      "TradeAttempts": 3,
+      "TradeAttemptDelay": 20,
+      "TradeTimeTimeout": 45,
+      "AcceptedBlTime": 60,
+      "CanceledBlTime": 300,
+      "UpdateOffersDelay": 300,
+      "FastMoveDelay": 50,
+      "DivinePrice": 0
+    },
+    "BulkExchangeSettings": {
+      "Enabled": false,
+      "BulkExchangeTriggers": []
+    },
+    "BuyItemsSettings": {
+      "Enabled": false,
+      "ItemsToBuy": []
+    }
   },
   "EquipSettings": {
     "Enabled": true,
@@ -13583,7 +16653,7 @@
         {
           "Stat": {
             "Type": 2,
-            "StatID": 11611,
+            "StatID": 11614,
             "ID": "minion_attack_and_cast_speed_+%",
             "Description": "Minions have #% increased Attack and Cast Speed",
             "SiteID": "explicit.stat_3091578504"
@@ -14395,7 +17465,7 @@
         {
           "Stat": {
             "Type": 2,
-            "StatID": 11611,
+            "StatID": 11614,
             "ID": "minion_attack_and_cast_speed_+%",
             "Description": "Minions have #% increased Attack and Cast Speed",
             "SiteID": "explicit.stat_3091578504"
@@ -14474,7 +17544,7 @@
         {
           "Stat": {
             "Type": 2,
-            "StatID": 11611,
+            "StatID": 11614,
             "ID": "minion_attack_and_cast_speed_+%",
             "Description": "Minions have #% increased Attack and Cast Speed",
             "SiteID": "explicit.stat_3091578504"
@@ -14755,7 +17825,8 @@
   },
   "GameSettings": {
     "MinimizeOnLoad": false,
-    "MinimizedTickRate": 60
+    "MinimizedTickRate": 60,
+    "MaxLoadingTime": 120
   },
   "SleepSettings": {
     "Enabled": false,
@@ -15423,12 +18494,334 @@
             true
           ]
         }
+      ],
+      "EssencesToCorrupt": [
+        {
+          "IsEnabled": false,
+          "Type": "Hatred",
+          "Group": 1,
+          "Tiers": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "IsEnabled": false,
+          "Type": "Woe",
+          "Group": 1,
+          "Tiers": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "IsEnabled": false,
+          "Type": "Greed",
+          "Group": 1,
+          "Tiers": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "IsEnabled": false,
+          "Type": "Contempt",
+          "Group": 1,
+          "Tiers": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "IsEnabled": false,
+          "Type": "Sorrow",
+          "Group": 2,
+          "Tiers": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "IsEnabled": false,
+          "Type": "Anger",
+          "Group": 2,
+          "Tiers": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "IsEnabled": false,
+          "Type": "Torment",
+          "Group": 2,
+          "Tiers": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "IsEnabled": false,
+          "Type": "Fear",
+          "Group": 2,
+          "Tiers": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "IsEnabled": false,
+          "Type": "Suffering",
+          "Group": 3,
+          "Tiers": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "IsEnabled": false,
+          "Type": "Rage",
+          "Group": 3,
+          "Tiers": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "IsEnabled": false,
+          "Type": "Wrath",
+          "Group": 3,
+          "Tiers": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "IsEnabled": false,
+          "Type": "Doubt",
+          "Group": 3,
+          "Tiers": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "IsEnabled": false,
+          "Type": "Anguish",
+          "Group": 4,
+          "Tiers": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "IsEnabled": false,
+          "Type": "Loathing",
+          "Group": 4,
+          "Tiers": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "IsEnabled": false,
+          "Type": "Spite",
+          "Group": 4,
+          "Tiers": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "IsEnabled": false,
+          "Type": "Zeal",
+          "Group": 4,
+          "Tiers": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "IsEnabled": false,
+          "Type": "Misery",
+          "Group": 5,
+          "Tiers": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "IsEnabled": false,
+          "Type": "Dread",
+          "Group": 5,
+          "Tiers": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "IsEnabled": false,
+          "Type": "Scorn",
+          "Group": 5,
+          "Tiers": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "IsEnabled": false,
+          "Type": "Envy",
+          "Group": 5,
+          "Tiers": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        }
       ]
+    },
+    "HeistSettings": {
+      "OpenSmugglersCache": true
     }
+  },
+  "LabyrinthSettings": {
+    "NormalLabyrinthEnabled": true,
+    "CruelLabyrinthEnabled": true,
+    "MercilessLabyrinthEnabled": true,
+    "EternalLabyrinthEnabled": false,
+    "NormalLabyrinthLevel": 70,
+    "CruelLabyrinthLevel": 70,
+    "MercilessLabyrinthLevel": 72,
+    "ShouldChooseAscendancy": true,
+    "AscendancyName": "Hierophant"
   },
   "IncubatorsSettings": {
     "Enabled": false,
     "Incubators": []
+  },
+  "BestiaryCleanupSettings": {
+    "Enabled": false,
+    "CleanupDelay": 30,
+    "CleanupThreshold": 0,
+    "Monsters": []
   },
   "LatencyHandlerSettings": {
     "Enabled": true,
@@ -15446,6 +18839,10 @@
     "MaxAttempts": 5,
     "NextLoginDelayMin": 5,
     "NextLoginDelayMax": 15
+  },
+  "ItemiseBeastsSettings": {
+    "Enabled": false,
+    "Monsters": []
   },
   "DeleteFromStashSettings": {
     "Enabled": false,
@@ -15495,6 +18892,10 @@
             "Max": 100
           },
           "Quality": {
+            "Comparsion": 1,
+            "Value": 0
+          },
+          "MapTier": {
             "Comparsion": 1,
             "Value": 0
           },
@@ -15599,6 +19000,10 @@
             "Comparsion": 1,
             "Value": 0
           },
+          "MapTier": {
+            "Comparsion": 1,
+            "Value": 0
+          },
           "Stats": [],
           "Weapon": {
             "Damage": {
@@ -15697,6 +19102,10 @@
             "Max": 100
           },
           "Quality": {
+            "Comparsion": 1,
+            "Value": 0
+          },
+          "MapTier": {
             "Comparsion": 1,
             "Value": 0
           },
@@ -15801,6 +19210,10 @@
             "Comparsion": 1,
             "Value": 0
           },
+          "MapTier": {
+            "Comparsion": 1,
+            "Value": 0
+          },
           "Stats": [],
           "Weapon": {
             "Damage": {
@@ -15899,6 +19312,10 @@
             "Max": 100
           },
           "Quality": {
+            "Comparsion": 1,
+            "Value": 0
+          },
+          "MapTier": {
             "Comparsion": 1,
             "Value": 0
           },
@@ -16003,6 +19420,10 @@
             "Comparsion": 1,
             "Value": 0
           },
+          "MapTier": {
+            "Comparsion": 1,
+            "Value": 0
+          },
           "Stats": [],
           "Weapon": {
             "Damage": {
@@ -16101,6 +19522,10 @@
             "Max": 100
           },
           "Quality": {
+            "Comparsion": 1,
+            "Value": 0
+          },
+          "MapTier": {
             "Comparsion": 1,
             "Value": 0
           },
@@ -16205,6 +19630,10 @@
             "Comparsion": 1,
             "Value": 0
           },
+          "MapTier": {
+            "Comparsion": 1,
+            "Value": 0
+          },
           "Stats": [],
           "Weapon": {
             "Damage": {
@@ -16303,6 +19732,10 @@
             "Max": 100
           },
           "Quality": {
+            "Comparsion": 1,
+            "Value": 0
+          },
+          "MapTier": {
             "Comparsion": 1,
             "Value": 0
           },
@@ -16407,6 +19840,10 @@
             "Comparsion": 1,
             "Value": 0
           },
+          "MapTier": {
+            "Comparsion": 1,
+            "Value": 0
+          },
           "Stats": [],
           "Weapon": {
             "Damage": {
@@ -16505,6 +19942,10 @@
             "Max": 100
           },
           "Quality": {
+            "Comparsion": 1,
+            "Value": 0
+          },
+          "MapTier": {
             "Comparsion": 1,
             "Value": 0
           },
@@ -16932,6 +20373,231 @@
           "IsMapBoss": false,
           "IsBestiaryMonster": false
         }
+      }
+    ]
+  },
+  "LevelSkillGemsSettings": {
+    "Enabled": true,
+    "SkillGemsSettings": []
+  },
+  "MainInventoryRestockSettings": {
+    "Enabled": true,
+    "RestockableItems": [
+      {
+        "Enabled": true,
+        "ItemRule": {
+          "Enabled": false,
+          "Name": [],
+          "Metadata": [],
+          "IconPath": [],
+          "BaseItemType": "Scroll of Wisdom",
+          "ItemClass": "",
+          "Rarity": {
+            "Comparsion": 1,
+            "Value": 0
+          },
+          "Sockets": {
+            "R": 0,
+            "G": 0,
+            "B": 0,
+            "W": 0,
+            "Total": {
+              "Min": 0,
+              "Max": 0
+            }
+          },
+          "Links": {
+            "R": 0,
+            "G": 0,
+            "B": 0,
+            "W": 0,
+            "Total": {
+              "Min": 0,
+              "Max": 0
+            }
+          },
+          "ItemLevel": {
+            "Min": 0,
+            "Max": 0
+          },
+          "RequiredLevel": {
+            "Min": 0,
+            "Max": 0
+          },
+          "PlayerLevel": {
+            "Min": 0,
+            "Max": 100
+          },
+          "Quality": {
+            "Comparsion": 1,
+            "Value": 0
+          },
+          "MapTier": {
+            "Comparsion": 1,
+            "Value": 0
+          },
+          "Stats": [],
+          "Weapon": {
+            "Damage": {
+              "Min": 0,
+              "Max": 0
+            },
+            "AttackSpeed": {
+              "Min": 0.0,
+              "Max": 0.0
+            },
+            "PhysicalDPS": {
+              "Min": 0,
+              "Max": 0
+            },
+            "ElementalDPS": {
+              "Min": 0,
+              "Max": 0
+            },
+            "DPS": {
+              "Min": 0,
+              "Max": 0
+            },
+            "Critical": {
+              "Min": 0.0,
+              "Max": 0.0
+            }
+          },
+          "Armour": {
+            "Armour": {
+              "Min": 0,
+              "Max": 0
+            },
+            "Evasion": {
+              "Min": 0,
+              "Max": 0
+            },
+            "EnergyShield": {
+              "Min": 0,
+              "Max": 0
+            }
+          },
+          "IsIdentified": {
+            "Comparsion": 0
+          },
+          "IsCorruprted": {
+            "Comparsion": 0
+          },
+          "IsMirrored": {
+            "Comparsion": 0
+          }
+        },
+        "InventoryPositionX": 10,
+        "InventoryPositionY": 4,
+        "Quantity": 40
+      },
+      {
+        "Enabled": true,
+        "ItemRule": {
+          "Enabled": false,
+          "Name": [],
+          "Metadata": [],
+          "IconPath": [],
+          "BaseItemType": "Portal Scroll",
+          "ItemClass": "",
+          "Rarity": {
+            "Comparsion": 1,
+            "Value": 0
+          },
+          "Sockets": {
+            "R": 0,
+            "G": 0,
+            "B": 0,
+            "W": 0,
+            "Total": {
+              "Min": 0,
+              "Max": 0
+            }
+          },
+          "Links": {
+            "R": 0,
+            "G": 0,
+            "B": 0,
+            "W": 0,
+            "Total": {
+              "Min": 0,
+              "Max": 0
+            }
+          },
+          "ItemLevel": {
+            "Min": 0,
+            "Max": 0
+          },
+          "RequiredLevel": {
+            "Min": 0,
+            "Max": 0
+          },
+          "PlayerLevel": {
+            "Min": 0,
+            "Max": 100
+          },
+          "Quality": {
+            "Comparsion": 1,
+            "Value": 0
+          },
+          "MapTier": {
+            "Comparsion": 1,
+            "Value": 0
+          },
+          "Stats": [],
+          "Weapon": {
+            "Damage": {
+              "Min": 0,
+              "Max": 0
+            },
+            "AttackSpeed": {
+              "Min": 0.0,
+              "Max": 0.0
+            },
+            "PhysicalDPS": {
+              "Min": 0,
+              "Max": 0
+            },
+            "ElementalDPS": {
+              "Min": 0,
+              "Max": 0
+            },
+            "DPS": {
+              "Min": 0,
+              "Max": 0
+            },
+            "Critical": {
+              "Min": 0.0,
+              "Max": 0.0
+            }
+          },
+          "Armour": {
+            "Armour": {
+              "Min": 0,
+              "Max": 0
+            },
+            "Evasion": {
+              "Min": 0,
+              "Max": 0
+            },
+            "EnergyShield": {
+              "Min": 0,
+              "Max": 0
+            }
+          },
+          "IsIdentified": {
+            "Comparsion": 0
+          },
+          "IsCorruprted": {
+            "Comparsion": 0
+          },
+          "IsMirrored": {
+            "Comparsion": 0
+          }
+        },
+        "InventoryPositionX": 11,
+        "InventoryPositionY": 4,
+        "Quantity": 40
       }
     ]
   }
