@@ -1232,11 +1232,6 @@
               {
                 "Logic": 2,
                 "Type": 1,
-                "Text": "Orb of Alteration"
-              },
-              {
-                "Logic": 2,
-                "Type": 1,
                 "Text": "Blacksmith's Whetstone"
               },
               {
@@ -1641,108 +1636,6 @@
             }
           },
           {
-            "Enabled": false,
-            "Name": [],
-            "Metadata": [],
-            "IconPath": [],
-            "BaseItemType": "",
-            "ItemClass": "Utility Flasks",
-            "Rarity": {
-              "Comparsion": 1,
-              "Value": 0
-            },
-            "Sockets": {
-              "R": 0,
-              "G": 0,
-              "B": 0,
-              "W": 0,
-              "Total": {
-                "Min": 0,
-                "Max": 0
-              }
-            },
-            "Links": {
-              "R": 0,
-              "G": 0,
-              "B": 0,
-              "W": 0,
-              "Total": {
-                "Min": 0,
-                "Max": 0
-              }
-            },
-            "ItemLevel": {
-              "Min": 0,
-              "Max": 0
-            },
-            "RequiredLevel": {
-              "Min": 0,
-              "Max": 0
-            },
-            "PlayerLevel": {
-              "Min": 0,
-              "Max": 100
-            },
-            "Quality": {
-              "Comparsion": 1,
-              "Value": 0
-            },
-            "MapTier": {
-              "Comparsion": 1,
-              "Value": 0
-            },
-            "Stats": [],
-            "Weapon": {
-              "Damage": {
-                "Min": 0,
-                "Max": 0
-              },
-              "AttackSpeed": {
-                "Min": 0.0,
-                "Max": 0.0
-              },
-              "PhysicalDPS": {
-                "Min": 0,
-                "Max": 0
-              },
-              "ElementalDPS": {
-                "Min": 0,
-                "Max": 0
-              },
-              "DPS": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Critical": {
-                "Min": 0.0,
-                "Max": 0.0
-              }
-            },
-            "Armour": {
-              "Armour": {
-                "Min": 0,
-                "Max": 0
-              },
-              "Evasion": {
-                "Min": 0,
-                "Max": 0
-              },
-              "EnergyShield": {
-                "Min": 0,
-                "Max": 0
-              }
-            },
-            "IsIdentified": {
-              "Comparsion": 0
-            },
-            "IsCorruprted": {
-              "Comparsion": 0
-            },
-            "IsMirrored": {
-              "Comparsion": 0
-            }
-          },
-          {
             "Enabled": true,
             "Name": [],
             "Metadata": [],
@@ -1951,13 +1844,7 @@
       {
         "TabNames": [
           {
-            "Value": "6"
-          },
-          {
             "Value": "7"
-          },
-          {
-            "Value": "4"
           }
         ],
         "StashRules": [
@@ -1967,10 +1854,10 @@
             "Metadata": [],
             "IconPath": [],
             "BaseItemType": "",
-            "ItemClass": "Maps",
+            "ItemClass": "Map Fragments",
             "Rarity": {
-              "Comparsion": 2,
-              "Value": 2
+              "Comparsion": 1,
+              "Value": 0
             },
             "Sockets": {
               "R": 0,
@@ -2062,7 +1949,19 @@
             "IsMirrored": {
               "Comparsion": 0
             }
+          }
+        ]
+      },
+      {
+        "TabNames": [
+          {
+            "Value": "5"
           },
+          {
+            "Value": "4"
+          }
+        ],
+        "StashRules": [
           {
             "Enabled": true,
             "Name": [],
@@ -2171,10 +2070,10 @@
             "Metadata": [],
             "IconPath": [],
             "BaseItemType": "",
-            "ItemClass": "Map Fragments",
+            "ItemClass": "Maps",
             "Rarity": {
-              "Comparsion": 1,
-              "Value": 0
+              "Comparsion": 2,
+              "Value": 2
             },
             "Sockets": {
               "R": 0,
@@ -11046,9 +10945,30 @@
       "MaxTierToBuy": 13
     },
     "MapFragmentsSettings": {
-      "Enabled": false,
-      "MaximumFragments": 3,
-      "MapFragments": []
+      "Enabled": true,
+      "MaximumFragments": 5,
+      "MapFragments": [
+        {
+          "Enabled": true,
+          "Name": "Scarab of Hunted Traitors",
+          "Limit": 1
+        },
+        {
+          "Enabled": true,
+          "Name": "Cartography Scarab of Escalation",
+          "Limit": 1
+        },
+        {
+          "Enabled": true,
+          "Name": "Scarab of Monstrous Lineage",
+          "Limit": 2
+        },
+        {
+          "Enabled": true,
+          "Name": "Influencing Scarab of Hordes",
+          "Limit": 1
+        }
+      ]
     },
     "MapDeviceModsSettings": {
       "Enabled": true,
