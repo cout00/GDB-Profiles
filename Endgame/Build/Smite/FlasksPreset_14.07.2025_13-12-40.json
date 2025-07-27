@@ -1,0 +1,524 @@
+{
+  "Enabled": true,
+  "FlasksRules": [
+    {
+      "Enabled": true,
+      "Priority": 0,
+      "Name": "Quicksilver Flask",
+      "PlayerCondition": {
+        "Health": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "Mana": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "ES": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "HealthIsPercent": true,
+        "ManaIsPercent": false,
+        "EsIsPercent": false,
+        "Buffs": [
+          {
+            "Logic": 2,
+            "Buff": {
+              "ID": "flask_utility_sprint",
+              "Name": "Quicksilver Flask"
+            },
+            "Time": {
+              "Comparsion": 1,
+              "Value": 0
+            },
+            "Stacks": {
+              "Comparsion": 1,
+              "Value": 0
+            }
+          }
+        ],
+        "IsRunning": false
+      },
+      "MonsterPosition": {
+        "Distance": {
+          "Min": 0,
+          "Max": 70
+        },
+        "PackSize": 0,
+        "PackRadius": 50
+      },
+      "MonsterCondition": {
+        "Name": [],
+        "MonsterType": [],
+        "Metadata": [],
+        "Rarity": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "Health": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "HealthIsPercent": true,
+        "Buffs": [],
+        "IsMapBoss": false,
+        "IsBestiaryMonster": false
+      },
+      "Delay": 300,
+      "Charges": {
+        "Comparsion": 1,
+        "Value": 0
+      },
+      "NotInCombat": false,
+      "IsInstant": false
+    },
+    {
+      "Enabled": true,
+      "Priority": 0,
+      "Name": "Granite Flask",
+      "PlayerCondition": {
+        "Health": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "Mana": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "ES": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "HealthIsPercent": true,
+        "ManaIsPercent": true,
+        "EsIsPercent": true,
+        "Buffs": [
+          {
+            "Logic": 2,
+            "Buff": {
+              "ID": "flask_utility_ironskin",
+              "Name": "Granite Flask"
+            },
+            "Time": {
+              "Comparsion": 1,
+              "Value": 200
+            },
+            "Stacks": {
+              "Comparsion": 1,
+              "Value": 0
+            }
+          }
+        ],
+        "IsRunning": false
+      },
+      "MonsterPosition": {
+        "Distance": {
+          "Min": 0,
+          "Max": 70
+        },
+        "PackSize": 0,
+        "PackRadius": 50
+      },
+      "MonsterCondition": {
+        "Name": [],
+        "MonsterType": [],
+        "Metadata": [],
+        "Rarity": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "Health": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "HealthIsPercent": true,
+        "Buffs": [],
+        "IsMapBoss": false,
+        "IsBestiaryMonster": false
+      },
+      "Delay": 100,
+      "Charges": {
+        "Comparsion": 1,
+        "Value": 0
+      },
+      "NotInCombat": false,
+      "IsInstant": false
+    },
+    {
+      "Enabled": false,
+      "Priority": 0,
+      "Name": "Rosethorn Tincture",
+      "PlayerCondition": {
+        "Health": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "Mana": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "ES": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "HealthIsPercent": true,
+        "ManaIsPercent": true,
+        "EsIsPercent": true,
+        "Buffs": [
+          {
+            "Logic": 2,
+            "Buff": {
+              "ID": "tincture_attack_speed",
+              "Name": "Tincture Swiftness"
+            },
+            "Time": {
+              "Comparsion": 1,
+              "Value": 0
+            },
+            "Stacks": {
+              "Comparsion": 1,
+              "Value": 0
+            }
+          },
+          {
+            "Logic": 2,
+            "Buff": {
+              "ID": "tincture_penetrate_elemental_resistances",
+              "Name": "Tincture Elemental Scourging"
+            },
+            "Time": {
+              "Comparsion": 1,
+              "Value": 0
+            },
+            "Stacks": {
+              "Comparsion": 1,
+              "Value": 0
+            }
+          }
+        ],
+        "IsRunning": false
+      },
+      "MonsterPosition": {
+        "Distance": {
+          "Min": 0,
+          "Max": 70
+        },
+        "PackSize": 0,
+        "PackRadius": 50
+      },
+      "MonsterCondition": {
+        "Name": [],
+        "MonsterType": [],
+        "Metadata": [],
+        "Rarity": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "Health": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "HealthIsPercent": true,
+        "Buffs": [],
+        "IsMapBoss": false,
+        "IsBestiaryMonster": false
+      },
+      "Delay": 200,
+      "Charges": {
+        "Comparsion": 1,
+        "Value": 0
+      },
+      "NotInCombat": false,
+      "IsInstant": false
+    },
+    {
+      "Enabled": true,
+      "Priority": 0,
+      "Name": "Sapphire Flask",
+      "PlayerCondition": {
+        "Health": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "Mana": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "ES": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "HealthIsPercent": true,
+        "ManaIsPercent": true,
+        "EsIsPercent": true,
+        "Buffs": [
+          {
+            "Logic": 2,
+            "Buff": {
+              "ID": "flask_utility_resist_cold",
+              "Name": "Sapphire Flask"
+            },
+            "Time": {
+              "Comparsion": 1,
+              "Value": 0
+            },
+            "Stacks": {
+              "Comparsion": 1,
+              "Value": 0
+            }
+          }
+        ],
+        "IsRunning": false
+      },
+      "MonsterPosition": {
+        "Distance": {
+          "Min": 0,
+          "Max": 70
+        },
+        "PackSize": 0,
+        "PackRadius": 50
+      },
+      "MonsterCondition": {
+        "Name": [],
+        "MonsterType": [],
+        "Metadata": [],
+        "Rarity": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "Health": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "HealthIsPercent": true,
+        "Buffs": [],
+        "IsMapBoss": false,
+        "IsBestiaryMonster": false
+      },
+      "Delay": 100,
+      "Charges": {
+        "Comparsion": 1,
+        "Value": 0
+      },
+      "NotInCombat": false,
+      "IsInstant": false
+    },
+    {
+      "Enabled": true,
+      "Priority": 0,
+      "Name": "Taste of Hate",
+      "PlayerCondition": {
+        "Health": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "Mana": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "ES": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "HealthIsPercent": true,
+        "ManaIsPercent": true,
+        "EsIsPercent": true,
+        "Buffs": [
+          {
+            "Logic": 2,
+            "Buff": {
+              "ID": "flask_utility_resist_cold",
+              "Name": "Sapphire Flask"
+            },
+            "Time": {
+              "Comparsion": 1,
+              "Value": 0
+            },
+            "Stacks": {
+              "Comparsion": 1,
+              "Value": 0
+            }
+          }
+        ],
+        "IsRunning": false
+      },
+      "MonsterPosition": {
+        "Distance": {
+          "Min": 0,
+          "Max": 70
+        },
+        "PackSize": 0,
+        "PackRadius": 50
+      },
+      "MonsterCondition": {
+        "Name": [],
+        "MonsterType": [],
+        "Metadata": [],
+        "Rarity": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "Health": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "HealthIsPercent": true,
+        "Buffs": [],
+        "IsMapBoss": false,
+        "IsBestiaryMonster": false
+      },
+      "Delay": 100,
+      "Charges": {
+        "Comparsion": 1,
+        "Value": 0
+      },
+      "NotInCombat": false,
+      "IsInstant": false
+    },
+    {
+      "Enabled": true,
+      "Priority": 0,
+      "Name": "Ruby Flask",
+      "PlayerCondition": {
+        "Health": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "Mana": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "ES": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "HealthIsPercent": true,
+        "ManaIsPercent": true,
+        "EsIsPercent": true,
+        "Buffs": [
+          {
+            "Logic": 2,
+            "Buff": {
+              "ID": "flask_utility_resist_fire",
+              "Name": "Ruby Flask"
+            },
+            "Time": {
+              "Comparsion": 1,
+              "Value": 0
+            },
+            "Stacks": {
+              "Comparsion": 1,
+              "Value": 0
+            }
+          }
+        ],
+        "IsRunning": false
+      },
+      "MonsterPosition": {
+        "Distance": {
+          "Min": 0,
+          "Max": 70
+        },
+        "PackSize": 0,
+        "PackRadius": 50
+      },
+      "MonsterCondition": {
+        "Name": [],
+        "MonsterType": [],
+        "Metadata": [],
+        "Rarity": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "Health": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "HealthIsPercent": true,
+        "Buffs": [],
+        "IsMapBoss": false,
+        "IsBestiaryMonster": false
+      },
+      "Delay": 100,
+      "Charges": {
+        "Comparsion": 1,
+        "Value": 0
+      },
+      "NotInCombat": false,
+      "IsInstant": false
+    },
+    {
+      "Enabled": true,
+      "Priority": 0,
+      "Name": "Quartz Flask",
+      "PlayerCondition": {
+        "Health": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "Mana": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "ES": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "HealthIsPercent": true,
+        "ManaIsPercent": true,
+        "EsIsPercent": true,
+        "Buffs": [
+          {
+            "Logic": 2,
+            "Buff": {
+              "ID": "flask_utility_phase",
+              "Name": "Quartz Flask"
+            },
+            "Time": {
+              "Comparsion": 1,
+              "Value": 0
+            },
+            "Stacks": {
+              "Comparsion": 1,
+              "Value": 0
+            }
+          }
+        ],
+        "IsRunning": false
+      },
+      "MonsterPosition": {
+        "Distance": {
+          "Min": 0,
+          "Max": 70
+        },
+        "PackSize": 0,
+        "PackRadius": 50
+      },
+      "MonsterCondition": {
+        "Name": [],
+        "MonsterType": [],
+        "Metadata": [],
+        "Rarity": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "Health": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "HealthIsPercent": true,
+        "Buffs": [],
+        "IsMapBoss": false,
+        "IsBestiaryMonster": false
+      },
+      "Delay": 100,
+      "Charges": {
+        "Comparsion": 1,
+        "Value": 0
+      },
+      "NotInCombat": false,
+      "IsInstant": false
+    }
+  ]
+}

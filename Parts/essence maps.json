@@ -1,0 +1,2978 @@
+[
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 1,
+    "Name": "Alleyways Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 1,
+    "Name": "Bone Crypt Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 1,
+    "Name": "Ramparts Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 1,
+    "Name": "Terrace Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 2,
+    "Name": "Channel Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 2,
+    "Name": "Chateau Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 2,
+    "Name": "Colosseum Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 2,
+    "Name": "Dunes Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 2,
+    "Name": "Geode Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 2,
+    "Name": "Mausoleum Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 2,
+    "Name": "Sepulchre Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 2,
+    "Name": "Villa Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 3,
+    "Name": "Acid Caverns Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 3,
+    "Name": "Arachnid Tomb Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 3,
+    "Name": "Core Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 3,
+    "Name": "Defiled Cathedral Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 3,
+    "Name": "Forbidden Woods Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 3,
+    "Name": "Laboratory Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 3,
+    "Name": "Overgrown Shrine Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 3,
+    "Name": "Strand Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 4,
+    "Name": "Alleyways Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 4,
+    "Name": "Bone Crypt Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 4,
+    "Name": "Cemetery Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 4,
+    "Name": "Dark Forest Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 4,
+    "Name": "Foundry Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 4,
+    "Name": "Moon Temple Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 4,
+    "Name": "Plateau Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 4,
+    "Name": "Ramparts Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 4,
+    "Name": "Siege Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 4,
+    "Name": "Spider Forest Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 4,
+    "Name": "Terrace Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 4,
+    "Name": "Vaal Pyramid Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 5,
+    "Name": "Atoll Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 5,
+    "Name": "Bazaar Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 5,
+    "Name": "Bog Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 5,
+    "Name": "Channel Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 5,
+    "Name": "Chateau Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 5,
+    "Name": "Colosseum Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 5,
+    "Name": "Courtyard Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 5,
+    "Name": "Dunes Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 5,
+    "Name": "Frozen Cabins Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 5,
+    "Name": "Geode Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 5,
+    "Name": "Ghetto Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 5,
+    "Name": "Ivory Temple Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 5,
+    "Name": "Mausoleum Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 5,
+    "Name": "Racecourse Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 5,
+    "Name": "Sepulchre Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 5,
+    "Name": "Villa Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 6,
+    "Name": "Acid Caverns Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 6,
+    "Name": "Ancient City Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 6,
+    "Name": "Arachnid Tomb Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 6,
+    "Name": "Basilica Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 6,
+    "Name": "Conservatory Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 6,
+    "Name": "Core Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 6,
+    "Name": "Defiled Cathedral Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 6,
+    "Name": "Forbidden Woods Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 6,
+    "Name": "Laboratory Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 6,
+    "Name": "Lava Lake Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 6,
+    "Name": "Leyline Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 6,
+    "Name": "Overgrown Shrine Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 6,
+    "Name": "Promenade Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 6,
+    "Name": "Shore Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 6,
+    "Name": "Strand Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 7,
+    "Name": "Cemetery Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 7,
+    "Name": "City Square Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 7,
+    "Name": "Cursed Crypt Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 7,
+    "Name": "Dark Forest Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 7,
+    "Name": "Foundry Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 7,
+    "Name": "Glacier Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 7,
+    "Name": "Mineral Pools Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 7,
+    "Name": "Moon Temple Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 7,
+    "Name": "Plateau Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 7,
+    "Name": "Precinct Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 7,
+    "Name": "Primordial Blocks Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 7,
+    "Name": "Siege Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 7,
+    "Name": "Spider Forest Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 7,
+    "Name": "Vaal Pyramid Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 7,
+    "Name": "Waterways Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 8,
+    "Name": "Alleyways Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 8,
+    "Name": "Arsenal Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 8,
+    "Name": "Atoll Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 8,
+    "Name": "Bazaar Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 8,
+    "Name": "Bog Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 8,
+    "Name": "Bone Crypt Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 8,
+    "Name": "Colonnade Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 8,
+    "Name": "Courtyard Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 8,
+    "Name": "Frozen Cabins Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 8,
+    "Name": "Ghetto Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 8,
+    "Name": "Ivory Temple Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 8,
+    "Name": "Racecourse Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 8,
+    "Name": "Ramparts Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 8,
+    "Name": "Scriptorium Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 8,
+    "Name": "Shipyard Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 8,
+    "Name": "Terrace Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 8,
+    "Name": "Tropical Island Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 8,
+    "Name": "Vault Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 8,
+    "Name": "Wharf Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 9,
+    "Name": "Ancient City Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 9,
+    "Name": "Basilica Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 9,
+    "Name": "Bramble Valley Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 9,
+    "Name": "Channel Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 9,
+    "Name": "Chateau Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 9,
+    "Name": "Colosseum Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 9,
+    "Name": "Conservatory Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 9,
+    "Name": "Coral Ruins Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 9,
+    "Name": "Desert Spring Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 9,
+    "Name": "Dig Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 9,
+    "Name": "Dunes Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 9,
+    "Name": "Geode Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 9,
+    "Name": "Lava Lake Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 9,
+    "Name": "Leyline Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 9,
+    "Name": "Mausoleum Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 9,
+    "Name": "Park Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 9,
+    "Name": "Phantasmagoria Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 9,
+    "Name": "Promenade Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 9,
+    "Name": "Sepulchre Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 9,
+    "Name": "Shore Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 9,
+    "Name": "Villa Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 10,
+    "Name": "Acid Caverns Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 10,
+    "Name": "Arachnid Tomb Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 10,
+    "Name": "Arid Lake Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 10,
+    "Name": "City Square Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 10,
+    "Name": "Core Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 10,
+    "Name": "Cursed Crypt Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 10,
+    "Name": "Defiled Cathedral Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 10,
+    "Name": "Estuary Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 10,
+    "Name": "Forbidden Woods Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 10,
+    "Name": "Glacier Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 10,
+    "Name": "Grotto Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 10,
+    "Name": "Iceberg Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 10,
+    "Name": "Laboratory Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 10,
+    "Name": "Mesa Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 10,
+    "Name": "Mineral Pools Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 10,
+    "Name": "Overgrown Shrine Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 10,
+    "Name": "Precinct Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 10,
+    "Name": "Primordial Blocks Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 10,
+    "Name": "Strand Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 10,
+    "Name": "Underground Sea Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 10,
+    "Name": "Waterways Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 11,
+    "Name": "Arcade Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 11,
+    "Name": "Arsenal Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 11,
+    "Name": "Belfry Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 11,
+    "Name": "Cemetery Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 11,
+    "Name": "Colonnade Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 11,
+    "Name": "Dark Forest Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 11,
+    "Name": "Foundry Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 11,
+    "Name": "Grave Trough Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 11,
+    "Name": "Jungle Valley Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 11,
+    "Name": "Moon Temple Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 11,
+    "Name": "Orchard Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 11,
+    "Name": "Plateau Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 11,
+    "Name": "Scriptorium Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 11,
+    "Name": "Shipyard Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 11,
+    "Name": "Siege Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 11,
+    "Name": "Silo Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 11,
+    "Name": "Spider Forest Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 11,
+    "Name": "Tropical Island Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 11,
+    "Name": "Vaal Pyramid Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 11,
+    "Name": "Vault Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 11,
+    "Name": "Wharf Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 12,
+    "Name": "Alleyways Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 12,
+    "Name": "Atoll Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 12,
+    "Name": "Bazaar Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 12,
+    "Name": "Bog Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 12,
+    "Name": "Bone Crypt Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 12,
+    "Name": "Bramble Valley Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 12,
+    "Name": "Castle Ruins Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 12,
+    "Name": "Coral Ruins Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 12,
+    "Name": "Courtyard Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 12,
+    "Name": "Desert Spring Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 12,
+    "Name": "Dig Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 12,
+    "Name": "Dungeon Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 12,
+    "Name": "Frozen Cabins Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 12,
+    "Name": "Ghetto Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 12,
+    "Name": "Ivory Temple Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 12,
+    "Name": "Museum Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 12,
+    "Name": "Necropolis Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 12,
+    "Name": "Park Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 12,
+    "Name": "Phantasmagoria Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 12,
+    "Name": "Racecourse Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 12,
+    "Name": "Ramparts Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 12,
+    "Name": "Sunken City Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 12,
+    "Name": "Terrace Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 12,
+    "Name": "Toxic Sewer Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 13,
+    "Name": "Ancient City Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 13,
+    "Name": "Arid Lake Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 13,
+    "Name": "Armoury Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 13,
+    "Name": "Basilica Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 13,
+    "Name": "Beach Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 13,
+    "Name": "Channel Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 13,
+    "Name": "Chateau Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 13,
+    "Name": "Colosseum Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 13,
+    "Name": "Conservatory Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 13,
+    "Name": "Crystal Ore Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 13,
+    "Name": "Dunes Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 13,
+    "Name": "Estuary Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 13,
+    "Name": "Geode Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 13,
+    "Name": "Grotto Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 13,
+    "Name": "Iceberg Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 13,
+    "Name": "Lava Lake Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 13,
+    "Name": "Leyline Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 13,
+    "Name": "Malformation Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 13,
+    "Name": "Mausoleum Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 13,
+    "Name": "Mesa Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 13,
+    "Name": "Pier Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 13,
+    "Name": "Promenade Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 13,
+    "Name": "Sepulchre Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 13,
+    "Name": "Shore Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 13,
+    "Name": "Underground Sea Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 13,
+    "Name": "Villa Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 14,
+    "Name": "Acid Caverns Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 14,
+    "Name": "Arachnid Tomb Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 14,
+    "Name": "Arcade Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 14,
+    "Name": "Belfry Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 14,
+    "Name": "City Square Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 14,
+    "Name": "Cold River Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 14,
+    "Name": "Core Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 14,
+    "Name": "Cursed Crypt Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 14,
+    "Name": "Defiled Cathedral Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 14,
+    "Name": "Flooded Mine Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 14,
+    "Name": "Forbidden Woods Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 14,
+    "Name": "Glacier Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 14,
+    "Name": "Grave Trough Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 14,
+    "Name": "Jungle Valley Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 14,
+    "Name": "Laboratory Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 14,
+    "Name": "Maze Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 14,
+    "Name": "Mineral Pools Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 14,
+    "Name": "Orchard Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 14,
+    "Name": "Overgrown Shrine Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 14,
+    "Name": "Peninsula Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 14,
+    "Name": "Precinct Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 14,
+    "Name": "Primordial Blocks Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 14,
+    "Name": "Silo Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 14,
+    "Name": "Strand Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 14,
+    "Name": "Temple Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 14,
+    "Name": "Waterways Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 15,
+    "Name": "Arsenal Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 15,
+    "Name": "Ashen Wood Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 15,
+    "Name": "Castle Ruins Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 15,
+    "Name": "Cemetery Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 15,
+    "Name": "Colonnade Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 15,
+    "Name": "Dark Forest Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 15,
+    "Name": "Dungeon Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 15,
+    "Name": "Foundry Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 15,
+    "Name": "Moon Temple Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 15,
+    "Name": "Museum Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 15,
+    "Name": "Necropolis Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 15,
+    "Name": "Palace Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 15,
+    "Name": "Plateau Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 15,
+    "Name": "Scriptorium Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 15,
+    "Name": "Shipyard Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 15,
+    "Name": "Siege Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 15,
+    "Name": "Spider Forest Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 15,
+    "Name": "Sunken City Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 15,
+    "Name": "Toxic Sewer Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 15,
+    "Name": "Tropical Island Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 15,
+    "Name": "Underground River Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 15,
+    "Name": "Vaal Pyramid Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 15,
+    "Name": "Vault Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 15,
+    "Name": "Waste Pool Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 15,
+    "Name": "Wasteland Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 15,
+    "Name": "Wharf Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Acid Caverns Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Alleyways Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Ancient City Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Arachnid Tomb Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Arcade Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Arid Lake Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Armoury Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Arsenal Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Ashen Wood Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Atoll Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Basilica Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Bazaar Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Beach Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Belfry Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Bog Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Bone Crypt Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Bramble Valley Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Canyon Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Castle Ruins Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Cemetery Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Channel Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Chateau Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": true,
+    "Active": true,
+    "Tier": 16,
+    "Name": "City Square Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Cold River Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Colonnade Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Colosseum Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Conservatory Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Coral Ruins Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Core Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Courtyard Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Crimson Township Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Crystal Ore Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Cursed Crypt Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Dark Forest Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Defiled Cathedral Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Desert Spring Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Dig Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": true,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Dunes Map",
+    "Priority": 0,
+    "ExplorationPct": 70
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Dungeon Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Estuary Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Flooded Mine Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Forbidden Woods Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Forge of the Phoenix Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Foundry Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Frozen Cabins Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Geode Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Ghetto Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Glacier Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Grave Trough Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Grotto Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Iceberg Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Ivory Temple Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": true,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Jungle Valley Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Laboratory Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Lair of the Hydra Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Lava Lake Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Leyline Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Lighthouse Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Malformation Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Mausoleum Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Maze Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Maze of the Minotaur Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": true,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Mesa Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Mineral Pools Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Moon Temple Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Museum Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Necropolis Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Orchard Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Overgrown Shrine Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Palace Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Park Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Peninsula Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Phantasmagoria Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Pier Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Pit of the Chimera Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Plateau Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Precinct Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Primordial Blocks Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Promenade Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Racecourse Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Ramparts Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Scriptorium Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Sepulchre Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Shipyard Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Shore Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Siege Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Silo Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Spider Forest Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Strand Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Sunken City Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Temple Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Terrace Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Tower Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Toxic Sewer Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": true,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Tropical Island Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Underground River Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Underground Sea Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Vaal Pyramid Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Vaal Temple Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Vault Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Villa Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Waste Pool Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Wasteland Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Waterways Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 16,
+    "Name": "Wharf Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 17,
+    "Name": "Abomination Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 17,
+    "Name": "Citadel Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 17,
+    "Name": "Fortress Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 17,
+    "Name": "Sanctuary Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  },
+  {
+    "Enabled": false,
+    "Active": true,
+    "Tier": 17,
+    "Name": "Ziggurat Map",
+    "Priority": 0,
+    "ExplorationPct": 95
+  }
+]

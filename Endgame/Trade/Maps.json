@@ -1,0 +1,15 @@
+{
+  "Enabled": true,
+  "BulkExchangeTriggers": [
+    {
+      "Enabled": true,
+      "Your": "Chaos Orb",
+      "Other": "Dunes Map (Tier 16)",
+      "Ratio": 4.0,
+      "Stock": 0,
+      "Type": 1,
+      "TriggerQuantity": 10,
+      "Quantity": 50
+    }
+  ]
+}

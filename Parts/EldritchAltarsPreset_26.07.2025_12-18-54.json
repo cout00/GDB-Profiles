@@ -1,0 +1,196 @@
+﻿{
+  "Enabled": true,
+  "IsPlayerEnabled": true,
+  "PlayerWeight": 1000,
+  "IsMonsterEnabled": true,
+  "MonsterWeight": 1000,
+  "IsBossEnabled": false,
+  "BossWeight": 0,
+  "StatsWeights": [
+    {
+      "Enabled": true,
+      "Stat": {
+        "StatID": 17083,
+        "ID": "chance_%_to_drop_additional_chaos_orb",
+        "Description": "#% chance to drop an additional Chaos Orb"
+      },
+      "Value": 50
+    },
+    {
+      "Enabled": true,
+      "Stat": {
+        "StatID": 17081,
+        "ID": "chance_%_to_drop_additional_gemcutters_prism",
+        "Description": "#% chance to drop an additional Gemcutter's Prism"
+      },
+      "Value": 70
+    },
+    {
+      "Enabled": true,
+      "Stat": {
+        "StatID": 17095,
+        "ID": "chance_%_to_drop_additional_vaal_orb",
+        "Description": "#% chance to drop an additional Vaal Orb"
+      },
+      "Value": 30
+    },
+    {
+      "Enabled": false,
+      "Stat": {
+        "StatID": 17103,
+        "ID": "chance_%_to_drop_additional_lesser_eldritch_ember",
+        "Description": "#% chance to drop an additional Lesser Eldritch Ember"
+      },
+      "Value": 30
+    },
+    {
+      "Enabled": true,
+      "Stat": {
+        "StatID": 17104,
+        "ID": "chance_%_to_drop_additional_greater_eldritch_ember",
+        "Description": "#% chance to drop an additional Greater Eldritch Ember"
+      },
+      "Value": 50
+    },
+    {
+      "Enabled": true,
+      "Stat": {
+        "StatID": 17105,
+        "ID": "chance_%_to_drop_additional_grand_eldritch_ember",
+        "Description": "#% chance to drop an additional Grand Eldritch Ember"
+      },
+      "Value": 1000
+    },
+    {
+      "Enabled": true,
+      "Stat": {
+        "StatID": 15779,
+        "ID": "%_chance_to_duplicate_dropped_currency",
+        "Description": "Basic Currency Items dropped by slain Enemies have #% chance to be Duplicated"
+      },
+      "Value": 10000
+    },
+    {
+      "Enabled": false,
+      "Stat": {
+        "StatID": 15783,
+        "ID": "%_chance_to_duplicate_dropped_maps",
+        "Description": "Maps dropped by slain Enemies have #% chance to be Duplicated"
+      },
+      "Value": 20
+    },
+    {
+      "Enabled": true,
+      "Stat": {
+        "StatID": 17125,
+        "ID": "map_boss_additional_divine_orb_to_drop",
+        "Description": "Final Boss drops # additional Divine Orb"
+      },
+      "Value": 100000
+    },
+    {
+      "Enabled": true,
+      "Stat": {
+        "StatID": 17125,
+        "ID": "map_boss_additional_divine_orb_to_drop",
+        "Description": "Final Boss drops # additional Divine Orbs"
+      },
+      "Value": 100000
+    },
+    {
+      "Enabled": true,
+      "Stat": {
+        "StatID": 17093,
+        "ID": "chance_%_to_drop_additional_divine_orb",
+        "Description": "#% chance to drop an additional Divine Orb"
+      },
+      "Value": 100000
+    }
+  ],
+  "StatsBlacklist": [
+    {
+      "Enabled": true,
+      "Stat": {
+        "StatID": 15874,
+        "ID": "create_enemy_meteor_daemon_on_flask_use_%_chance",
+        "Description": "Targeted by a Meteor when you use a Flask"
+      },
+      "Range": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    {
+      "Enabled": true,
+      "Stat": {
+        "StatID": 145,
+        "ID": "base_fire_damage_resistance_%",
+        "Description": "+#% to Fire Resistance"
+      },
+      "Range": {
+        "Min": -1000,
+        "Max": 0
+      }
+    },
+    {
+      "Enabled": true,
+      "Stat": {
+        "StatID": 147,
+        "ID": "base_cold_damage_resistance_%",
+        "Description": "+#% to Cold Resistance"
+      },
+      "Range": {
+        "Min": -1000,
+        "Max": 0
+      }
+    },
+    {
+      "Enabled": false,
+      "Stat": {
+        "StatID": 151,
+        "ID": "base_chaos_damage_resistance_%",
+        "Description": "+#% to Chaos Resistance"
+      },
+      "Range": {
+        "Min": -1000,
+        "Max": 0
+      }
+    },
+    {
+      "Enabled": false,
+      "Stat": {
+        "StatID": 450,
+        "ID": "physical_damage_%_to_add_as_chaos",
+        "Description": "Gain #% of Physical Damage as Extra Chaos Damage"
+      },
+      "Range": {
+        "Min": -1000,
+        "Max": 10000
+      }
+    },
+    {
+      "Enabled": true,
+      "Stat": {
+        "StatID": 15574,
+        "ID": "drain_x_flask_charges_over_time_on_hit_for_6_seconds",
+        "Description": "Enemies lose # Flask Charges every 3 seconds and cannot gain Flask Charges for 6 seconds after being Hit"
+      },
+      "Range": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    {
+      "Enabled": false,
+      "Stat": {
+        "StatID": 15565,
+        "ID": "chaos_damage_per_minute_while_affected_by_flask",
+        "Description": "Take # Chaos Damage per second during any Flask Effect"
+      },
+      "Range": {
+        "Min": 0,
+        "Max": 0
+      }
+    }
+  ]
+}

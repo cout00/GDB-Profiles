@@ -1,0 +1,104 @@
+{
+  "Enabled": true,
+  "CancelOldOrders": true,
+  "OrdersExpiryTime": 15,
+  "BlacklistTime": 30,
+  "CurrencyExchangeOrders": [
+    {
+      "Enabled": false,
+      "Type": 0,
+      "Other": "Chaos Orb",
+      "Your": "Orb of Alteration",
+      "GetRatio": 0,
+      "PayRatio": 0,
+      "PreferredRatio": 1,
+      "RatioModifier": 90,
+      "TriggerQuantity": 1000,
+      "Quantity": 600
+    },
+    {
+      "Enabled": false,
+      "Type": 0,
+      "Other": "Chaos Orb",
+      "Your": "Chromatic Orb",
+      "GetRatio": 0,
+      "PayRatio": 0,
+      "PreferredRatio": 1,
+      "RatioModifier": 90,
+      "TriggerQuantity": 200,
+      "Quantity": 600
+    },
+    {
+      "Enabled": true,
+      "Type": 1,
+      "Other": "Harbinger Scarab",
+      "Your": "Chaos Orb",
+      "GetRatio": 0,
+      "PayRatio": 0,
+      "PreferredRatio": 0,
+      "RatioModifier": 100,
+      "TriggerQuantity": 40,
+      "Quantity": 40
+    },
+    {
+      "Enabled": true,
+      "Type": 1,
+      "Other": "Harbinger Scarab of Obelisks",
+      "Your": "Chaos Orb",
+      "GetRatio": 0,
+      "PayRatio": 0,
+      "PreferredRatio": 0,
+      "RatioModifier": 100,
+      "TriggerQuantity": 20,
+      "Quantity": 20
+    },
+    {
+      "Enabled": true,
+      "Type": 1,
+      "Other": "Harbinger Scarab of Warhoards",
+      "Your": "Chaos Orb",
+      "GetRatio": 0,
+      "PayRatio": 0,
+      "PreferredRatio": 0,
+      "RatioModifier": 100,
+      "TriggerQuantity": 20,
+      "Quantity": 20
+    },
+    {
+      "Enabled": true,
+      "Type": 1,
+      "Other": "Harbinger Scarab of Regency",
+      "Your": "Chaos Orb",
+      "GetRatio": 0,
+      "PayRatio": 0,
+      "PreferredRatio": 0,
+      "RatioModifier": 100,
+      "TriggerQuantity": 20,
+      "Quantity": 20
+    },
+    {
+      "Enabled": true,
+      "Type": 1,
+      "Other": "Orb of Alchemy",
+      "Your": "Chaos Orb",
+      "GetRatio": 0,
+      "PayRatio": 0,
+      "PreferredRatio": 0,
+      "RatioModifier": 100,
+      "TriggerQuantity": 30,
+      "Quantity": 100
+    },
+    {
+      "Enabled": true,
+      "Type": 1,
+      "Other": "Orb of Scouring",
+      "Your": "Chaos Orb",
+      "GetRatio": 0,
+      "PayRatio": 0,
+      "PreferredRatio": 0,
+      "RatioModifier": 100,
+      "TriggerQuantity": 30,
+      "Quantity": 100
+    }
+  ]
+}

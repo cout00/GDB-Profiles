@@ -1,0 +1,1751 @@
+﻿[
+  {
+    "Enabled": false,
+    "Name": [
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Chaos Shard"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Annulment Shard"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Ancient Shard"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Mirror Shard"
+      }
+    ],
+    "Metadata": [],
+    "IconPath": [],
+    "BaseItemType": "",
+    "ItemClass": "Currency",
+    "Rarity": {
+      "Comparsion": 1,
+      "Value": 0
+    },
+    "Sockets": {
+      "R": 0,
+      "G": 0,
+      "B": 0,
+      "W": 0,
+      "Total": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    "Links": {
+      "R": 0,
+      "G": 0,
+      "B": 0,
+      "W": 0,
+      "Total": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    "ItemLevel": {
+      "Min": 0,
+      "Max": 0
+    },
+    "RequiredLevel": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PlayerLevel": {
+      "Min": 0,
+      "Max": 100
+    },
+    "Quality": {
+      "Comparsion": 1,
+      "Value": 0
+    },
+    "MapTier": {
+      "Comparsion": 1,
+      "Value": 0
+    },
+    "Stats": [],
+    "Weapon": {
+      "Damage": {
+        "Min": 0,
+        "Max": 0
+      },
+      "AttackSpeed": {
+        "Min": 0.0,
+        "Max": 0.0
+      },
+      "PhysicalDPS": {
+        "Min": 0,
+        "Max": 0
+      },
+      "ElementalDPS": {
+        "Min": 0,
+        "Max": 0
+      },
+      "DPS": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Critical": {
+        "Min": 0.0,
+        "Max": 0.0
+      }
+    },
+    "Armour": {
+      "Armour": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Evasion": {
+        "Min": 0,
+        "Max": 0
+      },
+      "EnergyShield": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    "IsIdentified": {
+      "Comparsion": 0
+    },
+    "IsCorruprted": {
+      "Comparsion": 0
+    },
+    "IsMirrored": {
+      "Comparsion": 0
+    }
+  },
+  {
+    "Enabled": true,
+    "Name": [],
+    "Metadata": [],
+    "IconPath": [],
+    "BaseItemType": "",
+    "ItemClass": "Blueprints",
+    "Rarity": {
+      "Comparsion": 1,
+      "Value": 0
+    },
+    "Sockets": {
+      "R": 0,
+      "G": 0,
+      "B": 0,
+      "W": 0,
+      "Total": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    "Links": {
+      "R": 0,
+      "G": 0,
+      "B": 0,
+      "W": 0,
+      "Total": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    "ItemLevel": {
+      "Min": 0,
+      "Max": 0
+    },
+    "RequiredLevel": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PlayerLevel": {
+      "Min": 0,
+      "Max": 100
+    },
+    "Quality": {
+      "Comparsion": 1,
+      "Value": 0
+    },
+    "MapTier": {
+      "Comparsion": 1,
+      "Value": 0
+    },
+    "Stats": [],
+    "Weapon": {
+      "Damage": {
+        "Min": 0,
+        "Max": 0
+      },
+      "AttackSpeed": {
+        "Min": 0.0,
+        "Max": 0.0
+      },
+      "PhysicalDPS": {
+        "Min": 0,
+        "Max": 0
+      },
+      "ElementalDPS": {
+        "Min": 0,
+        "Max": 0
+      },
+      "DPS": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Critical": {
+        "Min": 0.0,
+        "Max": 0.0
+      }
+    },
+    "Armour": {
+      "Armour": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Evasion": {
+        "Min": 0,
+        "Max": 0
+      },
+      "EnergyShield": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    "IsIdentified": {
+      "Comparsion": 0
+    },
+    "IsCorruprted": {
+      "Comparsion": 0
+    },
+    "IsMirrored": {
+      "Comparsion": 0
+    }
+  },
+  {
+    "Enabled": true,
+    "Name": [
+      {
+        "Logic": 2,
+        "Type": 1,
+        "Text": "Wailing"
+      },
+      {
+        "Logic": 2,
+        "Type": 1,
+        "Text": "Weeping"
+      },
+      {
+        "Logic": 2,
+        "Type": 1,
+        "Text": "Muttering"
+      },
+      {
+        "Logic": 2,
+        "Type": 1,
+        "Text": "Alchemy"
+      },
+      {
+        "Logic": 2,
+        "Type": 1,
+        "Text": "Alteration"
+      },
+      {
+        "Logic": 2,
+        "Type": 1,
+        "Text": "Binding"
+      },
+      {
+        "Logic": 2,
+        "Type": 1,
+        "Text": "Engineer"
+      },
+      {
+        "Logic": 2,
+        "Type": 1,
+        "Text": "Horizon"
+      },
+      {
+        "Logic": 2,
+        "Type": 1,
+        "Text": "Regal"
+      },
+      {
+        "Logic": 2,
+        "Type": 1,
+        "Text": "Transmutation"
+      },
+      {
+        "Logic": 2,
+        "Type": 1,
+        "Text": "Scrap"
+      },
+      {
+        "Logic": 2,
+        "Type": 1,
+        "Text": "Jeweller's Orb"
+      },
+      {
+        "Logic": 2,
+        "Type": 1,
+        "Text": "Orb Of Chance"
+      },
+      {
+        "Logic": 2,
+        "Type": 1,
+        "Text": "Augmentation"
+      },
+      {
+        "Logic": 2,
+        "Type": 1,
+        "Text": "Instilling"
+      },
+      {
+        "Logic": 2,
+        "Type": 1,
+        "Text": "Whetstone"
+      },
+      {
+        "Logic": 2,
+        "Type": 1,
+        "Text": "Screaming"
+      }
+    ],
+    "Metadata": [],
+    "IconPath": [],
+    "BaseItemType": "",
+    "ItemClass": "Stackable Currency",
+    "Rarity": {
+      "Comparsion": 1,
+      "Value": 0
+    },
+    "Sockets": {
+      "R": 0,
+      "G": 0,
+      "B": 0,
+      "W": 0,
+      "Total": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    "Links": {
+      "R": 0,
+      "G": 0,
+      "B": 0,
+      "W": 0,
+      "Total": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    "ItemLevel": {
+      "Min": 0,
+      "Max": 0
+    },
+    "RequiredLevel": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PlayerLevel": {
+      "Min": 0,
+      "Max": 100
+    },
+    "Quality": {
+      "Comparsion": 1,
+      "Value": 0
+    },
+    "MapTier": {
+      "Comparsion": 1,
+      "Value": 0
+    },
+    "Stats": [],
+    "Weapon": {
+      "Damage": {
+        "Min": 0,
+        "Max": 0
+      },
+      "AttackSpeed": {
+        "Min": 0.0,
+        "Max": 0.0
+      },
+      "PhysicalDPS": {
+        "Min": 0,
+        "Max": 0
+      },
+      "ElementalDPS": {
+        "Min": 0,
+        "Max": 0
+      },
+      "DPS": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Critical": {
+        "Min": 0.0,
+        "Max": 0.0
+      }
+    },
+    "Armour": {
+      "Armour": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Evasion": {
+        "Min": 0,
+        "Max": 0
+      },
+      "EnergyShield": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    "IsIdentified": {
+      "Comparsion": 0
+    },
+    "IsCorruprted": {
+      "Comparsion": 0
+    },
+    "IsMirrored": {
+      "Comparsion": 0
+    }
+  },
+  {
+    "Enabled": true,
+    "Name": [],
+    "Metadata": [],
+    "IconPath": [],
+    "BaseItemType": "",
+    "ItemClass": "Currency",
+    "Rarity": {
+      "Comparsion": 1,
+      "Value": 0
+    },
+    "Sockets": {
+      "R": 0,
+      "G": 0,
+      "B": 0,
+      "W": 0,
+      "Total": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    "Links": {
+      "R": 0,
+      "G": 0,
+      "B": 0,
+      "W": 0,
+      "Total": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    "ItemLevel": {
+      "Min": 0,
+      "Max": 0
+    },
+    "RequiredLevel": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PlayerLevel": {
+      "Min": 0,
+      "Max": 100
+    },
+    "Quality": {
+      "Comparsion": 1,
+      "Value": 0
+    },
+    "MapTier": {
+      "Comparsion": 1,
+      "Value": 0
+    },
+    "Stats": [],
+    "Weapon": {
+      "Damage": {
+        "Min": 0,
+        "Max": 0
+      },
+      "AttackSpeed": {
+        "Min": 0.0,
+        "Max": 0.0
+      },
+      "PhysicalDPS": {
+        "Min": 0,
+        "Max": 0
+      },
+      "ElementalDPS": {
+        "Min": 0,
+        "Max": 0
+      },
+      "DPS": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Critical": {
+        "Min": 0.0,
+        "Max": 0.0
+      }
+    },
+    "Armour": {
+      "Armour": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Evasion": {
+        "Min": 0,
+        "Max": 0
+      },
+      "EnergyShield": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    "IsIdentified": {
+      "Comparsion": 0
+    },
+    "IsCorruprted": {
+      "Comparsion": 0
+    },
+    "IsMirrored": {
+      "Comparsion": 0
+    }
+  },
+  {
+    "Enabled": true,
+    "Name": [
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Fortunate"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Gift"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Divine Beauty"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "The Sephirot"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Mirrors"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Seven"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Darker Half"
+      }
+    ],
+    "Metadata": [],
+    "IconPath": [],
+    "BaseItemType": "",
+    "ItemClass": "Divination Cards",
+    "Rarity": {
+      "Comparsion": 1,
+      "Value": 0
+    },
+    "Sockets": {
+      "R": 0,
+      "G": 0,
+      "B": 0,
+      "W": 0,
+      "Total": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    "Links": {
+      "R": 0,
+      "G": 0,
+      "B": 0,
+      "W": 0,
+      "Total": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    "ItemLevel": {
+      "Min": 0,
+      "Max": 0
+    },
+    "RequiredLevel": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PlayerLevel": {
+      "Min": 0,
+      "Max": 100
+    },
+    "Quality": {
+      "Comparsion": 1,
+      "Value": 0
+    },
+    "MapTier": {
+      "Comparsion": 1,
+      "Value": 0
+    },
+    "Stats": [],
+    "Weapon": {
+      "Damage": {
+        "Min": 0,
+        "Max": 0
+      },
+      "AttackSpeed": {
+        "Min": 0.0,
+        "Max": 0.0
+      },
+      "PhysicalDPS": {
+        "Min": 0,
+        "Max": 0
+      },
+      "ElementalDPS": {
+        "Min": 0,
+        "Max": 0
+      },
+      "DPS": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Critical": {
+        "Min": 0.0,
+        "Max": 0.0
+      }
+    },
+    "Armour": {
+      "Armour": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Evasion": {
+        "Min": 0,
+        "Max": 0
+      },
+      "EnergyShield": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    "IsIdentified": {
+      "Comparsion": 0
+    },
+    "IsCorruprted": {
+      "Comparsion": 0
+    },
+    "IsMirrored": {
+      "Comparsion": 0
+    }
+  },
+  {
+    "Enabled": true,
+    "Name": [
+      {
+        "Logic": 1,
+        "Type": 0,
+        "Text": "Voidborn Reliquary Key"
+      },
+      {
+        "Logic": 1,
+        "Type": 0,
+        "Text": "Hinekora's Lock"
+      },
+      {
+        "Logic": 1,
+        "Type": 0,
+        "Text": "Valdo's Puzzle Box"
+      },
+      {
+        "Logic": 1,
+        "Type": 0,
+        "Text": "Einhar's Memory of Harvest Beasts"
+      },
+      {
+        "Logic": 1,
+        "Type": 0,
+        "Text": "Reflecting Mist"
+      },
+      {
+        "Logic": 1,
+        "Type": 0,
+        "Text": "Tainted Divine Teardrop"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Invitation"
+      }
+    ],
+    "Metadata": [],
+    "IconPath": [],
+    "BaseItemType": "",
+    "ItemClass": "",
+    "Rarity": {
+      "Comparsion": 1,
+      "Value": 0
+    },
+    "Sockets": {
+      "R": 0,
+      "G": 0,
+      "B": 0,
+      "W": 0,
+      "Total": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    "Links": {
+      "R": 0,
+      "G": 0,
+      "B": 0,
+      "W": 0,
+      "Total": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    "ItemLevel": {
+      "Min": 0,
+      "Max": 0
+    },
+    "RequiredLevel": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PlayerLevel": {
+      "Min": 0,
+      "Max": 100
+    },
+    "Quality": {
+      "Comparsion": 1,
+      "Value": 0
+    },
+    "MapTier": {
+      "Comparsion": 1,
+      "Value": 0
+    },
+    "Stats": [],
+    "Weapon": {
+      "Damage": {
+        "Min": 0,
+        "Max": 0
+      },
+      "AttackSpeed": {
+        "Min": 0.0,
+        "Max": 0.0
+      },
+      "PhysicalDPS": {
+        "Min": 0,
+        "Max": 0
+      },
+      "ElementalDPS": {
+        "Min": 0,
+        "Max": 0
+      },
+      "DPS": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Critical": {
+        "Min": 0.0,
+        "Max": 0.0
+      }
+    },
+    "Armour": {
+      "Armour": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Evasion": {
+        "Min": 0,
+        "Max": 0
+      },
+      "EnergyShield": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    "IsIdentified": {
+      "Comparsion": 0
+    },
+    "IsCorruprted": {
+      "Comparsion": 0
+    },
+    "IsMirrored": {
+      "Comparsion": 0
+    }
+  },
+  {
+    "Enabled": true,
+    "Name": [],
+    "Metadata": [],
+    "IconPath": [],
+    "BaseItemType": "",
+    "ItemClass": "",
+    "Rarity": {
+      "Comparsion": 1,
+      "Value": 0
+    },
+    "Sockets": {
+      "R": 0,
+      "G": 0,
+      "B": 0,
+      "W": 0,
+      "Total": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    "Links": {
+      "R": 0,
+      "G": 0,
+      "B": 0,
+      "W": 0,
+      "Total": {
+        "Min": 6,
+        "Max": 0
+      }
+    },
+    "ItemLevel": {
+      "Min": 0,
+      "Max": 0
+    },
+    "RequiredLevel": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PlayerLevel": {
+      "Min": 0,
+      "Max": 100
+    },
+    "Quality": {
+      "Comparsion": 1,
+      "Value": 0
+    },
+    "MapTier": {
+      "Comparsion": 1,
+      "Value": 0
+    },
+    "Stats": [],
+    "Weapon": {
+      "Damage": {
+        "Min": 0,
+        "Max": 0
+      },
+      "AttackSpeed": {
+        "Min": 0.0,
+        "Max": 0.0
+      },
+      "PhysicalDPS": {
+        "Min": 0,
+        "Max": 0
+      },
+      "ElementalDPS": {
+        "Min": 0,
+        "Max": 0
+      },
+      "DPS": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Critical": {
+        "Min": 0.0,
+        "Max": 0.0
+      }
+    },
+    "Armour": {
+      "Armour": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Evasion": {
+        "Min": 0,
+        "Max": 0
+      },
+      "EnergyShield": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    "IsIdentified": {
+      "Comparsion": 0
+    },
+    "IsCorruprted": {
+      "Comparsion": 0
+    },
+    "IsMirrored": {
+      "Comparsion": 0
+    }
+  },
+  {
+    "Enabled": true,
+    "Name": [],
+    "Metadata": [],
+    "IconPath": [],
+    "BaseItemType": "",
+    "ItemClass": "Map Fragments",
+    "Rarity": {
+      "Comparsion": 1,
+      "Value": 0
+    },
+    "Sockets": {
+      "R": 0,
+      "G": 0,
+      "B": 0,
+      "W": 0,
+      "Total": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    "Links": {
+      "R": 0,
+      "G": 0,
+      "B": 0,
+      "W": 0,
+      "Total": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    "ItemLevel": {
+      "Min": 0,
+      "Max": 0
+    },
+    "RequiredLevel": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PlayerLevel": {
+      "Min": 0,
+      "Max": 100
+    },
+    "Quality": {
+      "Comparsion": 1,
+      "Value": 0
+    },
+    "MapTier": {
+      "Comparsion": 1,
+      "Value": 0
+    },
+    "Stats": [],
+    "Weapon": {
+      "Damage": {
+        "Min": 0,
+        "Max": 0
+      },
+      "AttackSpeed": {
+        "Min": 0.0,
+        "Max": 0.0
+      },
+      "PhysicalDPS": {
+        "Min": 0,
+        "Max": 0
+      },
+      "ElementalDPS": {
+        "Min": 0,
+        "Max": 0
+      },
+      "DPS": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Critical": {
+        "Min": 0.0,
+        "Max": 0.0
+      }
+    },
+    "Armour": {
+      "Armour": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Evasion": {
+        "Min": 0,
+        "Max": 0
+      },
+      "EnergyShield": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    "IsIdentified": {
+      "Comparsion": 0
+    },
+    "IsCorruprted": {
+      "Comparsion": 0
+    },
+    "IsMirrored": {
+      "Comparsion": 0
+    }
+  },
+  {
+    "Enabled": true,
+    "Name": [],
+    "Metadata": [],
+    "IconPath": [
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Art/2DItems/Armours/BodyArmours/ShockCloak.dds"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Art/2DItems/Armours/Boots/RalakeshsImpatience.dds"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Art/2DItems/Armours/BodyArmours/DiallasMalefaction.dds"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Art/2DItems/Armours/Shields/CaspirosResonance.dds"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Art/2DItems/Armours/Shields/TheCorundum.dds"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Art/2DItems/Armours/Gloves/thunderclaw.dds"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Art/2DItems/Armours/Gloves/AsenathsGentleTouch.dds"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Art/2DItems/Armours/Boots/BootsDexUnique3.dds"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Art/2DItems/Armours/BodyArmours/BodyDex3CUnique.dds"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Art/2DItems/Armours/BodyArmours/Embrace.dds"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Art/2DItems/Armours/BodyArmours/EssenceGifter.dds"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Art/2DItems/Armours/BodyArmours/WilefangsPelt.dds"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Art/2DItems/Armours/Boots/TwoTonedBootsALT.dds"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Art/2DItems/Armours/Shields/ShieldStrIntUnique7unique.dds"
+      },
+      {
+        "Logic": 0,
+        "Type": 1,
+        "Text": "Art/2DItems/Armours/Gloves/DeathGrip.dds"
+      }
+    ],
+    "BaseItemType": "",
+    "ItemClass": "",
+    "Rarity": {
+      "Comparsion": 0,
+      "Value": 3
+    },
+    "Sockets": {
+      "R": 0,
+      "G": 0,
+      "B": 0,
+      "W": 0,
+      "Total": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    "Links": {
+      "R": 0,
+      "G": 0,
+      "B": 0,
+      "W": 0,
+      "Total": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    "ItemLevel": {
+      "Min": 0,
+      "Max": 0
+    },
+    "RequiredLevel": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PlayerLevel": {
+      "Min": 0,
+      "Max": 100
+    },
+    "Quality": {
+      "Comparsion": 1,
+      "Value": 0
+    },
+    "MapTier": {
+      "Comparsion": 1,
+      "Value": 0
+    },
+    "Stats": [],
+    "Weapon": {
+      "Damage": {
+        "Min": 0,
+        "Max": 0
+      },
+      "AttackSpeed": {
+        "Min": 0.0,
+        "Max": 0.0
+      },
+      "PhysicalDPS": {
+        "Min": 0,
+        "Max": 0
+      },
+      "ElementalDPS": {
+        "Min": 0,
+        "Max": 0
+      },
+      "DPS": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Critical": {
+        "Min": 0.0,
+        "Max": 0.0
+      }
+    },
+    "Armour": {
+      "Armour": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Evasion": {
+        "Min": 0,
+        "Max": 0
+      },
+      "EnergyShield": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    "IsIdentified": {
+      "Comparsion": 0
+    },
+    "IsCorruprted": {
+      "Comparsion": 0
+    },
+    "IsMirrored": {
+      "Comparsion": 0
+    }
+  },
+  {
+    "Enabled": false,
+    "Name": [
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Citadel"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Sanctuary"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Fortress"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Ziggurat"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Abomination"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Dunes"
+      }
+    ],
+    "Metadata": [],
+    "IconPath": [],
+    "BaseItemType": "",
+    "ItemClass": "Maps",
+    "Rarity": {
+      "Comparsion": 1,
+      "Value": 0
+    },
+    "Sockets": {
+      "R": 0,
+      "G": 0,
+      "B": 0,
+      "W": 0,
+      "Total": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    "Links": {
+      "R": 0,
+      "G": 0,
+      "B": 0,
+      "W": 0,
+      "Total": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    "ItemLevel": {
+      "Min": 80,
+      "Max": 100
+    },
+    "RequiredLevel": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PlayerLevel": {
+      "Min": 60,
+      "Max": 100
+    },
+    "Quality": {
+      "Comparsion": 1,
+      "Value": 0
+    },
+    "MapTier": {
+      "Comparsion": 1,
+      "Value": 0
+    },
+    "Stats": [
+      {
+        "Logic": 1,
+        "Stat": {
+          "Type": 1,
+          "StatID": 21065,
+          "ID": "map_zana_influence",
+          "Description": "Area is Influenced by the Originator's Memories",
+          "SiteID": "implicit.stat_2696470877"
+        },
+        "Value": {
+          "Min": 0,
+          "Max": 0
+        }
+      }
+    ],
+    "Weapon": {
+      "Damage": {
+        "Min": 0,
+        "Max": 0
+      },
+      "AttackSpeed": {
+        "Min": 0.0,
+        "Max": 0.0
+      },
+      "PhysicalDPS": {
+        "Min": 0,
+        "Max": 0
+      },
+      "ElementalDPS": {
+        "Min": 0,
+        "Max": 0
+      },
+      "DPS": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Critical": {
+        "Min": 0.0,
+        "Max": 0.0
+      }
+    },
+    "Armour": {
+      "Armour": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Evasion": {
+        "Min": 0,
+        "Max": 1
+      },
+      "EnergyShield": {
+        "Min": 0,
+        "Max": 1
+      }
+    },
+    "IsIdentified": {
+      "Comparsion": 0
+    },
+    "IsCorruprted": {
+      "Comparsion": 2
+    },
+    "IsMirrored": {
+      "Comparsion": 0
+    }
+  },
+  {
+    "Enabled": true,
+    "Name": [],
+    "Metadata": [],
+    "IconPath": [
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Art/2DItems/Amulets/Amulet36.dds"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Art/2DItems/Rings/UniqueCurseRing.dds"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Art/2DItems/Belts/RyuslathasClutches.dds"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Art/2DItems/Rings/MirrorRing.dds"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Art/2DItems/Amulets/HinekoraAmulet.dds"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Art/2DItems/Belts/Headhunter.dds"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Art/2DItems/Belts/InjectorBelt.dds"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Art/2DItems/Weapons/TwoHandWeapons/TwoHandSwords/RakiataSword.dds"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Art/2DItems/Weapons/OneHandWeapons/OneHandAxes/Alexaxe.dds"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Art/2DItems/Jewels/PristineConditioning.dds"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Art/2DItems/Jewels/unique7.dds"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Art/2DItems/Jewels/UnnaturalInstinct.dds"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Art/2DItems/Jewels/GreenJewel2.dds"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Art/2DItems/Jewels/RedJewel2.dds"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Art/2DItems/Jewels/IgnorePain.dds"
+      }
+    ],
+    "BaseItemType": "",
+    "ItemClass": "",
+    "Rarity": {
+      "Comparsion": 0,
+      "Value": 3
+    },
+    "Sockets": {
+      "R": 0,
+      "G": 0,
+      "B": 0,
+      "W": 0,
+      "Total": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    "Links": {
+      "R": 0,
+      "G": 0,
+      "B": 0,
+      "W": 0,
+      "Total": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    "ItemLevel": {
+      "Min": 0,
+      "Max": 0
+    },
+    "RequiredLevel": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PlayerLevel": {
+      "Min": 0,
+      "Max": 100
+    },
+    "Quality": {
+      "Comparsion": 1,
+      "Value": 0
+    },
+    "MapTier": {
+      "Comparsion": 1,
+      "Value": 0
+    },
+    "Stats": [],
+    "Weapon": {
+      "Damage": {
+        "Min": 0,
+        "Max": 0
+      },
+      "AttackSpeed": {
+        "Min": 0.0,
+        "Max": 0.0
+      },
+      "PhysicalDPS": {
+        "Min": 0,
+        "Max": 0
+      },
+      "ElementalDPS": {
+        "Min": 0,
+        "Max": 0
+      },
+      "DPS": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Critical": {
+        "Min": 0.0,
+        "Max": 0.0
+      }
+    },
+    "Armour": {
+      "Armour": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Evasion": {
+        "Min": 0,
+        "Max": 0
+      },
+      "EnergyShield": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    "IsIdentified": {
+      "Comparsion": 0
+    },
+    "IsCorruprted": {
+      "Comparsion": 0
+    },
+    "IsMirrored": {
+      "Comparsion": 0
+    }
+  },
+  {
+    "Enabled": true,
+    "Name": [
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Giantslayer Helmet"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Lich's Circlet"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Warlock Gloves"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Royal Plate"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Twilight Regalia"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Conquest Lamellar"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Sacred Chainmail"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Necrotic Armour"
+      },
+      {
+        "Logic": 1,
+        "Type": 1,
+        "Text": "Warlock Boots"
+      }
+    ],
+    "Metadata": [],
+    "IconPath": [],
+    "BaseItemType": "",
+    "ItemClass": "",
+    "Rarity": {
+      "Comparsion": 1,
+      "Value": 0
+    },
+    "Sockets": {
+      "R": 0,
+      "G": 0,
+      "B": 0,
+      "W": 0,
+      "Total": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    "Links": {
+      "R": 0,
+      "G": 0,
+      "B": 0,
+      "W": 0,
+      "Total": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    "ItemLevel": {
+      "Min": 0,
+      "Max": 0
+    },
+    "RequiredLevel": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PlayerLevel": {
+      "Min": 0,
+      "Max": 100
+    },
+    "Quality": {
+      "Comparsion": 1,
+      "Value": 28
+    },
+    "MapTier": {
+      "Comparsion": 1,
+      "Value": 0
+    },
+    "Stats": [],
+    "Weapon": {
+      "Damage": {
+        "Min": 0,
+        "Max": 0
+      },
+      "AttackSpeed": {
+        "Min": 0.0,
+        "Max": 0.0
+      },
+      "PhysicalDPS": {
+        "Min": 0,
+        "Max": 0
+      },
+      "ElementalDPS": {
+        "Min": 0,
+        "Max": 0
+      },
+      "DPS": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Critical": {
+        "Min": 0.0,
+        "Max": 0.0
+      }
+    },
+    "Armour": {
+      "Armour": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Evasion": {
+        "Min": 0,
+        "Max": 0
+      },
+      "EnergyShield": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    "IsIdentified": {
+      "Comparsion": 0
+    },
+    "IsCorruprted": {
+      "Comparsion": 0
+    },
+    "IsMirrored": {
+      "Comparsion": 0
+    }
+  },
+  {
+    "Enabled": true,
+    "Name": [],
+    "Metadata": [],
+    "IconPath": [],
+    "BaseItemType": "",
+    "ItemClass": "Maps",
+    "Rarity": {
+      "Comparsion": 1,
+      "Value": 0
+    },
+    "Sockets": {
+      "R": 0,
+      "G": 0,
+      "B": 0,
+      "W": 0,
+      "Total": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    "Links": {
+      "R": 0,
+      "G": 0,
+      "B": 0,
+      "W": 0,
+      "Total": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    "ItemLevel": {
+      "Min": 82,
+      "Max": 100
+    },
+    "RequiredLevel": {
+      "Min": 0,
+      "Max": 0
+    },
+    "PlayerLevel": {
+      "Min": 0,
+      "Max": 100
+    },
+    "Quality": {
+      "Comparsion": 1,
+      "Value": 0
+    },
+    "MapTier": {
+      "Comparsion": 1,
+      "Value": 0
+    },
+    "Stats": [],
+    "Weapon": {
+      "Damage": {
+        "Min": 0,
+        "Max": 0
+      },
+      "AttackSpeed": {
+        "Min": 0.0,
+        "Max": 0.0
+      },
+      "PhysicalDPS": {
+        "Min": 0,
+        "Max": 0
+      },
+      "ElementalDPS": {
+        "Min": 0,
+        "Max": 0
+      },
+      "DPS": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Critical": {
+        "Min": 0.0,
+        "Max": 0.0
+      }
+    },
+    "Armour": {
+      "Armour": {
+        "Min": 0,
+        "Max": 0
+      },
+      "Evasion": {
+        "Min": 0,
+        "Max": 0
+      },
+      "EnergyShield": {
+        "Min": 0,
+        "Max": 0
+      }
+    },
+    "IsIdentified": {
+      "Comparsion": 0
+    },
+    "IsCorruprted": {
+      "Comparsion": 0
+    },
+    "IsMirrored": {
+      "Comparsion": 0
+    }
+  }
+]
