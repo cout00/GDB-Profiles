@@ -1175,7 +1175,7 @@
         }
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Name": [
           {
             "Logic": 1,
@@ -1256,7 +1256,22 @@
           "Comparsion": 1,
           "Value": 0
         },
-        "Stats": [],
+        "Stats": [
+          {
+            "Logic": 1,
+            "Stat": {
+              "Type": 1,
+              "StatID": 21065,
+              "ID": "map_zana_influence",
+              "Description": "Area is Influenced by the Originator's Memories",
+              "SiteID": "implicit.stat_2696470877"
+            },
+            "Value": {
+              "Min": 0,
+              "Max": 0
+            }
+          }
+        ],
         "Weapon": {
           "Damage": {
             "Min": 0,
@@ -1577,6 +1592,210 @@
         "Quality": {
           "Comparsion": 1,
           "Value": 28
+        },
+        "MapTier": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "Stats": [],
+        "Weapon": {
+          "Damage": {
+            "Min": 0,
+            "Max": 0
+          },
+          "AttackSpeed": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "PhysicalDPS": {
+            "Min": 0,
+            "Max": 0
+          },
+          "ElementalDPS": {
+            "Min": 0,
+            "Max": 0
+          },
+          "DPS": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Critical": {
+            "Min": 0.0,
+            "Max": 0.0
+          }
+        },
+        "Armour": {
+          "Armour": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Evasion": {
+            "Min": 0,
+            "Max": 0
+          },
+          "EnergyShield": {
+            "Min": 0,
+            "Max": 0
+          }
+        },
+        "IsIdentified": {
+          "Comparsion": 0
+        },
+        "IsCorruprted": {
+          "Comparsion": 0
+        },
+        "IsMirrored": {
+          "Comparsion": 0
+        }
+      },
+      {
+        "Enabled": true,
+        "Name": [],
+        "Metadata": [],
+        "IconPath": [],
+        "BaseItemType": "",
+        "ItemClass": "Maps",
+        "Rarity": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "Sockets": {
+          "R": 0,
+          "G": 0,
+          "B": 0,
+          "W": 0,
+          "Total": {
+            "Min": 0,
+            "Max": 0
+          }
+        },
+        "Links": {
+          "R": 0,
+          "G": 0,
+          "B": 0,
+          "W": 0,
+          "Total": {
+            "Min": 0,
+            "Max": 0
+          }
+        },
+        "ItemLevel": {
+          "Min": 82,
+          "Max": 100
+        },
+        "RequiredLevel": {
+          "Min": 0,
+          "Max": 0
+        },
+        "PlayerLevel": {
+          "Min": 0,
+          "Max": 100
+        },
+        "Quality": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "MapTier": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "Stats": [],
+        "Weapon": {
+          "Damage": {
+            "Min": 0,
+            "Max": 0
+          },
+          "AttackSpeed": {
+            "Min": 0.0,
+            "Max": 0.0
+          },
+          "PhysicalDPS": {
+            "Min": 0,
+            "Max": 0
+          },
+          "ElementalDPS": {
+            "Min": 0,
+            "Max": 0
+          },
+          "DPS": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Critical": {
+            "Min": 0.0,
+            "Max": 0.0
+          }
+        },
+        "Armour": {
+          "Armour": {
+            "Min": 0,
+            "Max": 0
+          },
+          "Evasion": {
+            "Min": 0,
+            "Max": 0
+          },
+          "EnergyShield": {
+            "Min": 0,
+            "Max": 0
+          }
+        },
+        "IsIdentified": {
+          "Comparsion": 0
+        },
+        "IsCorruprted": {
+          "Comparsion": 0
+        },
+        "IsMirrored": {
+          "Comparsion": 0
+        }
+      },
+      {
+        "Enabled": true,
+        "Name": [],
+        "Metadata": [],
+        "IconPath": [],
+        "BaseItemType": "",
+        "ItemClass": "Gold",
+        "Rarity": {
+          "Comparsion": 1,
+          "Value": 0
+        },
+        "Sockets": {
+          "R": 0,
+          "G": 0,
+          "B": 0,
+          "W": 0,
+          "Total": {
+            "Min": 0,
+            "Max": 0
+          }
+        },
+        "Links": {
+          "R": 0,
+          "G": 0,
+          "B": 0,
+          "W": 0,
+          "Total": {
+            "Min": 0,
+            "Max": 0
+          }
+        },
+        "ItemLevel": {
+          "Min": 0,
+          "Max": 0
+        },
+        "RequiredLevel": {
+          "Min": 0,
+          "Max": 0
+        },
+        "PlayerLevel": {
+          "Min": 0,
+          "Max": 100
+        },
+        "Quality": {
+          "Comparsion": 1,
+          "Value": 0
         },
         "MapTier": {
           "Comparsion": 1,
@@ -6601,7 +6820,7 @@
     }
   },
   "GeneralCombatSettings": {
-    "CombatRange": 80,
+    "CombatRange": 100,
     "CombatStuckSettings": {
       "StuckTime": 10,
       "MaxTimeNormal": 10,
@@ -6670,7 +6889,7 @@
         "MonsterPosition": {
           "Distance": {
             "Min": 0,
-            "Max": 70
+            "Max": 40
           },
           "PackSize": 0,
           "PackRadius": 50
@@ -6682,6 +6901,94 @@
           "Rarity": {
             "Comparsion": 1,
             "Value": 2
+          },
+          "Health": {
+            "Comparsion": 1,
+            "Value": 0
+          },
+          "HealthIsPercent": true,
+          "Buffs": [],
+          "IsMapBoss": false,
+          "IsBestiaryMonster": false
+        },
+        "CorpseCondition": {
+          "Name": [],
+          "Metadata": [],
+          "Rarity": {
+            "Comparsion": 1,
+            "Value": 0
+          }
+        },
+        "LinkedSkills": {
+          "LinkedSkills": []
+        }
+      },
+      {
+        "Enabled": true,
+        "Priority": 10,
+        "Name": "Penance Brand of Dissipation",
+        "CastTarget": 1,
+        "IsWithoutMoving": false,
+        "IsRequiresEnemy": true,
+        "Delay": 1000,
+        "Deployed": 0,
+        "IsTotemified": false,
+        "IsMined": false,
+        "IsTrapped": false,
+        "SelfCondition": {
+          "Health": {
+            "Comparsion": 1,
+            "Value": 0
+          },
+          "Mana": {
+            "Comparsion": 1,
+            "Value": 0
+          },
+          "ES": {
+            "Comparsion": 1,
+            "Value": 0
+          },
+          "HealthIsPercent": true,
+          "ManaIsPercent": true,
+          "EsIsPercent": true,
+          "Buffs": [],
+          "IsRunning": false
+        },
+        "PlayerName": "",
+        "PlayerCondition": {
+          "Health": {
+            "Comparsion": 1,
+            "Value": 0
+          },
+          "Mana": {
+            "Comparsion": 1,
+            "Value": 0
+          },
+          "ES": {
+            "Comparsion": 1,
+            "Value": 0
+          },
+          "HealthIsPercent": true,
+          "ManaIsPercent": true,
+          "EsIsPercent": true,
+          "Buffs": [],
+          "IsRunning": false
+        },
+        "MonsterPosition": {
+          "Distance": {
+            "Min": 0,
+            "Max": 100
+          },
+          "PackSize": 0,
+          "PackRadius": 50
+        },
+        "MonsterCondition": {
+          "Name": [],
+          "MonsterType": [],
+          "Metadata": [],
+          "Rarity": {
+            "Comparsion": 0,
+            "Value": 3
           },
           "Health": {
             "Comparsion": 1,
@@ -11186,7 +11493,7 @@
         "Tier": 16,
         "Name": "Dunes Map",
         "Priority": 0,
-        "ExplorationPct": 70
+        "ExplorationPct": 90
       },
       {
         "Enabled": false,
@@ -11772,12 +12079,12 @@
     "NoMapsGrindEnabled": false,
     "NoMapsGrindAreas": [],
     "LeaveMapOnBossesDeath": false,
-    "DontLeaveIfBossesAlive": true,
+    "DontLeaveIfBossesAlive": false,
     "ShouldIgnoreBoss": false,
     "ShouldChaseMonsters": false,
     "PrioritizeUncompleted": false,
     "MapUpgradeSettings": {
-      "Rarity": 0,
+      "Rarity": 2,
       "UpgradeWithChisel": false,
       "ChiselType": "Cartographer's Chisel",
       "TargetQuality": 20,
@@ -11908,7 +12215,7 @@
           }
         },
         {
-          "Enabled": true,
+          "Enabled": false,
           "Stat": {
             "StatID": 21065,
             "ID": "map_zana_influence",
@@ -11961,6 +12268,42 @@
             "StatID": 992,
             "ID": "map_monsters_cast_speed_+%",
             "Description": "#% increased Monster Cast Speed"
+          },
+          "Range": {
+            "Min": 0,
+            "Max": 0
+          }
+        },
+        {
+          "Enabled": true,
+          "Stat": {
+            "StatID": 3938,
+            "ID": "map_monsters_base_self_critical_strike_multiplier_-%",
+            "Description": "Monsters take #% reduced Extra Damage from Critical Strikes"
+          },
+          "Range": {
+            "Min": 0,
+            "Max": 0
+          }
+        },
+        {
+          "Enabled": true,
+          "Stat": {
+            "StatID": 3249,
+            "ID": "map_monsters_critical_strike_multiplier_+",
+            "Description": "+#% to Monster Critical Strike Multiplier"
+          },
+          "Range": {
+            "Min": 0,
+            "Max": 0
+          }
+        },
+        {
+          "Enabled": true,
+          "Stat": {
+            "StatID": 989,
+            "ID": "map_monsters_damage_+%",
+            "Description": "#% increased Monster Damage"
           },
           "Range": {
             "Min": 0,
@@ -12067,7 +12410,7 @@
     "CurrencyExchangeSettings": {
       "Enabled": true,
       "CancelOldOrders": true,
-      "OrdersExpiryTime": 30,
+      "OrdersExpiryTime": 50,
       "BlacklistTime": 5,
       "CurrencyExchangeOrders": [
         {
@@ -12080,7 +12423,8 @@
           "PreferredRatio": 0,
           "RatioModifier": 100,
           "TriggerQuantity": 40,
-          "Quantity": 40
+          "Quantity": 40,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -12092,7 +12436,8 @@
           "PreferredRatio": 0,
           "RatioModifier": 100,
           "TriggerQuantity": 20,
-          "Quantity": 20
+          "Quantity": 20,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -12104,7 +12449,8 @@
           "PreferredRatio": 0,
           "RatioModifier": 100,
           "TriggerQuantity": 20,
-          "Quantity": 20
+          "Quantity": 20,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -12116,7 +12462,8 @@
           "PreferredRatio": 0,
           "RatioModifier": 100,
           "TriggerQuantity": 20,
-          "Quantity": 20
+          "Quantity": 20,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12126,9 +12473,10 @@
           "GetRatio": 0,
           "PayRatio": 0,
           "PreferredRatio": 0,
-          "RatioModifier": 100,
+          "RatioModifier": 90,
           "TriggerQuantity": 20,
-          "Quantity": 60
+          "Quantity": 60,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12138,9 +12486,10 @@
           "GetRatio": 0,
           "PayRatio": 0,
           "PreferredRatio": 0,
-          "RatioModifier": 100,
+          "RatioModifier": 90,
           "TriggerQuantity": 20,
-          "Quantity": 20
+          "Quantity": 20,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12150,12 +12499,13 @@
           "GetRatio": 0,
           "PayRatio": 0,
           "PreferredRatio": 0,
-          "RatioModifier": 100,
+          "RatioModifier": 90,
           "TriggerQuantity": 20,
-          "Quantity": 20
+          "Quantity": 20,
+          "AcceptUnfavourable": false
         },
         {
-          "Enabled": false,
+          "Enabled": true,
           "Type": 1,
           "Other": "Orb of Alchemy",
           "Your": "Chaos Orb",
@@ -12164,10 +12514,11 @@
           "PreferredRatio": 0,
           "RatioModifier": 100,
           "TriggerQuantity": 30,
-          "Quantity": 100
+          "Quantity": 100,
+          "AcceptUnfavourable": false
         },
         {
-          "Enabled": false,
+          "Enabled": true,
           "Type": 1,
           "Other": "Orb of Scouring",
           "Your": "Chaos Orb",
@@ -12176,7 +12527,8 @@
           "PreferredRatio": 0,
           "RatioModifier": 100,
           "TriggerQuantity": 30,
-          "Quantity": 100
+          "Quantity": 100,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -12188,7 +12540,8 @@
           "PreferredRatio": 0,
           "RatioModifier": 100,
           "TriggerQuantity": 30,
-          "Quantity": 100
+          "Quantity": 100,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12200,7 +12553,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 100,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12212,7 +12566,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 100,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12224,7 +12579,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 300,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12236,7 +12592,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 300,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12248,7 +12605,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 100,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12260,7 +12618,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 50,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12272,7 +12631,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 50,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12284,7 +12644,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 2,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12296,7 +12657,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 2,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12308,7 +12670,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 2,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12320,7 +12683,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 50,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12332,7 +12696,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 50,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12344,7 +12709,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 50,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12356,7 +12722,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 50,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12368,7 +12735,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 50,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12380,7 +12748,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 50,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12392,7 +12761,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 10,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12404,7 +12774,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 10,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12416,7 +12787,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 10,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12428,7 +12800,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 10,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12439,8 +12812,9 @@
           "PayRatio": 0,
           "PreferredRatio": 1,
           "RatioModifier": 95,
-          "TriggerQuantity": 3,
-          "Quantity": 800
+          "TriggerQuantity": 10,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12452,7 +12826,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 3,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12464,7 +12839,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 1,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12473,10 +12849,11 @@
           "Your": "Shrieking Essence of Hatred",
           "GetRatio": 0,
           "PayRatio": 0,
-          "PreferredRatio": 0,
+          "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12488,7 +12865,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12500,7 +12878,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12512,7 +12891,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12521,10 +12901,11 @@
           "Your": "Shrieking Essence of Greed",
           "GetRatio": 0,
           "PayRatio": 0,
-          "PreferredRatio": 0,
+          "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12536,7 +12917,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12545,10 +12927,11 @@
           "Your": "Shrieking Essence of Contempt",
           "GetRatio": 0,
           "PayRatio": 0,
-          "PreferredRatio": 0,
+          "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12560,7 +12943,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12569,10 +12953,11 @@
           "Your": "Shrieking Essence of Sorrow",
           "GetRatio": 0,
           "PayRatio": 0,
-          "PreferredRatio": 0,
+          "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12584,7 +12969,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12593,10 +12979,11 @@
           "Your": "Shrieking Essence of Anger",
           "GetRatio": 0,
           "PayRatio": 0,
-          "PreferredRatio": 0,
+          "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12608,7 +12995,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12617,10 +13005,11 @@
           "Your": "Shrieking Essence of Torment",
           "GetRatio": 0,
           "PayRatio": 0,
-          "PreferredRatio": 0,
+          "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12632,7 +13021,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12641,10 +13031,11 @@
           "Your": "Shrieking Essence of Fear",
           "GetRatio": 0,
           "PayRatio": 0,
-          "PreferredRatio": 0,
+          "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12656,7 +13047,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12665,10 +13057,11 @@
           "Your": "Shrieking Essence of Suffering",
           "GetRatio": 0,
           "PayRatio": 0,
-          "PreferredRatio": 0,
+          "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12680,7 +13073,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12689,10 +13083,11 @@
           "Your": "Shrieking Essence of Rage",
           "GetRatio": 0,
           "PayRatio": 0,
-          "PreferredRatio": 0,
+          "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12704,7 +13099,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12713,10 +13109,11 @@
           "Your": "Shrieking Essence of Wrath",
           "GetRatio": 0,
           "PayRatio": 0,
-          "PreferredRatio": 0,
+          "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12728,7 +13125,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12737,10 +13135,11 @@
           "Your": "Shrieking Essence of Doubt",
           "GetRatio": 0,
           "PayRatio": 0,
-          "PreferredRatio": 0,
+          "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12752,7 +13151,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12761,10 +13161,11 @@
           "Your": "Shrieking Essence of Anguish",
           "GetRatio": 0,
           "PayRatio": 0,
-          "PreferredRatio": 0,
+          "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12776,7 +13177,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12785,10 +13187,11 @@
           "Your": "Shrieking Essence of Loathing",
           "GetRatio": 0,
           "PayRatio": 0,
-          "PreferredRatio": 0,
+          "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12800,7 +13203,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12812,7 +13216,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12824,7 +13229,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12836,7 +13242,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12848,7 +13255,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12857,10 +13265,11 @@
           "Your": "Shrieking Essence of Misery",
           "GetRatio": 0,
           "PayRatio": 0,
-          "PreferredRatio": 0,
+          "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12872,7 +13281,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12881,10 +13291,11 @@
           "Your": "Shrieking Essence of Dread",
           "GetRatio": 0,
           "PayRatio": 0,
-          "PreferredRatio": 0,
+          "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12896,7 +13307,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12908,7 +13320,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12920,7 +13333,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12932,7 +13346,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -12944,7 +13359,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -12956,7 +13372,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 20,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -12968,7 +13385,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 5,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -12980,7 +13398,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 5,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -12992,7 +13411,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 5,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13004,7 +13424,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 5,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13016,7 +13437,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 10,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13028,7 +13450,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 5,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13040,7 +13463,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 20,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13052,7 +13476,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 20,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13064,7 +13489,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 20,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13076,7 +13502,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 10,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13088,7 +13515,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 10,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13100,7 +13528,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 10,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13112,7 +13541,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 5,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13124,7 +13554,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 5,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13136,7 +13567,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 5,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13148,7 +13580,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 20,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13160,7 +13593,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 5,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13172,7 +13606,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 5,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13184,7 +13619,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 1,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13196,7 +13632,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 2,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13208,7 +13645,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 20,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13220,7 +13658,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 5,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13232,7 +13671,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 5,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13244,7 +13684,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 5,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13256,7 +13697,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 20,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13268,7 +13710,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 5,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13280,7 +13723,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 5,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13292,7 +13736,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 20,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13304,7 +13749,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 5,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13316,7 +13762,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 5,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13328,7 +13775,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 5,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13340,7 +13788,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 20,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13352,7 +13801,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 10,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13364,7 +13814,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 5,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13376,7 +13827,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 5,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13388,7 +13840,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 1,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -13400,7 +13853,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 1,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13412,7 +13866,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 5,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13424,7 +13879,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 1,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13436,7 +13892,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 1,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13448,7 +13905,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 1,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13460,7 +13918,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 1,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13472,7 +13931,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 5,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -13484,7 +13944,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 5,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13496,7 +13957,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 5,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13508,7 +13970,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 2,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13520,7 +13983,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 2,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -13532,7 +13996,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 2,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13544,7 +14009,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 1,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": false,
@@ -13556,7 +14022,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 1,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -13568,7 +14035,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 1,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -13580,7 +14048,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 1,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -13592,7 +14061,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 1,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -13604,7 +14074,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 3,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -13616,7 +14087,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 3,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -13628,7 +14100,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 3,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -13640,7 +14113,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 3,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -13652,7 +14126,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 3,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -13664,7 +14139,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 3,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -13676,7 +14152,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 3,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -13688,7 +14165,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 3,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -13700,7 +14178,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 3,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -13712,7 +14191,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 3,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -13724,7 +14204,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 3,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -13736,7 +14217,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 3,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -13748,7 +14230,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 3,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -13760,7 +14243,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 3,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -13772,7 +14256,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 3,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -13784,7 +14269,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 3,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -13796,7 +14282,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 3,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -13808,7 +14295,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 3,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -13820,7 +14308,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 95,
           "TriggerQuantity": 3,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -13832,7 +14321,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 97,
           "TriggerQuantity": 3,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -13844,7 +14334,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 97,
           "TriggerQuantity": 1,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -13856,7 +14347,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 100,
           "TriggerQuantity": 30,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -13868,7 +14360,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 97,
           "TriggerQuantity": 10,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -13880,7 +14373,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 97,
           "TriggerQuantity": 10,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -13892,7 +14386,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 97,
           "TriggerQuantity": 10,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -13904,7 +14399,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 97,
           "TriggerQuantity": 10,
-          "Quantity": 800
+          "Quantity": 800,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -13916,7 +14412,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 97,
           "TriggerQuantity": 50,
-          "Quantity": 40
+          "Quantity": 40,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -13928,7 +14425,8 @@
           "PreferredRatio": 1,
           "RatioModifier": 97,
           "TriggerQuantity": 50000,
-          "Quantity": 100000
+          "Quantity": 50000,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -13939,8 +14437,9 @@
           "PayRatio": 0,
           "PreferredRatio": 1,
           "RatioModifier": 95,
-          "TriggerQuantity": 3,
-          "Quantity": 100
+          "TriggerQuantity": 50,
+          "Quantity": 100,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -13951,8 +14450,9 @@
           "PayRatio": 0,
           "PreferredRatio": 1,
           "RatioModifier": 95,
-          "TriggerQuantity": 3,
-          "Quantity": 100
+          "TriggerQuantity": 50,
+          "Quantity": 100,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -13963,8 +14463,9 @@
           "PayRatio": 0,
           "PreferredRatio": 1,
           "RatioModifier": 95,
-          "TriggerQuantity": 3,
-          "Quantity": 100
+          "TriggerQuantity": 50,
+          "Quantity": 100,
+          "AcceptUnfavourable": false
         },
         {
           "Enabled": true,
@@ -13975,8 +14476,9 @@
           "PayRatio": 0,
           "PreferredRatio": 1,
           "RatioModifier": 95,
-          "TriggerQuantity": 3,
-          "Quantity": 100
+          "TriggerQuantity": 50,
+          "Quantity": 100,
+          "AcceptUnfavourable": false
         }
       ]
     }
@@ -15158,7 +15660,7 @@
       }
     },
     "DeliriumSettings": {
-      "Enabled": true
+      "Enabled": false
     },
     "AmbushSettings": {
       "IsEnabled": false,
@@ -16724,9 +17226,9 @@
     },
     "EldritchAltarsSettings": {
       "Enabled": false,
-      "IsPlayerEnabled": true,
+      "IsPlayerEnabled": false,
       "PlayerWeight": 1000,
-      "IsMonsterEnabled": true,
+      "IsMonsterEnabled": false,
       "MonsterWeight": 1000,
       "IsBossEnabled": false,
       "BossWeight": 0,
@@ -16802,6 +17304,33 @@
             "Description": "Maps dropped by slain Enemies have #% chance to be Duplicated"
           },
           "Value": 20
+        },
+        {
+          "Enabled": true,
+          "Stat": {
+            "StatID": 17125,
+            "ID": "map_boss_additional_divine_orb_to_drop",
+            "Description": "Final Boss drops # additional Divine Orb"
+          },
+          "Value": 100000
+        },
+        {
+          "Enabled": true,
+          "Stat": {
+            "StatID": 17125,
+            "ID": "map_boss_additional_divine_orb_to_drop",
+            "Description": "Final Boss drops # additional Divine Orbs"
+          },
+          "Value": 100000
+        },
+        {
+          "Enabled": true,
+          "Stat": {
+            "StatID": 17093,
+            "ID": "chance_%_to_drop_additional_divine_orb",
+            "Description": "#% chance to drop an additional Divine Orb"
+          },
+          "Value": 100000
         }
       ],
       "StatsBlacklist": [
@@ -19221,38 +19750,38 @@
             {
               "Logic": 2,
               "Type": 1,
-              "Text": "Dunes"
+              "Text": "Dunes Map"
             },
             {
               "Logic": 2,
-              "Type": 1,
-              "Text": "Fortress"
+              "Type": 0,
+              "Text": "Fortress Map"
             },
             {
               "Logic": 2,
-              "Type": 1,
-              "Text": "Sanctuary"
+              "Type": 0,
+              "Text": "Sanctuary Map"
             },
             {
               "Logic": 2,
-              "Type": 1,
-              "Text": "Ziggurat"
+              "Type": 0,
+              "Text": "Ziggurat Map"
             },
             {
               "Logic": 2,
-              "Type": 1,
-              "Text": "Abomination"
+              "Type": 0,
+              "Text": "Abomination Map"
             },
             {
               "Logic": 2,
-              "Type": 1,
-              "Text": "Citadel"
+              "Type": 0,
+              "Text": "Citadel Map"
             }
           ],
           "Metadata": [],
           "IconPath": [],
           "BaseItemType": "",
-          "ItemClass": "",
+          "ItemClass": "Maps",
           "Rarity": {
             "Comparsion": 1,
             "Value": 0
@@ -19294,8 +19823,8 @@
             "Value": 0
           },
           "MapTier": {
-            "Comparsion": 1,
-            "Value": 0
+            "Comparsion": 2,
+            "Value": 16
           },
           "Stats": [
             {
@@ -19916,6 +20445,243 @@
           }
         },
         "Threshold": 0
+      },
+      {
+        "ItemRule": {
+          "Enabled": true,
+          "Name": [
+            {
+              "Logic": 2,
+              "Type": 1,
+              "Text": "Simulacrum"
+            },
+            {
+              "Logic": 0,
+              "Type": 1,
+              "Text": "Splinter"
+            }
+          ],
+          "Metadata": [],
+          "IconPath": [],
+          "BaseItemType": "",
+          "ItemClass": "",
+          "Rarity": {
+            "Comparsion": 1,
+            "Value": 0
+          },
+          "Sockets": {
+            "R": 0,
+            "G": 0,
+            "B": 0,
+            "W": 0,
+            "Total": {
+              "Min": 0,
+              "Max": 0
+            }
+          },
+          "Links": {
+            "R": 0,
+            "G": 0,
+            "B": 0,
+            "W": 0,
+            "Total": {
+              "Min": 0,
+              "Max": 0
+            }
+          },
+          "ItemLevel": {
+            "Min": 0,
+            "Max": 0
+          },
+          "RequiredLevel": {
+            "Min": 0,
+            "Max": 0
+          },
+          "PlayerLevel": {
+            "Min": 0,
+            "Max": 100
+          },
+          "Quality": {
+            "Comparsion": 1,
+            "Value": 0
+          },
+          "MapTier": {
+            "Comparsion": 1,
+            "Value": 0
+          },
+          "Stats": [],
+          "Weapon": {
+            "Damage": {
+              "Min": 0,
+              "Max": 0
+            },
+            "AttackSpeed": {
+              "Min": 0.0,
+              "Max": 0.0
+            },
+            "PhysicalDPS": {
+              "Min": 0,
+              "Max": 0
+            },
+            "ElementalDPS": {
+              "Min": 0,
+              "Max": 0
+            },
+            "DPS": {
+              "Min": 0,
+              "Max": 0
+            },
+            "Critical": {
+              "Min": 0.0,
+              "Max": 0.0
+            }
+          },
+          "Armour": {
+            "Armour": {
+              "Min": 0,
+              "Max": 0
+            },
+            "Evasion": {
+              "Min": 0,
+              "Max": 0
+            },
+            "EnergyShield": {
+              "Min": 0,
+              "Max": 0
+            }
+          },
+          "IsIdentified": {
+            "Comparsion": 0
+          },
+          "IsCorruprted": {
+            "Comparsion": 0
+          },
+          "IsMirrored": {
+            "Comparsion": 0
+          }
+        },
+        "Threshold": 0
+      },
+      {
+        "ItemRule": {
+          "Enabled": true,
+          "Name": [
+            {
+              "Logic": 1,
+              "Type": 3,
+              "Text": "Oil"
+            },
+            {
+              "Logic": 1,
+              "Type": 2,
+              "Text": "Writhing"
+            },
+            {
+              "Logic": 1,
+              "Type": 3,
+              "Text": "Fossil"
+            }
+          ],
+          "Metadata": [],
+          "IconPath": [],
+          "BaseItemType": "",
+          "ItemClass": "",
+          "Rarity": {
+            "Comparsion": 1,
+            "Value": 0
+          },
+          "Sockets": {
+            "R": 0,
+            "G": 0,
+            "B": 0,
+            "W": 0,
+            "Total": {
+              "Min": 0,
+              "Max": 0
+            }
+          },
+          "Links": {
+            "R": 0,
+            "G": 0,
+            "B": 0,
+            "W": 0,
+            "Total": {
+              "Min": 0,
+              "Max": 0
+            }
+          },
+          "ItemLevel": {
+            "Min": 0,
+            "Max": 0
+          },
+          "RequiredLevel": {
+            "Min": 0,
+            "Max": 0
+          },
+          "PlayerLevel": {
+            "Min": 0,
+            "Max": 100
+          },
+          "Quality": {
+            "Comparsion": 1,
+            "Value": 0
+          },
+          "MapTier": {
+            "Comparsion": 1,
+            "Value": 0
+          },
+          "Stats": [],
+          "Weapon": {
+            "Damage": {
+              "Min": 0,
+              "Max": 0
+            },
+            "AttackSpeed": {
+              "Min": 0.0,
+              "Max": 0.0
+            },
+            "PhysicalDPS": {
+              "Min": 0,
+              "Max": 0
+            },
+            "ElementalDPS": {
+              "Min": 0,
+              "Max": 0
+            },
+            "DPS": {
+              "Min": 0,
+              "Max": 0
+            },
+            "Critical": {
+              "Min": 0.0,
+              "Max": 0.0
+            }
+          },
+          "Armour": {
+            "Armour": {
+              "Min": 0,
+              "Max": 0
+            },
+            "Evasion": {
+              "Min": 0,
+              "Max": 0
+            },
+            "EnergyShield": {
+              "Min": 0,
+              "Max": 0
+            }
+          },
+          "IsIdentified": {
+            "Comparsion": 0
+          },
+          "IsCorruprted": {
+            "Comparsion": 0
+          },
+          "IsMirrored": {
+            "Comparsion": 0
+          }
+        },
+        "Threshold": 0
       }
     ]
   },
@@ -20345,7 +21111,18 @@
   },
   "LevelSkillGemsSettings": {
     "Enabled": true,
-    "SkillGemsSettings": []
+    "SkillGemsSettings": [
+      {
+        "Enabled": true,
+        "SkillGemName": "Hextouch Support",
+        "MaxLevel": 1
+      },
+      {
+        "Enabled": true,
+        "SkillGemName": "Temporal Chains",
+        "MaxLevel": 1
+      }
+    ]
   },
   "MainInventoryRestockSettings": {
     "Enabled": true,

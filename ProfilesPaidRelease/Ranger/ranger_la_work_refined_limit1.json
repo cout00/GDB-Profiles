@@ -7737,7 +7737,18 @@
     ]
   },
   "GrindSettings": {
-    "GrindAreas": []
+    "GrindAreas": [
+      {
+        "Enabled": true,
+        "Act": 9,
+        "AreaName": "The Blood Aqueduct",
+        "MinLevel": 66,
+        "MaxLevel": 71,
+        "MaxTime": 15,
+        "MaxDeaths": 1,
+        "ExplorationPct": 50
+      }
+    ]
   },
   "ChaosRecipesSettings": {
     "Enabled": false,
@@ -8522,14 +8533,285 @@
         "OrbitIndex": 0
       }
     ],
-    "RandomOrder": true,
+    "RandomOrder": false,
     "RandomAllocate": false,
     "RandomEach": 5,
     "RandomBlacklist": []
   },
   "AtlasPassiveSkillsSettings": {
     "AllocatePassives": false,
-    "PassiveSkills": [],
+    "PassiveSkills": [
+      {
+        "Name": "Adjacent Map Drop Chance",
+        "Type": 3,
+        "JewelSocketType": 0,
+        "ID": 64048,
+        "EffectID": 0,
+        "Orbit": 0,
+        "OrbitIndex": 0
+      },
+      {
+        "Name": "Adjacent Map Drop Chance",
+        "Type": 3,
+        "JewelSocketType": 0,
+        "ID": 57739,
+        "EffectID": 0,
+        "Orbit": 4,
+        "OrbitIndex": 20
+      },
+      {
+        "Name": "Adjacent Map Drop Chance",
+        "Type": 3,
+        "JewelSocketType": 0,
+        "ID": 10884,
+        "EffectID": 0,
+        "Orbit": 3,
+        "OrbitIndex": 0
+      },
+      {
+        "Name": "Adjacent Map Drop Chance",
+        "Type": 3,
+        "JewelSocketType": 0,
+        "ID": 15967,
+        "EffectID": 0,
+        "Orbit": 3,
+        "OrbitIndex": 8
+      },
+      {
+        "Name": "Adjacent Map Drop Chance",
+        "Type": 3,
+        "JewelSocketType": 0,
+        "ID": 23513,
+        "EffectID": 0,
+        "Orbit": 0,
+        "OrbitIndex": 0
+      },
+      {
+        "Name": "Adjacent Map Drop Chance",
+        "Type": 3,
+        "JewelSocketType": 0,
+        "ID": 53410,
+        "EffectID": 0,
+        "Orbit": 0,
+        "OrbitIndex": 0
+      },
+      {
+        "Name": "Adjacent Map Drop Chance",
+        "Type": 3,
+        "JewelSocketType": 0,
+        "ID": 36137,
+        "EffectID": 0,
+        "Orbit": 0,
+        "OrbitIndex": 0
+      },
+      {
+        "Name": "Map Modifier Effect",
+        "Type": 3,
+        "JewelSocketType": 0,
+        "ID": 38692,
+        "EffectID": 0,
+        "Orbit": 2,
+        "OrbitIndex": 7
+      },
+      {
+        "Name": "Map Modifier Effect",
+        "Type": 3,
+        "JewelSocketType": 0,
+        "ID": 29088,
+        "EffectID": 0,
+        "Orbit": 2,
+        "OrbitIndex": 11
+      },
+      {
+        "Name": "Mounting Modifiers",
+        "Type": 3,
+        "JewelSocketType": 0,
+        "ID": 34393,
+        "EffectID": 0,
+        "Orbit": 2,
+        "OrbitIndex": 14
+      },
+      {
+        "Name": "Adjacent Map Drop Chance",
+        "Type": 3,
+        "JewelSocketType": 0,
+        "ID": 8132,
+        "EffectID": 0,
+        "Orbit": 0,
+        "OrbitIndex": 0
+      },
+      {
+        "Name": "Adjacent Map Drop Chance",
+        "Type": 3,
+        "JewelSocketType": 0,
+        "ID": 8132,
+        "EffectID": 0,
+        "Orbit": 0,
+        "OrbitIndex": 0
+      },
+      {
+        "Name": "Adjacent Map Drop Chance",
+        "Type": 3,
+        "JewelSocketType": 0,
+        "ID": 8132,
+        "EffectID": 0,
+        "Orbit": 0,
+        "OrbitIndex": 0
+      },
+      {
+        "Name": "Adjacent Map Drop Chance",
+        "Type": 3,
+        "JewelSocketType": 0,
+        "ID": 37245,
+        "EffectID": 0,
+        "Orbit": 0,
+        "OrbitIndex": 0
+      },
+      {
+        "Name": "Adjacent Map Drop Chance",
+        "Type": 3,
+        "JewelSocketType": 0,
+        "ID": 51123,
+        "EffectID": 0,
+        "Orbit": 6,
+        "OrbitIndex": 48
+      },
+      {
+        "Name": "Higher Map Tier Chance",
+        "Type": 3,
+        "JewelSocketType": 0,
+        "ID": 28939,
+        "EffectID": 0,
+        "Orbit": 2,
+        "OrbitIndex": 1
+      },
+      {
+        "Name": "Higher Map Tier Chance",
+        "Type": 3,
+        "JewelSocketType": 0,
+        "ID": 65246,
+        "EffectID": 0,
+        "Orbit": 2,
+        "OrbitIndex": 15
+      },
+      {
+        "Name": "Shaping the Skies",
+        "Type": 3,
+        "JewelSocketType": 0,
+        "ID": 35608,
+        "EffectID": 0,
+        "Orbit": 2,
+        "OrbitIndex": 8
+      },
+      {
+        "Name": "Adjacent Map Drop Chance",
+        "Type": 3,
+        "JewelSocketType": 0,
+        "ID": 17321,
+        "EffectID": 0,
+        "Orbit": 0,
+        "OrbitIndex": 0
+      },
+      {
+        "Name": "Adjacent Map Drop Chance",
+        "Type": 3,
+        "JewelSocketType": 0,
+        "ID": 60045,
+        "EffectID": 0,
+        "Orbit": 6,
+        "OrbitIndex": 24
+      },
+      {
+        "Name": "Higher Map Tier Chance",
+        "Type": 3,
+        "JewelSocketType": 0,
+        "ID": 54407,
+        "EffectID": 0,
+        "Orbit": 2,
+        "OrbitIndex": 15
+      },
+      {
+        "Name": "Higher Map Tier Chance",
+        "Type": 3,
+        "JewelSocketType": 0,
+        "ID": 26293,
+        "EffectID": 0,
+        "Orbit": 2,
+        "OrbitIndex": 1
+      },
+      {
+        "Name": "Shaping the Mountains",
+        "Type": 3,
+        "JewelSocketType": 0,
+        "ID": 24609,
+        "EffectID": 0,
+        "Orbit": 2,
+        "OrbitIndex": 8
+      },
+      {
+        "Name": "Kirac Mission Chance",
+        "Type": 3,
+        "JewelSocketType": 0,
+        "ID": 38725,
+        "EffectID": 0,
+        "Orbit": 3,
+        "OrbitIndex": 7
+      },
+      {
+        "Name": "Kirac Mission Chance",
+        "Type": 3,
+        "JewelSocketType": 0,
+        "ID": 18876,
+        "EffectID": 0,
+        "Orbit": 3,
+        "OrbitIndex": 5
+      },
+      {
+        "Name": "Expect the Unexpected",
+        "Type": 3,
+        "JewelSocketType": 0,
+        "ID": 25741,
+        "EffectID": 0,
+        "Orbit": 3,
+        "OrbitIndex": 4
+      },
+      {
+        "Name": "Kirac Mission Chance",
+        "Type": 3,
+        "JewelSocketType": 0,
+        "ID": 47639,
+        "EffectID": 0,
+        "Orbit": 3,
+        "OrbitIndex": 3
+      },
+      {
+        "Name": "Kirac Mission Chance",
+        "Type": 3,
+        "JewelSocketType": 0,
+        "ID": 44546,
+        "EffectID": 0,
+        "Orbit": 3,
+        "OrbitIndex": 1
+      },
+      {
+        "Name": "Scarab Drop Chance",
+        "Type": 3,
+        "JewelSocketType": 0,
+        "ID": 58023,
+        "EffectID": 0,
+        "Orbit": 3,
+        "OrbitIndex": 0
+      },
+      {
+        "Name": "Commissioned Officer",
+        "Type": 3,
+        "JewelSocketType": 0,
+        "ID": 31655,
+        "EffectID": 0,
+        "Orbit": 2,
+        "OrbitIndex": 0
+      }
+    ],
     "RandomOrder": false
   },
   "QuestsSettings": {
@@ -12919,7 +13201,7 @@
   "MapsSettings": {
     "Maps": [
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 1,
         "Name": "Alleyways Map",
@@ -12927,7 +13209,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 1,
         "Name": "Bone Crypt Map",
@@ -12935,7 +13217,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 1,
         "Name": "Ramparts Map",
@@ -12943,7 +13225,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 1,
         "Name": "Terrace Map",
@@ -12951,7 +13233,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 2,
         "Name": "Channel Map",
@@ -12959,7 +13241,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 2,
         "Name": "Chateau Map",
@@ -12967,7 +13249,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 2,
         "Name": "Colosseum Map",
@@ -12975,7 +13257,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 2,
         "Name": "Dunes Map",
@@ -12983,7 +13265,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 2,
         "Name": "Geode Map",
@@ -12991,7 +13273,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 2,
         "Name": "Mausoleum Map",
@@ -12999,7 +13281,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 2,
         "Name": "Sepulchre Map",
@@ -13007,7 +13289,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 2,
         "Name": "Villa Map",
@@ -13015,7 +13297,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 3,
         "Name": "Acid Caverns Map",
@@ -13023,7 +13305,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 3,
         "Name": "Arachnid Tomb Map",
@@ -13031,7 +13313,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 3,
         "Name": "Core Map",
@@ -13039,7 +13321,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 3,
         "Name": "Defiled Cathedral Map",
@@ -13047,7 +13329,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 3,
         "Name": "Forbidden Woods Map",
@@ -13055,7 +13337,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 3,
         "Name": "Laboratory Map",
@@ -13063,7 +13345,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 3,
         "Name": "Overgrown Shrine Map",
@@ -13071,7 +13353,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 3,
         "Name": "Strand Map",
@@ -13079,7 +13361,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 4,
         "Name": "Alleyways Map",
@@ -13087,7 +13369,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 4,
         "Name": "Bone Crypt Map",
@@ -13095,7 +13377,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 4,
         "Name": "Cemetery Map",
@@ -13103,7 +13385,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 4,
         "Name": "Dark Forest Map",
@@ -13111,7 +13393,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 4,
         "Name": "Foundry Map",
@@ -13119,7 +13401,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 4,
         "Name": "Moon Temple Map",
@@ -13127,7 +13409,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 4,
         "Name": "Plateau Map",
@@ -13135,7 +13417,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 4,
         "Name": "Ramparts Map",
@@ -13143,7 +13425,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 4,
         "Name": "Siege Map",
@@ -13151,7 +13433,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 4,
         "Name": "Spider Forest Map",
@@ -13159,7 +13441,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 4,
         "Name": "Terrace Map",
@@ -13167,7 +13449,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 4,
         "Name": "Vaal Pyramid Map",
@@ -13175,7 +13457,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 5,
         "Name": "Atoll Map",
@@ -13183,7 +13465,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 5,
         "Name": "Bazaar Map",
@@ -13191,7 +13473,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 5,
         "Name": "Bog Map",
@@ -13199,7 +13481,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 5,
         "Name": "Channel Map",
@@ -13207,7 +13489,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 5,
         "Name": "Chateau Map",
@@ -13215,7 +13497,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 5,
         "Name": "Colosseum Map",
@@ -13223,7 +13505,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 5,
         "Name": "Courtyard Map",
@@ -13231,7 +13513,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 5,
         "Name": "Dunes Map",
@@ -13239,7 +13521,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 5,
         "Name": "Frozen Cabins Map",
@@ -13247,7 +13529,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 5,
         "Name": "Geode Map",
@@ -13255,7 +13537,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 5,
         "Name": "Ghetto Map",
@@ -13263,7 +13545,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 5,
         "Name": "Ivory Temple Map",
@@ -13271,7 +13553,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 5,
         "Name": "Mausoleum Map",
@@ -13279,7 +13561,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 5,
         "Name": "Racecourse Map",
@@ -13287,7 +13569,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 5,
         "Name": "Sepulchre Map",
@@ -13295,7 +13577,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 5,
         "Name": "Villa Map",
@@ -13303,7 +13585,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 6,
         "Name": "Acid Caverns Map",
@@ -13311,7 +13593,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 6,
         "Name": "Ancient City Map",
@@ -13319,7 +13601,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 6,
         "Name": "Arachnid Tomb Map",
@@ -13327,7 +13609,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 6,
         "Name": "Basilica Map",
@@ -13335,7 +13617,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 6,
         "Name": "Conservatory Map",
@@ -13343,7 +13625,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 6,
         "Name": "Core Map",
@@ -13351,7 +13633,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 6,
         "Name": "Defiled Cathedral Map",
@@ -13359,7 +13641,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 6,
         "Name": "Forbidden Woods Map",
@@ -13367,7 +13649,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 6,
         "Name": "Laboratory Map",
@@ -13375,7 +13657,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 6,
         "Name": "Lava Lake Map",
@@ -13383,7 +13665,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 6,
         "Name": "Leyline Map",
@@ -13391,7 +13673,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 6,
         "Name": "Overgrown Shrine Map",
@@ -13399,7 +13681,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 6,
         "Name": "Promenade Map",
@@ -13407,7 +13689,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 6,
         "Name": "Shore Map",
@@ -13415,7 +13697,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 6,
         "Name": "Strand Map",
@@ -13423,7 +13705,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 7,
         "Name": "Cemetery Map",
@@ -13431,7 +13713,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 7,
         "Name": "City Square Map",
@@ -13439,7 +13721,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 7,
         "Name": "Cursed Crypt Map",
@@ -13447,7 +13729,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 7,
         "Name": "Dark Forest Map",
@@ -13455,7 +13737,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 7,
         "Name": "Foundry Map",
@@ -13463,7 +13745,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 7,
         "Name": "Glacier Map",
@@ -13471,7 +13753,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 7,
         "Name": "Mineral Pools Map",
@@ -13479,7 +13761,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 7,
         "Name": "Moon Temple Map",
@@ -13487,7 +13769,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 7,
         "Name": "Plateau Map",
@@ -13495,7 +13777,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 7,
         "Name": "Precinct Map",
@@ -13503,7 +13785,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 7,
         "Name": "Primordial Blocks Map",
@@ -13511,7 +13793,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 7,
         "Name": "Siege Map",
@@ -13519,7 +13801,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 7,
         "Name": "Spider Forest Map",
@@ -13527,7 +13809,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 7,
         "Name": "Vaal Pyramid Map",
@@ -13535,7 +13817,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 7,
         "Name": "Waterways Map",
@@ -13543,7 +13825,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 8,
         "Name": "Alleyways Map",
@@ -13551,7 +13833,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 8,
         "Name": "Arsenal Map",
@@ -13559,7 +13841,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 8,
         "Name": "Atoll Map",
@@ -13567,7 +13849,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 8,
         "Name": "Bazaar Map",
@@ -13575,7 +13857,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 8,
         "Name": "Bog Map",
@@ -13583,7 +13865,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 8,
         "Name": "Bone Crypt Map",
@@ -13591,7 +13873,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 8,
         "Name": "Colonnade Map",
@@ -13599,7 +13881,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 8,
         "Name": "Courtyard Map",
@@ -13607,7 +13889,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 8,
         "Name": "Frozen Cabins Map",
@@ -13615,7 +13897,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 8,
         "Name": "Ghetto Map",
@@ -13623,7 +13905,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 8,
         "Name": "Ivory Temple Map",
@@ -13631,7 +13913,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 8,
         "Name": "Racecourse Map",
@@ -13639,7 +13921,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 8,
         "Name": "Ramparts Map",
@@ -13647,7 +13929,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 8,
         "Name": "Scriptorium Map",
@@ -13655,7 +13937,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 8,
         "Name": "Shipyard Map",
@@ -13663,7 +13945,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 8,
         "Name": "Terrace Map",
@@ -13671,7 +13953,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 8,
         "Name": "Tropical Island Map",
@@ -13679,7 +13961,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 8,
         "Name": "Vault Map",
@@ -13687,7 +13969,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 8,
         "Name": "Wharf Map",
@@ -13695,7 +13977,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 9,
         "Name": "Ancient City Map",
@@ -13703,7 +13985,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 9,
         "Name": "Basilica Map",
@@ -13711,7 +13993,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 9,
         "Name": "Bramble Valley Map",
@@ -13719,7 +14001,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 9,
         "Name": "Channel Map",
@@ -13727,7 +14009,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 9,
         "Name": "Chateau Map",
@@ -13735,7 +14017,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 9,
         "Name": "Colosseum Map",
@@ -13743,7 +14025,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 9,
         "Name": "Conservatory Map",
@@ -13751,7 +14033,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 9,
         "Name": "Coral Ruins Map",
@@ -13759,7 +14041,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 9,
         "Name": "Desert Spring Map",
@@ -13767,7 +14049,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 9,
         "Name": "Dig Map",
@@ -13775,7 +14057,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 9,
         "Name": "Dunes Map",
@@ -13783,7 +14065,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 9,
         "Name": "Geode Map",
@@ -13791,7 +14073,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 9,
         "Name": "Lava Lake Map",
@@ -13799,7 +14081,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 9,
         "Name": "Leyline Map",
@@ -13807,7 +14089,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 9,
         "Name": "Mausoleum Map",
@@ -13815,7 +14097,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 9,
         "Name": "Park Map",
@@ -13823,7 +14105,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 9,
         "Name": "Phantasmagoria Map",
@@ -13831,7 +14113,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 9,
         "Name": "Promenade Map",
@@ -13839,7 +14121,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 9,
         "Name": "Sepulchre Map",
@@ -13847,7 +14129,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 9,
         "Name": "Shore Map",
@@ -13855,7 +14137,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 9,
         "Name": "Villa Map",
@@ -13863,7 +14145,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 10,
         "Name": "Acid Caverns Map",
@@ -13871,7 +14153,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 10,
         "Name": "Arachnid Tomb Map",
@@ -13879,7 +14161,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 10,
         "Name": "Arid Lake Map",
@@ -13887,7 +14169,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 10,
         "Name": "City Square Map",
@@ -13895,7 +14177,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 10,
         "Name": "Core Map",
@@ -13903,7 +14185,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 10,
         "Name": "Cursed Crypt Map",
@@ -13911,7 +14193,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 10,
         "Name": "Defiled Cathedral Map",
@@ -13919,7 +14201,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 10,
         "Name": "Estuary Map",
@@ -13927,7 +14209,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 10,
         "Name": "Forbidden Woods Map",
@@ -13935,7 +14217,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 10,
         "Name": "Glacier Map",
@@ -13943,7 +14225,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 10,
         "Name": "Grotto Map",
@@ -13951,7 +14233,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 10,
         "Name": "Iceberg Map",
@@ -13959,7 +14241,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 10,
         "Name": "Laboratory Map",
@@ -13967,7 +14249,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 10,
         "Name": "Mesa Map",
@@ -13975,7 +14257,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 10,
         "Name": "Mineral Pools Map",
@@ -13983,7 +14265,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 10,
         "Name": "Overgrown Shrine Map",
@@ -13991,7 +14273,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 10,
         "Name": "Precinct Map",
@@ -13999,7 +14281,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 10,
         "Name": "Primordial Blocks Map",
@@ -14007,7 +14289,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 10,
         "Name": "Strand Map",
@@ -14015,7 +14297,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 10,
         "Name": "Underground Sea Map",
@@ -14023,7 +14305,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 10,
         "Name": "Waterways Map",
@@ -14031,7 +14313,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 11,
         "Name": "Arcade Map",
@@ -14039,7 +14321,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 11,
         "Name": "Arsenal Map",
@@ -14047,7 +14329,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 11,
         "Name": "Belfry Map",
@@ -14055,7 +14337,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 11,
         "Name": "Cemetery Map",
@@ -14063,7 +14345,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 11,
         "Name": "Colonnade Map",
@@ -14071,7 +14353,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 11,
         "Name": "Dark Forest Map",
@@ -14079,7 +14361,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 11,
         "Name": "Foundry Map",
@@ -14087,7 +14369,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 11,
         "Name": "Grave Trough Map",
@@ -14095,7 +14377,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 11,
         "Name": "Jungle Valley Map",
@@ -14103,7 +14385,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 11,
         "Name": "Moon Temple Map",
@@ -14111,7 +14393,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 11,
         "Name": "Orchard Map",
@@ -14119,7 +14401,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 11,
         "Name": "Plateau Map",
@@ -14127,7 +14409,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 11,
         "Name": "Scriptorium Map",
@@ -14135,7 +14417,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 11,
         "Name": "Shipyard Map",
@@ -14143,7 +14425,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 11,
         "Name": "Siege Map",
@@ -14151,7 +14433,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 11,
         "Name": "Silo Map",
@@ -14159,7 +14441,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 11,
         "Name": "Spider Forest Map",
@@ -14167,7 +14449,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 11,
         "Name": "Tropical Island Map",
@@ -14175,7 +14457,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 11,
         "Name": "Vaal Pyramid Map",
@@ -14183,7 +14465,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 11,
         "Name": "Vault Map",
@@ -14191,7 +14473,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 11,
         "Name": "Wharf Map",
@@ -14199,7 +14481,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 12,
         "Name": "Alleyways Map",
@@ -14207,7 +14489,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 12,
         "Name": "Atoll Map",
@@ -14215,7 +14497,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 12,
         "Name": "Bazaar Map",
@@ -14223,7 +14505,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 12,
         "Name": "Bog Map",
@@ -14231,7 +14513,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 12,
         "Name": "Bone Crypt Map",
@@ -14239,7 +14521,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 12,
         "Name": "Bramble Valley Map",
@@ -14247,7 +14529,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 12,
         "Name": "Castle Ruins Map",
@@ -14255,7 +14537,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 12,
         "Name": "Coral Ruins Map",
@@ -14263,7 +14545,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 12,
         "Name": "Courtyard Map",
@@ -14271,7 +14553,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 12,
         "Name": "Desert Spring Map",
@@ -14279,7 +14561,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 12,
         "Name": "Dig Map",
@@ -14287,7 +14569,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 12,
         "Name": "Dungeon Map",
@@ -14295,7 +14577,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 12,
         "Name": "Frozen Cabins Map",
@@ -14303,7 +14585,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 12,
         "Name": "Ghetto Map",
@@ -14311,7 +14593,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 12,
         "Name": "Ivory Temple Map",
@@ -14319,7 +14601,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 12,
         "Name": "Museum Map",
@@ -14327,7 +14609,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 12,
         "Name": "Necropolis Map",
@@ -14335,7 +14617,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 12,
         "Name": "Park Map",
@@ -14343,7 +14625,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 12,
         "Name": "Phantasmagoria Map",
@@ -14351,7 +14633,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 12,
         "Name": "Racecourse Map",
@@ -14359,7 +14641,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 12,
         "Name": "Ramparts Map",
@@ -14367,7 +14649,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 12,
         "Name": "Sunken City Map",
@@ -14375,7 +14657,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 12,
         "Name": "Terrace Map",
@@ -14383,7 +14665,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 12,
         "Name": "Toxic Sewer Map",
@@ -14391,7 +14673,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 13,
         "Name": "Ancient City Map",
@@ -14399,7 +14681,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 13,
         "Name": "Arid Lake Map",
@@ -14407,7 +14689,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 13,
         "Name": "Armoury Map",
@@ -14415,7 +14697,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 13,
         "Name": "Basilica Map",
@@ -14423,7 +14705,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 13,
         "Name": "Beach Map",
@@ -14431,7 +14713,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 13,
         "Name": "Channel Map",
@@ -14439,7 +14721,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 13,
         "Name": "Chateau Map",
@@ -14447,7 +14729,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 13,
         "Name": "Colosseum Map",
@@ -14455,7 +14737,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 13,
         "Name": "Conservatory Map",
@@ -14463,7 +14745,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 13,
         "Name": "Crystal Ore Map",
@@ -14471,7 +14753,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 13,
         "Name": "Dunes Map",
@@ -14479,7 +14761,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 13,
         "Name": "Estuary Map",
@@ -14487,7 +14769,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 13,
         "Name": "Geode Map",
@@ -14495,7 +14777,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 13,
         "Name": "Grotto Map",
@@ -14503,7 +14785,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 13,
         "Name": "Iceberg Map",
@@ -14511,7 +14793,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 13,
         "Name": "Lava Lake Map",
@@ -14519,7 +14801,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 13,
         "Name": "Leyline Map",
@@ -14527,7 +14809,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 13,
         "Name": "Malformation Map",
@@ -14535,7 +14817,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 13,
         "Name": "Mausoleum Map",
@@ -14543,7 +14825,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 13,
         "Name": "Mesa Map",
@@ -14551,7 +14833,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 13,
         "Name": "Pier Map",
@@ -14559,7 +14841,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 13,
         "Name": "Promenade Map",
@@ -14567,7 +14849,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 13,
         "Name": "Sepulchre Map",
@@ -14575,7 +14857,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 13,
         "Name": "Shore Map",
@@ -14583,7 +14865,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 13,
         "Name": "Underground Sea Map",
@@ -14591,7 +14873,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 13,
         "Name": "Villa Map",
@@ -14599,7 +14881,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 14,
         "Name": "Acid Caverns Map",
@@ -14607,7 +14889,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 14,
         "Name": "Arachnid Tomb Map",
@@ -14615,7 +14897,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 14,
         "Name": "Arcade Map",
@@ -14623,7 +14905,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 14,
         "Name": "Belfry Map",
@@ -14631,7 +14913,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 14,
         "Name": "City Square Map",
@@ -14639,7 +14921,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 14,
         "Name": "Cold River Map",
@@ -14647,7 +14929,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 14,
         "Name": "Core Map",
@@ -14655,7 +14937,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 14,
         "Name": "Cursed Crypt Map",
@@ -14663,7 +14945,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 14,
         "Name": "Defiled Cathedral Map",
@@ -14671,7 +14953,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 14,
         "Name": "Flooded Mine Map",
@@ -14679,7 +14961,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 14,
         "Name": "Forbidden Woods Map",
@@ -14687,7 +14969,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 14,
         "Name": "Glacier Map",
@@ -14695,7 +14977,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 14,
         "Name": "Grave Trough Map",
@@ -14703,7 +14985,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 14,
         "Name": "Jungle Valley Map",
@@ -14711,7 +14993,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 14,
         "Name": "Laboratory Map",
@@ -14719,7 +15001,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 14,
         "Name": "Maze Map",
@@ -14727,7 +15009,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 14,
         "Name": "Mineral Pools Map",
@@ -14735,7 +15017,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 14,
         "Name": "Orchard Map",
@@ -14743,7 +15025,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 14,
         "Name": "Overgrown Shrine Map",
@@ -14751,7 +15033,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 14,
         "Name": "Peninsula Map",
@@ -14759,7 +15041,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 14,
         "Name": "Precinct Map",
@@ -14767,7 +15049,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 14,
         "Name": "Primordial Blocks Map",
@@ -14775,7 +15057,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 14,
         "Name": "Silo Map",
@@ -14783,7 +15065,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 14,
         "Name": "Strand Map",
@@ -14791,7 +15073,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 14,
         "Name": "Temple Map",
@@ -14799,7 +15081,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 14,
         "Name": "Waterways Map",
@@ -14807,7 +15089,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 15,
         "Name": "Arsenal Map",
@@ -14815,7 +15097,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 15,
         "Name": "Ashen Wood Map",
@@ -14823,7 +15105,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 15,
         "Name": "Castle Ruins Map",
@@ -14831,7 +15113,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 15,
         "Name": "Cemetery Map",
@@ -14839,7 +15121,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 15,
         "Name": "Colonnade Map",
@@ -14847,7 +15129,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 15,
         "Name": "Dark Forest Map",
@@ -14855,7 +15137,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 15,
         "Name": "Dungeon Map",
@@ -14863,7 +15145,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 15,
         "Name": "Foundry Map",
@@ -14871,7 +15153,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 15,
         "Name": "Moon Temple Map",
@@ -14879,7 +15161,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 15,
         "Name": "Museum Map",
@@ -14887,7 +15169,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 15,
         "Name": "Necropolis Map",
@@ -14895,7 +15177,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 15,
         "Name": "Palace Map",
@@ -14903,7 +15185,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 15,
         "Name": "Plateau Map",
@@ -14911,7 +15193,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 15,
         "Name": "Scriptorium Map",
@@ -14919,7 +15201,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 15,
         "Name": "Shipyard Map",
@@ -14927,7 +15209,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 15,
         "Name": "Siege Map",
@@ -14935,7 +15217,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 15,
         "Name": "Spider Forest Map",
@@ -14943,7 +15225,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 15,
         "Name": "Sunken City Map",
@@ -14951,7 +15233,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 15,
         "Name": "Toxic Sewer Map",
@@ -14959,7 +15241,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 15,
         "Name": "Tropical Island Map",
@@ -14967,7 +15249,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 15,
         "Name": "Underground River Map",
@@ -14975,7 +15257,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 15,
         "Name": "Vaal Pyramid Map",
@@ -14983,7 +15265,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 15,
         "Name": "Vault Map",
@@ -14991,7 +15273,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 15,
         "Name": "Waste Pool Map",
@@ -14999,7 +15281,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 15,
         "Name": "Wasteland Map",
@@ -15007,7 +15289,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 15,
         "Name": "Wharf Map",
@@ -15015,7 +15297,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Acid Caverns Map",
@@ -15023,7 +15305,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Alleyways Map",
@@ -15031,7 +15313,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Ancient City Map",
@@ -15039,7 +15321,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Arachnid Tomb Map",
@@ -15047,7 +15329,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Arcade Map",
@@ -15055,7 +15337,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Arid Lake Map",
@@ -15063,7 +15345,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Armoury Map",
@@ -15071,7 +15353,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Arsenal Map",
@@ -15079,7 +15361,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Ashen Wood Map",
@@ -15087,7 +15369,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Atoll Map",
@@ -15095,7 +15377,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Basilica Map",
@@ -15103,7 +15385,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Bazaar Map",
@@ -15111,7 +15393,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Beach Map",
@@ -15119,7 +15401,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Belfry Map",
@@ -15127,7 +15409,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Bog Map",
@@ -15135,7 +15417,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Bone Crypt Map",
@@ -15143,7 +15425,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Bramble Valley Map",
@@ -15151,7 +15433,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Canyon Map",
@@ -15159,7 +15441,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Castle Ruins Map",
@@ -15167,7 +15449,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Cemetery Map",
@@ -15175,7 +15457,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Channel Map",
@@ -15183,7 +15465,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Chateau Map",
@@ -15191,7 +15473,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "City Square Map",
@@ -15199,7 +15481,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Cold River Map",
@@ -15207,7 +15489,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Colonnade Map",
@@ -15215,7 +15497,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Colosseum Map",
@@ -15223,7 +15505,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Conservatory Map",
@@ -15231,7 +15513,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Coral Ruins Map",
@@ -15239,7 +15521,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Core Map",
@@ -15247,7 +15529,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Courtyard Map",
@@ -15255,7 +15537,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Crimson Township Map",
@@ -15263,7 +15545,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Crystal Ore Map",
@@ -15271,7 +15553,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Cursed Crypt Map",
@@ -15279,7 +15561,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Dark Forest Map",
@@ -15287,7 +15569,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Defiled Cathedral Map",
@@ -15295,7 +15577,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Desert Spring Map",
@@ -15303,7 +15585,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Dig Map",
@@ -15311,15 +15593,15 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Dunes Map",
         "Priority": 0,
-        "ExplorationPct": 95
+        "ExplorationPct": 90
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Dungeon Map",
@@ -15327,7 +15609,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Estuary Map",
@@ -15335,7 +15617,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Flooded Mine Map",
@@ -15343,7 +15625,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Forbidden Woods Map",
@@ -15351,7 +15633,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Forge of the Phoenix Map",
@@ -15359,7 +15641,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Foundry Map",
@@ -15367,7 +15649,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Frozen Cabins Map",
@@ -15375,7 +15657,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Geode Map",
@@ -15383,7 +15665,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Ghetto Map",
@@ -15391,7 +15673,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Glacier Map",
@@ -15399,7 +15681,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Grave Trough Map",
@@ -15407,7 +15689,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Grotto Map",
@@ -15415,7 +15697,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Iceberg Map",
@@ -15423,7 +15705,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Ivory Temple Map",
@@ -15431,7 +15713,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Jungle Valley Map",
@@ -15439,7 +15721,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Laboratory Map",
@@ -15447,7 +15729,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Lair of the Hydra Map",
@@ -15455,7 +15737,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Lava Lake Map",
@@ -15463,7 +15745,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Leyline Map",
@@ -15471,7 +15753,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Lighthouse Map",
@@ -15479,7 +15761,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Malformation Map",
@@ -15487,7 +15769,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Mausoleum Map",
@@ -15495,7 +15777,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Maze Map",
@@ -15503,7 +15785,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Maze of the Minotaur Map",
@@ -15511,7 +15793,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Mesa Map",
@@ -15519,7 +15801,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Mineral Pools Map",
@@ -15527,7 +15809,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Moon Temple Map",
@@ -15535,7 +15817,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Museum Map",
@@ -15543,7 +15825,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Necropolis Map",
@@ -15551,7 +15833,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Orchard Map",
@@ -15559,7 +15841,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Overgrown Shrine Map",
@@ -15567,7 +15849,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Palace Map",
@@ -15575,7 +15857,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Park Map",
@@ -15583,7 +15865,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Peninsula Map",
@@ -15591,7 +15873,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Phantasmagoria Map",
@@ -15599,7 +15881,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Pier Map",
@@ -15607,7 +15889,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Pit of the Chimera Map",
@@ -15615,7 +15897,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Plateau Map",
@@ -15623,7 +15905,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Precinct Map",
@@ -15631,7 +15913,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Primordial Blocks Map",
@@ -15639,7 +15921,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Promenade Map",
@@ -15647,7 +15929,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Racecourse Map",
@@ -15655,7 +15937,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Ramparts Map",
@@ -15663,7 +15945,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Scriptorium Map",
@@ -15671,7 +15953,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Sepulchre Map",
@@ -15679,7 +15961,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Shipyard Map",
@@ -15687,7 +15969,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Shore Map",
@@ -15695,7 +15977,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Siege Map",
@@ -15703,7 +15985,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Silo Map",
@@ -15711,7 +15993,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Spider Forest Map",
@@ -15724,10 +16006,10 @@
         "Tier": 16,
         "Name": "Strand Map",
         "Priority": 0,
-        "ExplorationPct": 95
+        "ExplorationPct": 86
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Sunken City Map",
@@ -15735,7 +16017,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Temple Map",
@@ -15743,7 +16025,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Terrace Map",
@@ -15751,7 +16033,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Tower Map",
@@ -15759,7 +16041,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Toxic Sewer Map",
@@ -15767,7 +16049,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Tropical Island Map",
@@ -15775,7 +16057,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Underground River Map",
@@ -15783,7 +16065,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Underground Sea Map",
@@ -15791,7 +16073,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Vaal Pyramid Map",
@@ -15799,7 +16081,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Vaal Temple Map",
@@ -15807,7 +16089,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Vault Map",
@@ -15815,7 +16097,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Villa Map",
@@ -15823,7 +16105,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Waste Pool Map",
@@ -15831,7 +16113,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Wasteland Map",
@@ -15839,7 +16121,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Waterways Map",
@@ -15847,7 +16129,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 16,
         "Name": "Wharf Map",
@@ -15855,7 +16137,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 17,
         "Name": "Abomination Map",
@@ -15863,7 +16145,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 17,
         "Name": "Citadel Map",
@@ -15871,7 +16153,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 17,
         "Name": "Fortress Map",
@@ -15879,7 +16161,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 17,
         "Name": "Sanctuary Map",
@@ -15887,7 +16169,7 @@
         "ExplorationPct": 95
       },
       {
-        "Enabled": true,
+        "Enabled": false,
         "Active": true,
         "Tier": 17,
         "Name": "Ziggurat Map",
@@ -15895,39 +16177,245 @@
         "ExplorationPct": 95
       }
     ],
-    "SellExcessMaps": true,
-    "SellMapsThreshold": 30,
-    "MaxTime": 15,
+    "SellExcessMaps": false,
+    "SellMapsThreshold": 50,
+    "MaxTime": 8,
     "MaxDeaths": 0,
-    "NoMapsGrindEnabled": true,
-    "NoMapsGrindAreas": [
-      {
-        "Enabled": true,
-        "Act": 9,
-        "AreaName": "The Blood Aqueduct",
-        "MinLevel": 1,
-        "MaxLevel": 100,
-        "MaxTime": 15,
-        "MaxDeaths": 1,
-        "ExplorationPct": 60
-      }
-    ],
+    "NoMapsGrindEnabled": false,
+    "NoMapsGrindAreas": [],
     "LeaveMapOnBossesDeath": true,
     "DontLeaveIfBossesAlive": true,
     "ShouldIgnoreBoss": false,
     "ShouldChaseMonsters": false,
-    "PrioritizeUncompleted": true,
+    "PrioritizeUncompleted": false,
     "MapUpgradeSettings": {
-      "Rarity": 2,
+      "Rarity": 0,
       "UpgradeWithChisel": false,
       "ChiselType": "Cartographer's Chisel",
       "TargetQuality": 20,
       "UpgradeWithVaal": false,
       "VaalUncompleted": true,
       "RerollWithScouring": true,
-      "RerollBlacklistedStats": false,
+      "RerollBlacklistedStats": true,
       "RequiredStats": [],
-      "StatsBlacklist": [],
+      "StatsBlacklist": [
+        {
+          "Enabled": true,
+          "Stat": {
+            "StatID": 994,
+            "ID": "map_monsters_reflect_%_elemental_damage",
+            "Description": "Monsters reflect #% of Elemental Damage"
+          },
+          "Range": {
+            "Min": 0,
+            "Max": 0
+          }
+        },
+        {
+          "Enabled": true,
+          "Stat": {
+            "StatID": 993,
+            "ID": "map_monsters_reflect_%_physical_damage",
+            "Description": "Monsters reflect #% of Physical Damage"
+          },
+          "Range": {
+            "Min": 0,
+            "Max": 0
+          }
+        },
+        {
+          "Enabled": true,
+          "Stat": {
+            "StatID": 15088,
+            "ID": "map_monsters_cannot_be_leeched_from",
+            "Description": "Monsters cannot be Leeched from"
+          },
+          "Range": {
+            "Min": 0,
+            "Max": 0
+          }
+        },
+        {
+          "Enabled": false,
+          "Stat": {
+            "StatID": 15413,
+            "ID": "map_boss_is_possessed",
+            "Description": "Unique Bosses are Possessed"
+          },
+          "Range": {
+            "Min": 0,
+            "Max": 0
+          }
+        },
+        {
+          "Enabled": false,
+          "Stat": {
+            "StatID": 1001,
+            "ID": "map_player_no_regeneration",
+            "Description": "Players have no Life or Mana Regeneration"
+          },
+          "Range": {
+            "Min": 0,
+            "Max": 0
+          }
+        },
+        {
+          "Enabled": true,
+          "Stat": {
+            "StatID": 5280,
+            "ID": "map_players_no_regeneration_including_es",
+            "Description": "Players cannot Regenerate Life, Mana or Energy Shield"
+          },
+          "Range": {
+            "Min": 0,
+            "Max": 0
+          }
+        },
+        {
+          "Enabled": true,
+          "Stat": {
+            "StatID": 5281,
+            "ID": "map_player_life_and_es_recovery_speed_+%_final",
+            "Description": "Players have #% more Recovery Rate of Life and Energy Shield"
+          },
+          "Range": {
+            "Min": 0,
+            "Max": 0
+          }
+        },
+        {
+          "Enabled": false,
+          "Stat": {
+            "StatID": 5269,
+            "ID": "map_players_block_chance_+%",
+            "Description": "Players have #% increased Chance to Block"
+          },
+          "Range": {
+            "Min": 0,
+            "Max": 0
+          }
+        },
+        {
+          "Enabled": true,
+          "Stat": {
+            "StatID": 1008,
+            "ID": "map_additional_player_maximum_resistances_%",
+            "Description": "Players have #% to all maximum Resistances"
+          },
+          "Range": {
+            "Min": 0,
+            "Max": 0
+          }
+        },
+        {
+          "Enabled": false,
+          "Stat": {
+            "StatID": 15418,
+            "ID": "map_player_non_curse_aura_effect_+%",
+            "Description": "Players have #% increased effect of Non-Curse Auras from Skills"
+          },
+          "Range": {
+            "Min": 0,
+            "Max": 0
+          }
+        },
+        {
+          "Enabled": false,
+          "Stat": {
+            "StatID": 21065,
+            "ID": "map_zana_influence",
+            "Description": "Area is Influenced by the Originator's Memories"
+          },
+          "Range": {
+            "Min": 0,
+            "Max": 0
+          }
+        },
+        {
+          "Enabled": true,
+          "Stat": {
+            "StatID": 1031,
+            "ID": "map_monsters_%_physical_damage_to_add_as_cold",
+            "Description": "Monsters deal #% extra Physical Damage as Cold"
+          },
+          "Range": {
+            "Min": 0,
+            "Max": 0
+          }
+        },
+        {
+          "Enabled": true,
+          "Stat": {
+            "StatID": 1030,
+            "ID": "map_monsters_%_physical_damage_to_add_as_fire",
+            "Description": "Monsters deal #% extra Physical Damage as Fire"
+          },
+          "Range": {
+            "Min": 0,
+            "Max": 0
+          }
+        },
+        {
+          "Enabled": true,
+          "Stat": {
+            "StatID": 1032,
+            "ID": "map_monsters_%_physical_damage_to_add_as_lightning",
+            "Description": "Monsters deal #% extra Physical Damage as Lightning"
+          },
+          "Range": {
+            "Min": 0,
+            "Max": 0
+          }
+        },
+        {
+          "Enabled": true,
+          "Stat": {
+            "StatID": 992,
+            "ID": "map_monsters_cast_speed_+%",
+            "Description": "#% increased Monster Cast Speed"
+          },
+          "Range": {
+            "Min": 0,
+            "Max": 0
+          }
+        },
+        {
+          "Enabled": true,
+          "Stat": {
+            "StatID": 3938,
+            "ID": "map_monsters_base_self_critical_strike_multiplier_-%",
+            "Description": "Monsters take #% reduced Extra Damage from Critical Strikes"
+          },
+          "Range": {
+            "Min": 0,
+            "Max": 0
+          }
+        },
+        {
+          "Enabled": true,
+          "Stat": {
+            "StatID": 3249,
+            "ID": "map_monsters_critical_strike_multiplier_+",
+            "Description": "+#% to Monster Critical Strike Multiplier"
+          },
+          "Range": {
+            "Min": 0,
+            "Max": 0
+          }
+        },
+        {
+          "Enabled": true,
+          "Stat": {
+            "StatID": 989,
+            "ID": "map_monsters_damage_+%",
+            "Description": "#% increased Monster Damage"
+          },
+          "Range": {
+            "Min": 0,
+            "Max": 0
+          }
+        }
+      ],
       "DeliriumOrbsSettings": {
         "IsEnabled": false,
         "MaximumLayers": 5,
@@ -15938,22 +16426,73 @@
       "PurchaseUncompleted": false,
       "PurchaseIfNoMaps": false,
       "CompletedThreshold": 0,
-      "MaxTierToBuy": 16
+      "MaxTierToBuy": 13
     },
     "MapFragmentsSettings": {
-      "Enabled": false,
-      "MaximumFragments": 3,
-      "MapFragments": []
+      "Enabled": true,
+      "MaximumFragments": 5,
+      "MapFragments": [
+        {
+          "Enabled": false,
+          "Name": "Harbinger Scarab",
+          "Limit": 2
+        },
+        {
+          "Enabled": false,
+          "Name": "Harbinger Scarab of Obelisks",
+          "Limit": 1
+        },
+        {
+          "Enabled": false,
+          "Name": "Harbinger Scarab of Regency",
+          "Limit": 1
+        },
+        {
+          "Enabled": false,
+          "Name": "Harbinger Scarab of Warhoards",
+          "Limit": 1
+        },
+        {
+          "Enabled": false,
+          "Name": "Essence Scarab",
+          "Limit": 3
+        },
+        {
+          "Enabled": false,
+          "Name": "Essence Scarab of Stability",
+          "Limit": 1
+        },
+        {
+          "Enabled": false,
+          "Name": "Essence Scarab of Ascent",
+          "Limit": 1
+        },
+        {
+          "Enabled": true,
+          "Name": "Bestiary Scarab of Duplicating",
+          "Limit": 1
+        },
+        {
+          "Enabled": true,
+          "Name": "Bestiary Scarab of the Herd",
+          "Limit": 2
+        },
+        {
+          "Enabled": true,
+          "Name": "Sulphite Scarab",
+          "Limit": 1
+        }
+      ]
     },
     "MapDeviceModsSettings": {
-      "Enabled": false,
-      "ModName": "Increased Quantity"
+      "Enabled": true,
+      "ModName": "Heist"
     }
   },
   "TradeSettings": {
     "GeneralTradeSettings": {
       "MessageDelay": 5,
-      "WaitForInvite": 30,
+      "WaitForInvite": 45,
       "AcceptInviteDelay": 1000,
       "InviteTimeoutBlTime": 300,
       "WaitForPlayer": 30,
@@ -15961,17 +16500,28 @@
       "AcceptTradeDelay": 1,
       "WaitForTradeTimeout": 12,
       "TradeAttempts": 3,
-      "TradeAttemptDelay": 20,
-      "TradeTimeTimeout": 45,
+      "TradeAttemptDelay": 45,
+      "TradeTimeTimeout": 60,
       "AcceptedBlTime": 60,
       "CanceledBlTime": 300,
       "UpdateOffersDelay": 300,
       "FastMoveDelay": 50,
-      "DivinePrice": 0
+      "DivinePrice": 214
     },
     "BulkExchangeSettings": {
-      "Enabled": false,
-      "BulkExchangeTriggers": []
+      "Enabled": true,
+      "BulkExchangeTriggers": [
+        {
+          "Enabled": true,
+          "Your": "Chaos Orb",
+          "Other": "Strand Map (Tier 16)",
+          "Ratio": 8.0,
+          "Stock": 40,
+          "Type": 1,
+          "TriggerQuantity": 10,
+          "Quantity": 40
+        }
+      ]
     },
     "BuyItemsSettings": {
       "Enabled": false,
@@ -15979,10 +16529,2117 @@
     },
     "CurrencyExchangeSettings": {
       "Enabled": false,
-      "CancelOldOrders": false,
-      "OrdersExpiryTime": 60,
-      "BlacklistTime": 30,
-      "CurrencyExchangeOrders": []
+      "CancelOldOrders": true,
+      "OrdersExpiryTime": 20,
+      "BlacklistTime": 5,
+      "CurrencyExchangeOrders": [
+        {
+          "Enabled": false,
+          "Type": 1,
+          "Other": "Harbinger Scarab",
+          "Your": "Chaos Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 0,
+          "RatioModifier": 100,
+          "TriggerQuantity": 40,
+          "Quantity": 40,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 1,
+          "Other": "Harbinger Scarab of Obelisks",
+          "Your": "Chaos Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 0,
+          "RatioModifier": 100,
+          "TriggerQuantity": 20,
+          "Quantity": 20,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 1,
+          "Other": "Harbinger Scarab of Warhoards",
+          "Your": "Chaos Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 0,
+          "RatioModifier": 100,
+          "TriggerQuantity": 20,
+          "Quantity": 20,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 1,
+          "Other": "Harbinger Scarab of Regency",
+          "Your": "Chaos Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 0,
+          "RatioModifier": 100,
+          "TriggerQuantity": 20,
+          "Quantity": 20,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 1,
+          "Other": "Essence Scarab",
+          "Your": "Chaos Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 0,
+          "RatioModifier": 100,
+          "TriggerQuantity": 20,
+          "Quantity": 60,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 1,
+          "Other": "Essence Scarab of Ascent",
+          "Your": "Chaos Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 0,
+          "RatioModifier": 100,
+          "TriggerQuantity": 20,
+          "Quantity": 20,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 1,
+          "Other": "Essence Scarab of Stability",
+          "Your": "Chaos Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 0,
+          "RatioModifier": 100,
+          "TriggerQuantity": 20,
+          "Quantity": 20,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 1,
+          "Other": "Bestiary Scarab of Duplicating",
+          "Your": "Chaos Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 0,
+          "RatioModifier": 100,
+          "TriggerQuantity": 20,
+          "Quantity": 50,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 1,
+          "Other": "Bestiary Scarab of the Herd",
+          "Your": "Chaos Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 0,
+          "RatioModifier": 100,
+          "TriggerQuantity": 20,
+          "Quantity": 100,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 1,
+          "Other": "Sulphite Scarab",
+          "Your": "Chaos Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 0,
+          "RatioModifier": 100,
+          "TriggerQuantity": 20,
+          "Quantity": 50,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 1,
+          "Other": "Orb of Alchemy",
+          "Your": "Chaos Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 0,
+          "RatioModifier": 100,
+          "TriggerQuantity": 30,
+          "Quantity": 100,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 1,
+          "Other": "Orb of Scouring",
+          "Your": "Chaos Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 0,
+          "RatioModifier": 100,
+          "TriggerQuantity": 30,
+          "Quantity": 100,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 1,
+          "Other": "Divine Orb",
+          "Your": "Chaos Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 0,
+          "RatioModifier": 100,
+          "TriggerQuantity": 30,
+          "Quantity": 100,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Orb of Alteration",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 100,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Chromatic Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 100,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Jeweller's Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 300,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Orb of Fusing",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 300,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Vaal Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 100,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Regal Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 50,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Orb of Annulment",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 50,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Eldritch Chaos Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 2,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Eldritch Exalted Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 2,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Eldritch Orb of Annulment",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 2,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Lesser Eldritch Ember",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 50,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Lesser Eldritch Ichor",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 50,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Greater Eldritch Ember",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 50,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Greater Eldritch Ichor",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 50,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Grand Eldritch Ember",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 50,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Grand Eldritch Ichor",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 50,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Tainted Chromatic Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 10,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Tainted Jeweller's Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 10,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Tainted Armourer's Scrap",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 10,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Tainted Orb of Fusing",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 10,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Tainted Mythic Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 10,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Tainted Chaos Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 3,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Tainted Exalted Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 1,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Shrieking Essence of Hatred",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Deafening Essence of Hatred",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Shrieking Essence of Woe",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Deafening Essence of Woe",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Shrieking Essence of Greed",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Deafening Essence of Greed",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Shrieking Essence of Contempt",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Deafening Essence of Contempt",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Shrieking Essence of Sorrow",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Deafening Essence of Sorrow",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Shrieking Essence of Anger",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Deafening Essence of Anger",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Shrieking Essence of Torment",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Deafening Essence of Torment",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Shrieking Essence of Fear",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Deafening Essence of Fear",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Shrieking Essence of Suffering",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Deafening Essence of Suffering",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Shrieking Essence of Rage",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Deafening Essence of Rage",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Shrieking Essence of Wrath",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Deafening Essence of Wrath",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Shrieking Essence of Doubt",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Deafening Essence of Doubt",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Shrieking Essence of Anguish",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Deafening Essence of Anguish",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Shrieking Essence of Loathing",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Deafening Essence of Loathing",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Shrieking Essence of Spite",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Deafening Essence of Spite",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Shrieking Essence of Zeal",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Deafening Essence of Zeal",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Shrieking Essence of Misery",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Deafening Essence of Misery",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Shrieking Essence of Dread",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Deafening Essence of Dread",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Shrieking Essence of Scorn",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Deafening Essence of Scorn",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Shrieking Essence of Envy",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Deafening Essence of Envy",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Breach Scarab",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 20,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Breach Scarab of Snares",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 5,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Breach Scarab of Resonant Cascade",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 5,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Cartography Scarab of Escalation",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 5,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Cartography Scarab of Risk",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 5,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Cartography Scarab of the Multitude",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 10,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Cartography Scarab of Corruption",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 5,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Titanic Scarab",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 20,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Titanic Scarab of Treasures",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 20,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Titanic Scarab of Legend",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 20,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Bestiary Scarab",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 10,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Bestiary Scarab of Duplicating",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 10,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Bestiary Scarab of the Herd",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 10,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Divination Scarab of The Cloister",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 5,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Divination Scarab of Pilfering",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 5,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Divination Scarab of Plenty",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 5,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Ambush Scarab",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 20,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Ambush Scarab of Hidden Compartments",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 5,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Ambush Scarab of Potency",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 5,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Ambush Scarab of Containment",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 1,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Ambush Scarab of Discernment",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 2,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Legion Scarab",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 20,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Legion Scarab of Officers",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 5,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Legion Scarab of Command",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 5,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Legion Scarab of Eternal Conflict",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 5,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Abyss Scarab",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 20,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Abyss Scarab of Multitudes",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 5,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Abyss Scarab of Edifice",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 5,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Anarchy Scarab",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 20,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Anarchy Scarab of Gigantification",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 5,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Anarchy Scarab of Partnership",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 5,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Domination Scarab of Evolution",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 5,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Domination Scarab",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 20,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Ritual Scarab of Selectiveness",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 10,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Ritual Scarab of Wisps",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 5,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Ritual Scarab of Abundance",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 5,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Harvest Scarab of Cornucopia",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 1,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Harvest Scarab of Doubling",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 1,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Incursion Scarab of Invasion",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 5,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Incursion Scarab of Timelines",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 1,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Incursion Scarab of Champions",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 1,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Ultimatum Scarab of Dueling",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 1,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Ultimatum Scarab of Catalysing",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 1,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Delirium Scarab of Mania",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 5,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Delirium Scarab of Paranoia",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 5,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Delirium Scarab of Delusions",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 5,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Blight Scarab of Blooming",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 2,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Blight Scarab of Invigoration",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 2,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Scarab of Wisps",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 2,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Horned Scarab of Bloodlines",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 1,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": false,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Horned Scarab of Preservation",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 1,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Horned Scarab of Awakening",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 1,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Horned Scarab of Glittering",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 1,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Horned Scarab of Pandemonium",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 1,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Delirium Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 3,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Blacksmith's Delirium Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 3,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Armoursmith's Delirium Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 3,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Jeweller's Delirium Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 3,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Fine Delirium Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 3,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Diviner's Delirium Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 3,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Cartographer's Delirium Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 3,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Foreboding Delirium Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 3,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Whispering Delirium Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 3,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Singular Delirium Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 3,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Thaumaturge's Delirium Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 3,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Abyssal Delirium Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 3,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Obscured Delirium Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 3,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Fragmented Delirium Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 3,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Fossilised Delirium Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 3,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Timeless Delirium Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 3,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Blighted Delirium Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 3,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Skittering Delirium Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 3,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Simulacrum",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 3,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Valdo's Puzzle Box",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 97,
+          "TriggerQuantity": 3,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Voidborn Reliquary Key",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 97,
+          "TriggerQuantity": 1,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Divine Orb",
+          "Your": "Ancient Orb",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 100,
+          "TriggerQuantity": 30,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Divine Orb",
+          "Your": "Essence of Horror",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 97,
+          "TriggerQuantity": 10,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Divine Orb",
+          "Your": "Essence of Delirium",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 97,
+          "TriggerQuantity": 10,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Divine Orb",
+          "Your": "Essence of Hysteria",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 97,
+          "TriggerQuantity": 10,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Divine Orb",
+          "Your": "Essence of Insanity",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 97,
+          "TriggerQuantity": 10,
+          "Quantity": 800,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Remnant of Corruption",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 97,
+          "TriggerQuantity": 50,
+          "Quantity": 40,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Rogue's Marker",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 97,
+          "TriggerQuantity": 50000,
+          "Quantity": 50000,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Explorer's Scouting Report",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 50,
+          "Quantity": 100,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Singular Scouting Report",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 50,
+          "Quantity": 100,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Vaal Scouting Report",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 50,
+          "Quantity": 100,
+          "AcceptUnfavourable": false
+        },
+        {
+          "Enabled": true,
+          "Type": 0,
+          "Other": "Chaos Orb",
+          "Your": "Influenced Scouting Report",
+          "GetRatio": 0,
+          "PayRatio": 0,
+          "PreferredRatio": 1,
+          "RatioModifier": 95,
+          "TriggerQuantity": 50,
+          "Quantity": 100,
+          "AcceptUnfavourable": false
+        }
+      ]
     }
   },
   "EquipSettings": {
@@ -18090,8 +20747,8 @@
     "CruelLabyrinthEnabled": true,
     "MercilessLabyrinthEnabled": true,
     "EternalLabyrinthEnabled": false,
-    "NormalLabyrinthLevel": 70,
-    "CruelLabyrinthLevel": 70,
+    "NormalLabyrinthLevel": 72,
+    "CruelLabyrinthLevel": 72,
     "MercilessLabyrinthLevel": 72,
     "ShouldChooseAscendancy": true,
     "AscendancyName": "Pathfinder"
@@ -18101,10 +20758,39 @@
     "Incubators": []
   },
   "BestiaryCleanupSettings": {
-    "Enabled": false,
-    "CleanupDelay": 30,
+    "Enabled": true,
+    "CleanupDelay": 1,
     "CleanupThreshold": 0,
-    "Monsters": []
+    "Monsters": [
+      {
+        "Enabled": true,
+        "Name": "Fenumal Plagued Arachnid"
+      },
+      {
+        "Enabled": true,
+        "Name": "Craicic Chimeral"
+      },
+      {
+        "Enabled": true,
+        "Name": "Wild Bristle Matron"
+      },
+      {
+        "Enabled": true,
+        "Name": "Wild Hellion Alpha"
+      },
+      {
+        "Enabled": true,
+        "Name": "Vivid Watcher"
+      },
+      {
+        "Enabled": true,
+        "Name": "Vivid Vulture"
+      },
+      {
+        "Enabled": true,
+        "Name": "Black Mórrigan"
+      }
+    ]
   },
   "LatencyHandlerSettings": {
     "Enabled": true,
@@ -18125,7 +20811,36 @@
   },
   "ItemiseBeastsSettings": {
     "Enabled": false,
-    "Monsters": []
+    "Monsters": [
+      {
+        "Enabled": true,
+        "Name": "Fenumal Plagued Arachnid"
+      },
+      {
+        "Enabled": true,
+        "Name": "Craicic Chimeral"
+      },
+      {
+        "Enabled": true,
+        "Name": "Wild Bristle Matron"
+      },
+      {
+        "Enabled": true,
+        "Name": "Wild Hellion Alpha"
+      },
+      {
+        "Enabled": true,
+        "Name": "Vivid Watcher"
+      },
+      {
+        "Enabled": true,
+        "Name": "Vivid Vulture"
+      },
+      {
+        "Enabled": true,
+        "Name": "Black Mórrigan"
+      }
+    ]
   },
   "DeleteFromStashSettings": {
     "Enabled": false,
@@ -19713,7 +22428,18 @@
   },
   "LevelSkillGemsSettings": {
     "Enabled": true,
-    "SkillGemsSettings": []
+    "SkillGemsSettings": [
+      {
+        "Enabled": true,
+        "SkillGemName": "Hextouch Support",
+        "MaxLevel": 1
+      },
+      {
+        "Enabled": true,
+        "SkillGemName": "Temporal Chains",
+        "MaxLevel": 1
+      }
+    ]
   },
   "MainInventoryRestockSettings": {
     "Enabled": true,
@@ -19933,6 +22659,114 @@
         "InventoryPositionX": 11,
         "InventoryPositionY": 4,
         "Quantity": 40
+      },
+      {
+        "Enabled": true,
+        "ItemRule": {
+          "Enabled": false,
+          "Name": [],
+          "Metadata": [],
+          "IconPath": [],
+          "BaseItemType": "Remnant of Corruption",
+          "ItemClass": "",
+          "Rarity": {
+            "Comparsion": 1,
+            "Value": 0
+          },
+          "Sockets": {
+            "R": 0,
+            "G": 0,
+            "B": 0,
+            "W": 0,
+            "Total": {
+              "Min": 0,
+              "Max": 0
+            }
+          },
+          "Links": {
+            "R": 0,
+            "G": 0,
+            "B": 0,
+            "W": 0,
+            "Total": {
+              "Min": 0,
+              "Max": 0
+            }
+          },
+          "ItemLevel": {
+            "Min": 0,
+            "Max": 0
+          },
+          "RequiredLevel": {
+            "Min": 0,
+            "Max": 0
+          },
+          "PlayerLevel": {
+            "Min": 0,
+            "Max": 100
+          },
+          "Quality": {
+            "Comparsion": 1,
+            "Value": 0
+          },
+          "MapTier": {
+            "Comparsion": 1,
+            "Value": 0
+          },
+          "Stats": [],
+          "Weapon": {
+            "Damage": {
+              "Min": 0,
+              "Max": 0
+            },
+            "AttackSpeed": {
+              "Min": 0.0,
+              "Max": 0.0
+            },
+            "PhysicalDPS": {
+              "Min": 0,
+              "Max": 0
+            },
+            "ElementalDPS": {
+              "Min": 0,
+              "Max": 0
+            },
+            "DPS": {
+              "Min": 0,
+              "Max": 0
+            },
+            "Critical": {
+              "Min": 0.0,
+              "Max": 0.0
+            }
+          },
+          "Armour": {
+            "Armour": {
+              "Min": 0,
+              "Max": 0
+            },
+            "Evasion": {
+              "Min": 0,
+              "Max": 0
+            },
+            "EnergyShield": {
+              "Min": 0,
+              "Max": 0
+            }
+          },
+          "IsIdentified": {
+            "Comparsion": 0
+          },
+          "IsCorruprted": {
+            "Comparsion": 0
+          },
+          "IsMirrored": {
+            "Comparsion": 0
+          }
+        },
+        "InventoryPositionX": 9,
+        "InventoryPositionY": 4,
+        "Quantity": 9
       }
     ]
   }
